@@ -1,0 +1,19 @@
+{
+  "id": "aasnegha/simple-eda-to-mlmodel-titan",
+  "id_no": 37149247,
+  "title": "Simple_EDA_to_MLmodel_titan",
+  "code_file": "simple-eda-to-mlmodel-titan.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "titanic"
+  ],
+  "model_sources": []
+}

@@ -1,0 +1,21 @@
+{
+  "id": "aagyapalkaur/beginner-data-augmentation-resnet50-1-0-f1",
+  "id_no": 45328978,
+  "title": "\ud83d\udc69\u200d\ud83c\udf93Beginner|Data_Augmentation\ud83d\uddbc\ufe0f|ResNet50|1.0_F1",
+  "code_file": "beginner-data-augmentation-resnet50-1-0-f1.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [
+    "marquis03/cats-and-dogs"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

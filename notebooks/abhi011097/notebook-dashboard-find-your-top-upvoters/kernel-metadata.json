@@ -1,0 +1,22 @@
+{
+  "id": "abhi011097/notebook-dashboard-find-your-top-upvoters",
+  "id_no": 34106900,
+  "title": "Notebook_Dashboard|Find_Your_Top_UpVoters",
+  "code_file": "notebook-dashboard-find-your-top-upvoters.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "plotly",
+    "scheduled"
+  ],
+  "dataset_sources": [
+    "kaggle/meta-kaggle"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

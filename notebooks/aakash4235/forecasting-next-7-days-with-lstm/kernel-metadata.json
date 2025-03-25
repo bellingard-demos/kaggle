@@ -1,0 +1,19 @@
+{
+  "id": "aakash4235/forecasting-next-7-days-with-lstm",
+  "id_no": 30175189,
+  "title": "forecasting next 7 days with LSTM",
+  "code_file": "forecasting-next-7-days-with-lstm.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "borismarjanovic/price-volume-data-for-all-us-stocks-etfs"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

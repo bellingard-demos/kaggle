@@ -1,0 +1,19 @@
+{
+  "id": "a5medashraf/diabetes-classification-using-ml-models",
+  "id_no": 33989152,
+  "title": "Diabetes Classification using ML models",
+  "code_file": "diabetes-classification-using-ml-models.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "uciml/pima-indians-diabetes-database"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

@@ -1,0 +1,21 @@
+{
+  "id": "aadhi444/basic-functions-for-eda",
+  "id_no": 1019927,
+  "title": "Basic functions for EDA :)",
+  "code_file": "basic-functions-for-eda.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "data visualization",
+    "exploratory data analysis",
+    "beginner"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

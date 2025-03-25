@@ -1,0 +1,22 @@
+{
+  "id": "aasthavashist/fraud-transactions",
+  "id_no": 20866606,
+  "title": "Fraud Transactions",
+  "code_file": "fraud-transactions.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "pandas"
+  ],
+  "dataset_sources": [
+    "mlg-ulb/creditcardfraud",
+    "isaikumar/creditcardfraud"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

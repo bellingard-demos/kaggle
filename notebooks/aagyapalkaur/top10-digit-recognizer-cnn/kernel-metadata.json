@@ -1,0 +1,21 @@
+{
+  "id": "aagyapalkaur/top10-digit-recognizer-cnn",
+  "id_no": 44422576,
+  "title": "\ud83d\ude80Top10%\ud83d\ude80|Digit_Recognizer|CNN",
+  "code_file": "top10-digit-recognizer-cnn.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "digit-recognizer"
+  ],
+  "model_sources": []
+}

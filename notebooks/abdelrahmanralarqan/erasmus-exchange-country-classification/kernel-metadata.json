@@ -1,0 +1,19 @@
+{
+  "id": "abdelrahmanralarqan/erasmus-exchange-country-classification",
+  "id_no": 34010635,
+  "title": "Erasmus+ Exchange Country Classification",
+  "code_file": "erasmus-exchange-country-classification.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "donjoeml/erasmus-mobility-statistics-2014-2019"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

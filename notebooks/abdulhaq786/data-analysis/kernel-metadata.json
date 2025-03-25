@@ -1,0 +1,19 @@
+{
+  "id": "abdulhaq786/data-analysis",
+  "id_no": 30493799,
+  "title": "Data Analysis",
+  "code_file": "data-analysis.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "muhammadadiltalay/imdb-video-games"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

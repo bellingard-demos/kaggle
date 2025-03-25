@@ -1,0 +1,19 @@
+{
+  "id": "a3amat02/minecraft-pirate-versions-eda",
+  "id_no": 37825157,
+  "title": "Minecraft Pirate Versions EDA",
+  "code_file": "minecraft-pirate-versions-eda.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "priyanshusethi/minecraft-piracy-dataset"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

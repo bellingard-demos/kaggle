@@ -1,0 +1,19 @@
+{
+  "id": "aashidutt3/eda-mcdonald-s-india-menu-nutrition-facts",
+  "id_no": 29169696,
+  "title": "\ud83c\udf54\ud83c\udf5fEDA: McDonald's India- Menu Nutrition Facts",
+  "code_file": "eda-mcdonald-s-india-menu-nutrition-facts.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "deepcontractor/mcdonalds-india-menu-nutrition-facts"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

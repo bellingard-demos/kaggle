@@ -1,0 +1,20 @@
+{
+  "id": "abdelhadymohammed/superstores-eda-with-different-regression-models",
+  "id_no": 43417339,
+  "title": "Superstores EDA with different regression models",
+  "code_file": "superstores-eda-with-different-regression-models.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "vivek468/superstore-dataset-final",
+    "pompelmo/usa-states-geojson"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

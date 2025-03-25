@@ -1,0 +1,21 @@
+{
+  "id": "a3amat02/vehicle-classification-95-accuracy",
+  "id_no": 46991545,
+  "title": "Vehicle Classification 95% accuracy",
+  "code_file": "vehicle-classification-95-accuracy.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [
+    "marquis03/vehicle-classification"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

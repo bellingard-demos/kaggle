@@ -1,0 +1,23 @@
+{
+  "id": "aakashpd96/mall-customer-segmentation-using-k-means",
+  "id_no": 16477652,
+  "title": "Mall Customer Segmentation using k-means",
+  "code_file": "mall-customer-segmentation-using-k-means.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "pandas",
+    "seaborn",
+    "sklearn"
+  ],
+  "dataset_sources": [
+    "vjchoudhary7/customer-segmentation-tutorial-in-python"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

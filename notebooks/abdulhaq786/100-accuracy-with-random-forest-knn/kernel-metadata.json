@@ -1,0 +1,22 @@
+{
+  "id": "abdulhaq786/100-accuracy-with-random-forest-knn",
+  "id_no": 29724879,
+  "title": "100% accuracy with Random Forest ,KNN",
+  "code_file": "100-accuracy-with-random-forest-knn.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "decision tree",
+    "random forest"
+  ],
+  "dataset_sources": [
+    "outofskills/driving-behavior"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

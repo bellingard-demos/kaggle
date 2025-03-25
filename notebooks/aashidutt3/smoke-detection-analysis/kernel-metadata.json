@@ -1,0 +1,19 @@
+{
+  "id": "aashidutt3/smoke-detection-analysis",
+  "id_no": 29889019,
+  "title": "\ud83d\udd25Smoke Detection Analysis",
+  "code_file": "smoke-detection-analysis.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "deepcontractor/smoke-detection-dataset"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

@@ -1,0 +1,22 @@
+{
+  "id": "abedi756/regression-by-pycaret",
+  "id_no": 30519200,
+  "title": "Regression by PyCaret",
+  "code_file": "regression-by-pycaret.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "data visualization",
+    "model comparison",
+    "python",
+    "intermediate"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

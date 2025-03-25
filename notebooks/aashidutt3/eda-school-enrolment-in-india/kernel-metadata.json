@@ -1,0 +1,19 @@
+{
+  "id": "aashidutt3/eda-school-enrolment-in-india",
+  "id_no": 28295345,
+  "title": "EDA: School Enrolment in India",
+  "code_file": "eda-school-enrolment-in-india.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "kmldas/school-enrolment-in-india-by-age-gender-201320"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

@@ -1,0 +1,19 @@
+{
+  "id": "aashidutt3/eda-student-study-performance",
+  "id_no": 28376455,
+  "title": "EDA: Student Study performance",
+  "code_file": "eda-student-study-performance.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "nabilajahan/student-study-performance"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

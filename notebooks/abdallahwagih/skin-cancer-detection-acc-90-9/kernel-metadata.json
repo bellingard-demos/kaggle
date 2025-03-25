@@ -1,0 +1,19 @@
+{
+  "id": "abdallahwagih/skin-cancer-detection-acc-90-9",
+  "id_no": 35704257,
+  "title": "Skin Cancer Detection | Acc: 90.9%",
+  "code_file": "skin-cancer-detection-acc-90-9.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [
+    "fanconic/skin-cancer-malignant-vs-benign"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

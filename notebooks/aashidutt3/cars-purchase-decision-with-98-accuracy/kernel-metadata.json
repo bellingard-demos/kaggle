@@ -1,0 +1,19 @@
+{
+  "id": "aashidutt3/cars-purchase-decision-with-98-accuracy",
+  "id_no": 29244858,
+  "title": "\ud83d\ude97Cars - Purchase Decision with 98% accuracy",
+  "code_file": "cars-purchase-decision-with-98-accuracy.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "gabrielsantello/cars-purchase-decision-dataset"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

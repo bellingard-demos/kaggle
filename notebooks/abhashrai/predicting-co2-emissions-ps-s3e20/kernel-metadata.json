@@ -1,0 +1,26 @@
+{
+  "id": "abhashrai/predicting-co2-emissions-ps-s3e20",
+  "id_no": 41760463,
+  "title": "Predicting CO2 Emissions | PS-S3E20",
+  "code_file": "predicting-co2-emissions-ps-s3e20.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "regression",
+    "model comparison",
+    "xgboost",
+    "tabular",
+    "beginner",
+    "gpu"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "playground-series-s3e20"
+  ],
+  "model_sources": []
+}

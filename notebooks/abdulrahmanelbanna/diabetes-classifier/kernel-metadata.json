@@ -1,0 +1,19 @@
+{
+  "id": "abdulrahmanelbanna/diabetes-classifier",
+  "id_no": 43284896,
+  "title": "Diabetes Classifier",
+  "code_file": "diabetes-classifier.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "abdulrahmanelbanna/diabetes"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

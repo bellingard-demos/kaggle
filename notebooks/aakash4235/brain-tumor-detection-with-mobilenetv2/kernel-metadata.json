@@ -1,0 +1,22 @@
+{
+  "id": "aakash4235/brain-tumor-detection-with-mobilenetv2",
+  "id_no": 15267916,
+  "title": "brain_tumor_detection with MobileNetV2",
+  "code_file": "brain-tumor-detection-with-mobilenetv2.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "cv2",
+    "matplotlib"
+  ],
+  "dataset_sources": [
+    "navoneel/brain-mri-images-for-brain-tumor-detection"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

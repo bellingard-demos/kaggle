@@ -1,0 +1,20 @@
+{
+  "id": "aakash90/hackearth-imageclassication-fast-ai-95-beginner",
+  "id_no": 14346124,
+  "title": "Hackearth_Imageclassication_ Fast.ai_ 95%_Beginner",
+  "code_file": "hackearth-imageclassication-fast-ai-95-beginner.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "",
+    "puneet6060/intel-image-classification"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

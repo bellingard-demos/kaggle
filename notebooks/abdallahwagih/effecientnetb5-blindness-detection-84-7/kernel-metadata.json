@@ -1,0 +1,22 @@
+{
+  "id": "abdallahwagih/effecientnetb5-blindness-detection-84-7",
+  "id_no": 33207342,
+  "title": "EffecientNetB5-Blindness-Detection-84.7",
+  "code_file": "effecientnetb5-blindness-detection-84-7.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "efficientnet-b5",
+    "diseases"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "aptos2019-blindness-detection"
+  ],
+  "model_sources": []
+}

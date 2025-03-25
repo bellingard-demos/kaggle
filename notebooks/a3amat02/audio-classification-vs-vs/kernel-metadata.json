@@ -1,0 +1,19 @@
+{
+  "id": "a3amat02/audio-classification-vs-vs",
+  "id_no": 39024944,
+  "title": "Audio Classification \ud83d\ude80 \ud83d\udc36vs\ud83d\udc31vs\ud83e\udd9c",
+  "code_file": "audio-classification-vs-vs.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "warcoder/cats-vs-dogs-vs-birds-audio-classification"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

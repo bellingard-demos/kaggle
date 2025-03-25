@@ -1,0 +1,19 @@
+{
+  "id": "abdumaa/similarity-search-solution-template",
+  "id_no": 8807169,
+  "title": "Similarity Search Solution Template",
+  "code_file": "similarity-search-solution-template.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "similarity-search-project"
+  ],
+  "model_sources": []
+}

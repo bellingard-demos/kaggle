@@ -1,0 +1,19 @@
+{
+  "id": "a3amat02/world-population-eda",
+  "id_no": 39589672,
+  "title": "World Population EDA",
+  "code_file": "world-population-eda.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "rajkumarpandey02/world-most-populated-city-2022-to-2023"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

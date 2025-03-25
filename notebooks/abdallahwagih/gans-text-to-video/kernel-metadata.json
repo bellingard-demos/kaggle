@@ -1,0 +1,17 @@
+{
+  "id": "abdallahwagih/gans-text-to-video",
+  "id_no": 45606438,
+  "title": "GANs - Text to Video",
+  "code_file": "gans-text-to-video.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

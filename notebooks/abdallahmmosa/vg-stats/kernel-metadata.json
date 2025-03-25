@@ -1,0 +1,19 @@
+{
+  "id": "abdallahmmosa/vg-stats",
+  "id_no": 31499612,
+  "title": "vg-stats",
+  "code_file": "vg-stats.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "gregorut/videogamesales"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

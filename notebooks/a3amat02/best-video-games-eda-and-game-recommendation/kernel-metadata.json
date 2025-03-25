@@ -1,0 +1,19 @@
+{
+  "id": "a3amat02/best-video-games-eda-and-game-recommendation",
+  "id_no": 38732823,
+  "title": "Best video games EDA and Game Recommendation",
+  "code_file": "best-video-games-eda-and-game-recommendation.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "faisaljanjua0555/best-video-games-of-all-time"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

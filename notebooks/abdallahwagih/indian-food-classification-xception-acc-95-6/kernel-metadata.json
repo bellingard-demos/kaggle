@@ -1,0 +1,19 @@
+{
+  "id": "abdallahwagih/indian-food-classification-xception-acc-95-6",
+  "id_no": 36583362,
+  "title": "Indian Food Classification | Xception | Acc: 95.6%",
+  "code_file": "indian-food-classification-xception-acc-95-6.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [
+    "deeprodge/indian-food-images-12-different-dishes"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

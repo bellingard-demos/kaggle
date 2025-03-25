@@ -1,0 +1,19 @@
+{
+  "id": "abdallahwagih/bitcoin-stock-prediction-using-lstm",
+  "id_no": 32285520,
+  "title": "BitCoin-Stock-Prediction-Using-LSTM",
+  "code_file": "bitcoin-stock-prediction-using-lstm.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [
+    "abhishek14398/bitcoin-prediction-dataset-bullrun"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

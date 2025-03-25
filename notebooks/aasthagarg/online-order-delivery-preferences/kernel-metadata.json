@@ -1,0 +1,21 @@
+{
+  "id": "aasthagarg/online-order-delivery-preferences",
+  "id_no": 16690547,
+  "title": "Online order delivery preferences",
+  "code_file": "online-order-delivery-preferences.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "restaurants"
+  ],
+  "dataset_sources": [
+    "benroshan/online-food-delivery-preferencesbangalore-region"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

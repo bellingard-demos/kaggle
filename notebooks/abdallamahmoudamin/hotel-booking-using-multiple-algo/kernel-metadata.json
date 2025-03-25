@@ -1,0 +1,19 @@
+{
+  "id": "abdallamahmoudamin/hotel-booking-using-multiple-algo",
+  "id_no": 24318637,
+  "title": "Hotel Booking using multiple algo",
+  "code_file": "hotel-booking-using-multiple-algo.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "mojtaba142/hotel-booking"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "aarons0/palmer-penguin",
+  "id_no": 16541041,
+  "title": "Palmer Penguin",
+  "code_file": "palmer-penguin.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "numpy",
+    "pandas",
+    "xgboost"
+  ],
+  "dataset_sources": [
+    "parulpandey/palmer-archipelago-antarctica-penguin-data"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

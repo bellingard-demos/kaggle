@@ -1,0 +1,19 @@
+{
+  "id": "abdullahkhan098/decision-tree-algorithm",
+  "id_no": 47253211,
+  "title": "Decision Tree Algorithm",
+  "code_file": "decision-tree-algorithm.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "dhgupta/heartdiseasedata"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

@@ -1,0 +1,19 @@
+{
+  "id": "abdulkareemabunabhan/dataset2-visualization",
+  "id_no": 38663812,
+  "title": "dataset2.visualization",
+  "code_file": "dataset2-visualization.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "shivamb/netflix-shows"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

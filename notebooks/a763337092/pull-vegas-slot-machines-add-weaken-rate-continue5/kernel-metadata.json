@@ -1,0 +1,19 @@
+{
+  "id": "a763337092/pull-vegas-slot-machines-add-weaken-rate-continue5",
+  "id_no": 13893824,
+  "title": "pull_vegas_slot_machines add weaken rate continue5",
+  "code_file": "pull-vegas-slot-machines-add-weaken-rate-continue5.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "santa-2020"
+  ],
+  "model_sources": []
+}

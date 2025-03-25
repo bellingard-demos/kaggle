@@ -1,0 +1,19 @@
+{
+  "id": "abdallahwagih/vehicle-detection-cnn-acc-99-3",
+  "id_no": 35701298,
+  "title": "Vehicle Detection | CNN | Acc: 99.3%",
+  "code_file": "vehicle-detection-cnn-acc-99-3.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [
+    "brsdincer/vehicle-detection-image-set"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

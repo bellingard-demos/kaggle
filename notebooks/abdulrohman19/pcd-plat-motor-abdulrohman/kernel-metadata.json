@@ -1,0 +1,23 @@
+{
+  "id": "abdulrohman19/pcd-plat-motor-abdulrohman",
+  "id_no": 20058627,
+  "title": "pcd plat motor - Abdulrohman",
+  "code_file": "pcd-plat-motor-abdulrohman.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "cv2",
+    "matplotlib",
+    "numpy"
+  ],
+  "dataset_sources": [
+    "oddyvirgantara/plat-nomor"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

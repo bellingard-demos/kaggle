@@ -1,0 +1,30 @@
+{
+  "id": "aadarshvelu/telecom-client-drop-classification",
+  "id_no": 16973563,
+  "title": "Telecom Client Drop Classification",
+  "code_file": "telecom-client-drop-classification.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "decision tree",
+    "deep learning",
+    "classification",
+    "neural networks",
+    "data visualization",
+    "matplotlib",
+    "pandas",
+    "seaborn",
+    "sklearn",
+    "xgboost"
+  ],
+  "dataset_sources": [
+    ""
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

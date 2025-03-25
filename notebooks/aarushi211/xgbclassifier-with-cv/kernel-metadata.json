@@ -1,0 +1,19 @@
+{
+  "id": "aarushi211/xgbclassifier-with-cv",
+  "id_no": 41383997,
+  "title": "XGBClassifier with CV",
+  "code_file": "xgbclassifier-with-cv.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "icr-identify-age-related-conditions"
+  ],
+  "model_sources": []
+}

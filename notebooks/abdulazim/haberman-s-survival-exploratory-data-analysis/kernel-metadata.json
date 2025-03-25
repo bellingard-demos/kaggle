@@ -1,0 +1,26 @@
+{
+  "id": "abdulazim/haberman-s-survival-exploratory-data-analysis",
+  "id_no": 15749096,
+  "title": "Haberman-s-Survival-Exploratory-Data-Analysis",
+  "code_file": "haberman-s-survival-exploratory-data-analysis.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "exploratory data analysis",
+    "pandas",
+    "cancer",
+    "matplotlib",
+    "numpy",
+    "seaborn"
+  ],
+  "dataset_sources": [
+    "gilsousa/habermans-survival-data-set"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

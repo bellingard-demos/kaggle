@@ -1,0 +1,19 @@
+{
+  "id": "abdulrahmanelbanna/iris-eda-probability-density",
+  "id_no": 44041389,
+  "title": "iris EDA (probability & density)",
+  "code_file": "iris-eda-probability-density.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "uciml/iris"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

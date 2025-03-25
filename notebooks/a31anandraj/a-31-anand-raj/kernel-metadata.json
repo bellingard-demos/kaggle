@@ -1,0 +1,19 @@
+{
+  "id": "a31anandraj/a-31-anand-raj",
+  "id_no": 24976857,
+  "title": "A_31_Anand Raj",
+  "code_file": "a-31-anand-raj.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [
+    "uciml/iris"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

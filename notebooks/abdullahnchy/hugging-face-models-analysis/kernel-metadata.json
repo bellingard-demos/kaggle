@@ -1,0 +1,19 @@
+{
+  "id": "abdullahnchy/hugging-face-models-analysis",
+  "id_no": 47111997,
+  "title": "Hugging Face Models Analysis",
+  "code_file": "hugging-face-models-analysis.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "atmragib/hugging-face-models"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

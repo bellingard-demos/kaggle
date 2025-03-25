@@ -1,0 +1,19 @@
+{
+  "id": "aashidutt3/eda-list-of-all-american-movies",
+  "id_no": 29112605,
+  "title": "\ud83c\udfacEDA: List of All American Movies",
+  "code_file": "eda-list-of-all-american-movies.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "paritosh712/movies-list-of-all-american-movies-20082021"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

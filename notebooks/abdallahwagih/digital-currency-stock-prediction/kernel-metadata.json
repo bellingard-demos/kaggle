@@ -1,0 +1,19 @@
+{
+  "id": "abdallahwagih/digital-currency-stock-prediction",
+  "id_no": 32288892,
+  "title": "Digital-Currency-Stock-Prediction",
+  "code_file": "digital-currency-stock-prediction.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [
+    "ahmedadam415/digital-currency-time-series"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

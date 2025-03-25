@@ -1,0 +1,19 @@
+{
+  "id": "aarontanjaya/simple-mlp-ann-from-scratch",
+  "id_no": 18744305,
+  "title": "Simple MLP ANN from Scratch ",
+  "code_file": "simple-mlp-ann-from-scratch.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "titanic"
+  ],
+  "model_sources": []
+}

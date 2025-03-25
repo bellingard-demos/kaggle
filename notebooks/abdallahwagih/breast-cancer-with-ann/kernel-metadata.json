@@ -1,0 +1,21 @@
+{
+  "id": "abdallahwagih/breast-cancer-with-ann",
+  "id_no": 43462750,
+  "title": "Breast Cancer with ANN",
+  "code_file": "breast-cancer-with-ann.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "deep learning"
+  ],
+  "dataset_sources": [
+    "uciml/breast-cancer-wisconsin-data"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

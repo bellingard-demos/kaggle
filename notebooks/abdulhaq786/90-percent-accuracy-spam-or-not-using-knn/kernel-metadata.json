@@ -1,0 +1,19 @@
+{
+  "id": "abdulhaq786/90-percent-accuracy-spam-or-not-using-knn",
+  "id_no": 30046738,
+  "title": "90 percent Accuracy Spam or not using KNN",
+  "code_file": "90-percent-accuracy-spam-or-not-using-knn.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "somesh24/spambase"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

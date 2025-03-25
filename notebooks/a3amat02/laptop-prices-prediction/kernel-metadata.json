@@ -1,0 +1,19 @@
+{
+  "id": "a3amat02/laptop-prices-prediction",
+  "id_no": 38242187,
+  "title": "Laptop Prices Prediction",
+  "code_file": "laptop-prices-prediction.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "anubhavgoyal10/laptop-prices-dataset"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

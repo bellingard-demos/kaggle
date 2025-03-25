@@ -1,0 +1,19 @@
+{
+  "id": "abdelrahmanrabah/roberta-with-pytorch-lightning-for-sentiments",
+  "id_no": 38410933,
+  "title": "RoBERTa with PyTorch Lightning\u26a1for Sentiments",
+  "code_file": "roberta-with-pytorch-lightning-for-sentiments.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [
+    "kazanova/sentiment140"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

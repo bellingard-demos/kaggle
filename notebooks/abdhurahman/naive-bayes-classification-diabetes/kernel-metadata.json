@@ -1,0 +1,19 @@
+{
+  "id": "abdhurahman/naive-bayes-classification-diabetes",
+  "id_no": 40078629,
+  "title": "Naive Bayes Classification Diabetes",
+  "code_file": "naive-bayes-classification-diabetes.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "jillanisofttech/diabetes-disease-updated-dataset"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

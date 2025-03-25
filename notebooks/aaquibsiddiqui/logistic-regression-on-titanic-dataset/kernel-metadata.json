@@ -1,0 +1,24 @@
+{
+  "id": "aaquibsiddiqui/logistic-regression-on-titanic-dataset",
+  "id_no": 18124927,
+  "title": "Logistic Regression on Titanic Dataset",
+  "code_file": "logistic-regression-on-titanic-dataset.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "matplotlib",
+    "pandas",
+    "plotly",
+    "seaborn"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "titanic"
+  ],
+  "model_sources": []
+}

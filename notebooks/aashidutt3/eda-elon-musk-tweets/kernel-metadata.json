@@ -1,0 +1,19 @@
+{
+  "id": "aashidutt3/eda-elon-musk-tweets",
+  "id_no": 30625531,
+  "title": "\ud83d\udcf1\ud83e\udd9cEDA: Elon Musk Tweets",
+  "code_file": "eda-elon-musk-tweets.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "yasirabdaali/elon-musk-tweets-dataset-17k"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

@@ -1,0 +1,19 @@
+{
+  "id": "abdelhadymohammed/mall-customer-clustering",
+  "id_no": 42987212,
+  "title": "Mall_customer_clustering",
+  "code_file": "mall-customer-clustering.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "sindraanthony9985/marketing-data-for-a-supermarket-in-united-states"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

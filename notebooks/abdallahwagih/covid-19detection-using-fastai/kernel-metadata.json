@@ -1,0 +1,19 @@
+{
+  "id": "abdallahwagih/covid-19detection-using-fastai",
+  "id_no": 43964913,
+  "title": "Covid-19Detection using Fastai",
+  "code_file": "covid-19detection-using-fastai.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [
+    "plameneduardo/sarscov2-ctscan-dataset"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

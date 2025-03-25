@@ -1,0 +1,19 @@
+{
+  "id": "aashitagrawal/column-transformer",
+  "id_no": 38885427,
+  "title": "\ud83d\udd25\ud83d\udd25Column Transformer",
+  "code_file": "column-transformer.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "aibuzz/covid-toy-dataset"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

@@ -1,0 +1,19 @@
+{
+  "id": "aakash4235/simple-cnn-model-cat-and-dog-classification",
+  "id_no": 12834640,
+  "title": "simple CNN model - cat and dog classification",
+  "code_file": "simple-cnn-model-cat-and-dog-classification.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [
+    "tongpython/cat-and-dog"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

@@ -1,0 +1,19 @@
+{
+  "id": "abdoashraf90/salary-noteook",
+  "id_no": 44328717,
+  "title": "Salary_noteook",
+  "code_file": "salary-noteook.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [
+    "zedataweaver/global-salary-data"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

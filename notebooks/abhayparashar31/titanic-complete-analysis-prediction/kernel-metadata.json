@@ -1,0 +1,25 @@
+{
+  "id": "abhayparashar31/titanic-complete-analysis-prediction",
+  "id_no": 26456146,
+  "title": "Titanic Complete Analysis + Prediction",
+  "code_file": "titanic-complete-analysis-prediction.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "exploratory data analysis",
+    "binary classification",
+    "classification",
+    "data visualization",
+    "random forest"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "titanic"
+  ],
+  "model_sources": []
+}

@@ -1,0 +1,21 @@
+{
+  "id": "abdallahwagih/efficientnetb3-paddy-disease-competitions-98",
+  "id_no": 34157161,
+  "title": "efficientnetb3-paddy-disease-competitions-98%",
+  "code_file": "efficientnetb3-paddy-disease-competitions-98.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "paddy-disease-classification"
+  ],
+  "model_sources": []
+}

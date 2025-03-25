@@ -1,0 +1,21 @@
+{
+  "id": "abdallamahmoudamin/cats-dogs-fully-cnn-explination",
+  "id_no": 42673823,
+  "title": "Cats&dogs Fully Cnn Explination",
+  "code_file": "cats-dogs-fully-cnn-explination.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "dogs-vs-cats"
+  ],
+  "model_sources": []
+}

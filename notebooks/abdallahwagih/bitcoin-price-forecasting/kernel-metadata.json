@@ -1,0 +1,19 @@
+{
+  "id": "abdallahwagih/bitcoin-price-forecasting",
+  "id_no": 44530446,
+  "title": "BitCoin Price Forecasting ",
+  "code_file": "bitcoin-price-forecasting.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [
+    ""
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

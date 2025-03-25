@@ -1,0 +1,19 @@
+{
+  "id": "abdallahwagih/eye-diseases-classification-acc-93-8",
+  "id_no": 35701935,
+  "title": "Eye Diseases Classification | Acc: 93.8 %",
+  "code_file": "eye-diseases-classification-acc-93-8.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [
+    "gunavenkatdoddi/eye-diseases-classification"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "abdullahkavakli/stock-market-prediction-using-rnn",
+  "id_no": 37100832,
+  "title": "\ud83d\udcc8 Stock Market Prediction Using RNN",
+  "code_file": "stock-market-prediction-using-rnn.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [
+    "aaron7sun/stocknews",
+    "szrlee/stock-time-series-20050101-to-20171231",
+    "borismarjanovic/price-volume-data-for-all-us-stocks-etfs",
+    "rhesamulyadi/idx-30-stocks-price-history",
+    "camnugent/sandp500"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

@@ -1,0 +1,24 @@
+{
+  "id": "aakashverma8900/exploring-the-voyage-titanic-with-adaboost",
+  "id_no": 14771527,
+  "title": "Exploring the voyage (Titanic with AdaBoost).",
+  "code_file": "exploring-the-voyage-titanic-with-adaboost.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "matplotlib",
+    "numpy",
+    "pandas",
+    "seaborn"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "titanic"
+  ],
+  "model_sources": []
+}

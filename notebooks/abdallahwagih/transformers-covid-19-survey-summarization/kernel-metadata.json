@@ -1,0 +1,19 @@
+{
+  "id": "abdallahwagih/transformers-covid-19-survey-summarization",
+  "id_no": 45477722,
+  "title": "Transformers - Covid-19 Survey Summarization ",
+  "code_file": "transformers-covid-19-survey-summarization.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [
+    "meeratif/covid-19-survey-of-national-statistical-offices"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

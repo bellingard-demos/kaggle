@@ -1,0 +1,23 @@
+{
+  "id": "abdalrahmanashour/notebookc7d1f1f10c",
+  "id_no": 15789349,
+  "title": "notebookc7d1f1f10c",
+  "code_file": "notebookc7d1f1f10c.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "gpu",
+    "matplotlib",
+    "seaborn"
+  ],
+  "dataset_sources": [
+    "jonathanoheix/face-expression-recognition-dataset"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

@@ -1,0 +1,21 @@
+{
+  "id": "abdulhaq786/vgg19",
+  "id_no": 47240102,
+  "title": "VGG19",
+  "code_file": "vgg19.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [
+    "jayaprakashpondy/wheat-leaf-disease"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

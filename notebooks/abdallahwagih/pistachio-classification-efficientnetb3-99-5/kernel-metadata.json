@@ -1,0 +1,19 @@
+{
+  "id": "abdallahwagih/pistachio-classification-efficientnetb3-99-5",
+  "id_no": 34533825,
+  "title": "Pistachio Classification | EfficientNetB3 | 99.5%",
+  "code_file": "pistachio-classification-efficientnetb3-99-5.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [
+    "muratkokludataset/pistachio-image-dataset"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

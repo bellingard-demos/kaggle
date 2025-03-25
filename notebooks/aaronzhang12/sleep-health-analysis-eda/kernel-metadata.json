@@ -1,0 +1,19 @@
+{
+  "id": "aaronzhang12/sleep-health-analysis-eda",
+  "id_no": 41179872,
+  "title": "Sleep Health Analysis / EDA",
+  "code_file": "sleep-health-analysis-eda.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [
+    "uom190346a/sleep-health-and-lifestyle-dataset"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

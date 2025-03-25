@@ -1,0 +1,19 @@
+{
+  "id": "aashidutt3/eda-usa-container-ports",
+  "id_no": 28524128,
+  "title": "EDA: USA-container-ports",
+  "code_file": "eda-usa-container-ports.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "ryanjt/usacontainerports20002017"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

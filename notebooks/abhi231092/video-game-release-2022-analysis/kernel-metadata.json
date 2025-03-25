@@ -1,0 +1,22 @@
+{
+  "id": "abhi231092/video-game-release-2022-analysis",
+  "id_no": 34336092,
+  "title": "Video Game Release 2022 Analysis",
+  "code_file": "video-game-release-2022-analysis.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "video games",
+    "exploratory data analysis"
+  ],
+  "dataset_sources": [
+    "mattop/video-games-released-in-2022"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

@@ -1,0 +1,19 @@
+{
+  "id": "aagyapalkaur/bankruptcyprediction-beginners-eda-99-67-accuracy",
+  "id_no": 42331025,
+  "title": "BankruptcyPrediction\ud83c\udf93Beginners|EDA+99.67%Accuracy",
+  "code_file": "bankruptcyprediction-beginners-eda-99-67-accuracy.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "fedesoriano/company-bankruptcy-prediction"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

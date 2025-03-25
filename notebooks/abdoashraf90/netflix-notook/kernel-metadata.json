@@ -1,0 +1,19 @@
+{
+  "id": "abdoashraf90/netflix-notook",
+  "id_no": 44129870,
+  "title": "Netflix_Notook",
+  "code_file": "netflix-notook.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "ariyoomotade/netflix-data-cleaning-analysis-and-visualization"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

@@ -1,0 +1,19 @@
+{
+  "id": "abdelrahmanalimo/analyze-predict-price-of-house",
+  "id_no": 47135781,
+  "title": "Analyze Predict price of House ",
+  "code_file": "analyze-predict-price-of-house.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "muhammadbinimran/housing-price-prediction-data"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

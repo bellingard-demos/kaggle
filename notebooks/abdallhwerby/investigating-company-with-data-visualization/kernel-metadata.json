@@ -1,0 +1,19 @@
+{
+  "id": "abdallhwerby/investigating-company-with-data-visualization",
+  "id_no": 30553185,
+  "title": "Investigating company with data visualization",
+  "code_file": "investigating-company-with-data-visualization.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "pavansubhasht/ibm-hr-analytics-attrition-dataset"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

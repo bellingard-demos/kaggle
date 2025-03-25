@@ -1,0 +1,26 @@
+{
+  "id": "aayushmishra1512/emotion-detector",
+  "id_no": 15260195,
+  "title": "Emotion Detector\ud83d\udc65",
+  "code_file": "emotion-detector.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "keras",
+    "matplotlib",
+    "numpy",
+    "tensorflow"
+  ],
+  "dataset_sources": [
+    "ananthu017/emotion-detection-fer",
+    "msambare/fer2013",
+    "gaborfodor/keras-pretrained-models"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

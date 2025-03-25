@@ -1,0 +1,21 @@
+{
+  "id": "abdulaminafridi/standardization-normalization",
+  "id_no": 33231541,
+  "title": "Standardization&& Normalization",
+  "code_file": "standardization-normalization.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "utility script"
+  ],
+  "dataset_sources": [
+    "emrullahdemirhan/titaniccsv"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

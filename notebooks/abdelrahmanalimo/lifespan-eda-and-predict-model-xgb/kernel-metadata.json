@@ -1,0 +1,19 @@
+{
+  "id": "abdelrahmanalimo/lifespan-eda-and-predict-model-xgb",
+  "id_no": 47228757,
+  "title": "lifespan EDA and predict model(xgb)",
+  "code_file": "lifespan-eda-and-predict-model-xgb.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "stealthtechnologies/predict-lifespan-of-a-comet-goldfish"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

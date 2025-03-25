@@ -1,0 +1,19 @@
+{
+  "id": "abdul346/age-and-gender-detection-03-12-2023",
+  "id_no": 47226078,
+  "title": "Age and Gender Detection 03-12-2023",
+  "code_file": "age-and-gender-detection-03-12-2023.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "jangedoo/utkface-new"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

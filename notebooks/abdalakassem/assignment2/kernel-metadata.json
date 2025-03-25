@@ -1,0 +1,19 @@
+{
+  "id": "abdalakassem/assignment2",
+  "id_no": 46488300,
+  "title": "assignment2",
+  "code_file": "assignment2.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    ""
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

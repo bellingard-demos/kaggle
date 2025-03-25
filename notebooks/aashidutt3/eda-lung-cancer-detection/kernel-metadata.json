@@ -1,0 +1,19 @@
+{
+  "id": "aashidutt3/eda-lung-cancer-detection",
+  "id_no": 29037152,
+  "title": "\ud83e\ude7aEDA: Lung Cancer Detection",
+  "code_file": "eda-lung-cancer-detection.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "jillanisofttech/lung-cancer-detection"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

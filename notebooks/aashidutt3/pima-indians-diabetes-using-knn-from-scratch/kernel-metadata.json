@@ -1,0 +1,25 @@
+{
+  "id": "aashidutt3/pima-indians-diabetes-using-knn-from-scratch",
+  "id_no": 40836778,
+  "title": "\ud83c\udf70Pima Indians Diabetes using KNN from Scratch",
+  "code_file": "pima-indians-diabetes-using-knn-from-scratch.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "ml ethics",
+    "pandas",
+    "classification",
+    "knn",
+    "data analytics"
+  ],
+  "dataset_sources": [
+    "uciml/pima-indians-diabetes-database"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

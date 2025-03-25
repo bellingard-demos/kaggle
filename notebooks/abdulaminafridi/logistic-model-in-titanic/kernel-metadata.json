@@ -1,0 +1,19 @@
+{
+  "id": "abdulaminafridi/logistic-model-in-titanic",
+  "id_no": 27436046,
+  "title": "logistic model in titanic",
+  "code_file": "logistic-model-in-titanic.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [
+    ""
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

@@ -1,0 +1,19 @@
+{
+  "id": "aasthavashist/decision-tree-classifier",
+  "id_no": 25223336,
+  "title": "Decision Tree Classifier",
+  "code_file": "decision-tree-classifier.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "uciml/iris"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

@@ -1,0 +1,19 @@
+{
+  "id": "abdelrhmannashaat/28-pandas-projects",
+  "id_no": 46425194,
+  "title": "28 pandas projects",
+  "code_file": "28-pandas-projects.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "openfoodfacts/world-food-facts"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

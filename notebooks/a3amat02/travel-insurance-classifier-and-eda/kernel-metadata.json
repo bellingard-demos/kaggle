@@ -1,0 +1,19 @@
+{
+  "id": "a3amat02/travel-insurance-classifier-and-eda",
+  "id_no": 38905246,
+  "title": "Travel Insurance Classifier and EDA",
+  "code_file": "travel-insurance-classifier-and-eda.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "sellingstories/travel-company-insurance-prediction"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

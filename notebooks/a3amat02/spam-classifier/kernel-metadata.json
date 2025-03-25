@@ -1,0 +1,21 @@
+{
+  "id": "a3amat02/spam-classifier",
+  "id_no": 41698583,
+  "title": "Spam Classifier",
+  "code_file": "spam-classifier.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [
+    "tapakah68/email-spam-classification"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

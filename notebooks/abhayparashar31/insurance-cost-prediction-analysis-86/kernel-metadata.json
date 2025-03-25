@@ -1,0 +1,22 @@
+{
+  "id": "abhayparashar31/insurance-cost-prediction-analysis-86",
+  "id_no": 25299114,
+  "title": "\u2b50 Insurance Cost Prediction + Analysis (86%) \u2b50",
+  "code_file": "insurance-cost-prediction-analysis-86.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "regression",
+    "gradient boosting"
+  ],
+  "dataset_sources": [
+    "mirichoi0218/insurance"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

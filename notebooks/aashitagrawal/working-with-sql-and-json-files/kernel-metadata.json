@@ -1,0 +1,20 @@
+{
+  "id": "aashitagrawal/working-with-sql-and-json-files",
+  "id_no": 39171099,
+  "title": "\ud83d\udd25\ud83d\udd25Working with SQL and JSON files",
+  "code_file": "working-with-sql-and-json-files.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [
+    "",
+    "busielmorley/worldcities-pop-lang-rank-sql-create-tbls"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

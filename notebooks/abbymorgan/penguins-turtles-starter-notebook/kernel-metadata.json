@@ -1,0 +1,25 @@
+{
+  "id": "abbymorgan/penguins-turtles-starter-notebook",
+  "id_no": 38175349,
+  "title": "Penguins+Turtles Starter Notebook",
+  "code_file": "penguins-turtles-starter-notebook.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "image classification",
+    "object detection",
+    "animals",
+    "fish and aquaria",
+    "computer vision"
+  ],
+  "dataset_sources": [
+    "abbymorgan/penguins-vs-turtles"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

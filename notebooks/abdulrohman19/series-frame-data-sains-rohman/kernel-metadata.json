@@ -1,0 +1,20 @@
+{
+  "id": "abdulrohman19/series-frame-data-sains-rohman",
+  "id_no": 20386548,
+  "title": "Series & Frame_Data Sains - rohman",
+  "code_file": "series-frame-data-sains-rohman.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "numpy",
+    "pandas"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

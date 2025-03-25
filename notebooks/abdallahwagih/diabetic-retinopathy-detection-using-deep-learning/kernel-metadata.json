@@ -1,0 +1,19 @@
+{
+  "id": "abdallahwagih/diabetic-retinopathy-detection-using-deep-learning",
+  "id_no": 35921647,
+  "title": "Diabetic Retinopathy Detection Using Deep Learning",
+  "code_file": "diabetic-retinopathy-detection-using-deep-learning.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [
+    "sovitrath/diabetic-retinopathy-224x224-gaussian-filtered"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

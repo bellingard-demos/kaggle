@@ -1,0 +1,19 @@
+{
+  "id": "abdelhadymohammed/ml-project",
+  "id_no": 42602294,
+  "title": "ML_project",
+  "code_file": "ml-project.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "mlg-ulb/creditcardfraud"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

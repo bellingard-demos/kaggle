@@ -1,0 +1,19 @@
+{
+  "id": "abdallahwagih/gold-price-forecasting",
+  "id_no": 32290471,
+  "title": "Gold-Price-Forecasting",
+  "code_file": "gold-price-forecasting.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [
+    "arashnic/learn-time-series-forecasting-from-gold-price"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

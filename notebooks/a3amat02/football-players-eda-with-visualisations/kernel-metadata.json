@@ -1,0 +1,19 @@
+{
+  "id": "a3amat02/football-players-eda-with-visualisations",
+  "id_no": 38457122,
+  "title": "Football Players EDA with Visualisations",
+  "code_file": "football-players-eda-with-visualisations.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "oles04/bundesliga-soccer-player"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

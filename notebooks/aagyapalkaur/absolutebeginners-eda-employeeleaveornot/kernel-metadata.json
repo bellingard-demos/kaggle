@@ -1,0 +1,19 @@
+{
+  "id": "aagyapalkaur/absolutebeginners-eda-employeeleaveornot",
+  "id_no": 43070039,
+  "title": "\ud83d\udcdaAbsoluteBeginners|\ud83d\udccaEDA\ud83d\udcc8|EmployeeLeaveOrNot",
+  "code_file": "absolutebeginners-eda-employeeleaveornot.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "tawfikelmetwally/employee-dataset"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

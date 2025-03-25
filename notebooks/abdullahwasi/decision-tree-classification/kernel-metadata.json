@@ -1,0 +1,19 @@
+{
+  "id": "abdullahwasi/decision-tree-classification",
+  "id_no": 31996984,
+  "title": "Decision Tree classification",
+  "code_file": "decision-tree-classification.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [
+    "uciml/iris"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

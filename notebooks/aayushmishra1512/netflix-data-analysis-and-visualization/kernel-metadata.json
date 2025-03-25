@@ -1,0 +1,24 @@
+{
+  "id": "aayushmishra1512/netflix-data-analysis-and-visualization",
+  "id_no": 10631892,
+  "title": "Netflix Data: Analysis and Visualization",
+  "code_file": "netflix-data-analysis-and-visualization.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "data visualization",
+    "exploratory data analysis",
+    "tabular",
+    "data cleaning"
+  ],
+  "dataset_sources": [
+    "shivamb/netflix-shows"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

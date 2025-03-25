@@ -1,0 +1,19 @@
+{
+  "id": "aagyapalkaur/forbeginners-eda-yahoo-finance",
+  "id_no": 44321416,
+  "title": "\ud83d\udcdaForBeginners\ud83d\udc68\u200d\ud83c\udf93|\ud83d\udcca EDA\ud83d\udcc9|Yahoo_Finance",
+  "code_file": "forbeginners-eda-yahoo-finance.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "belayethossainds/yahoo-finance-industries-dataset"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

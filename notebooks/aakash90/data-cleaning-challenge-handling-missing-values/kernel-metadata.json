@@ -1,0 +1,22 @@
+{
+  "id": "aakash90/data-cleaning-challenge-handling-missing-values",
+  "id_no": 805285,
+  "title": "Data Cleaning Challenge: Handling missing values",
+  "code_file": "data-cleaning-challenge-handling-missing-values.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "games"
+  ],
+  "dataset_sources": [
+    "maxhorowitz/nflplaybyplay2009to2016",
+    "aparnashastry/building-permit-applications-data"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

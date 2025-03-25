@@ -1,0 +1,19 @@
+{
+  "id": "aashidutt3/eda-amazon-data-science-books",
+  "id_no": 30538684,
+  "title": "\ud83d\udcdaEDA: Amazon Data Science Books",
+  "code_file": "eda-amazon-data-science-books.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "die9origephit/amazon-data-science-books"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

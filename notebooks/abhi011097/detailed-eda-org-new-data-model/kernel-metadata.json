@@ -1,0 +1,24 @@
+{
+  "id": "abhi011097/detailed-eda-org-new-data-model",
+  "id_no": 34394538,
+  "title": "Detailed_Eda\ud83d\udcca|Org_&_New_Data|Model\ud83d\udcc8",
+  "code_file": "detailed-eda-org-new-data-model.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "gpu",
+    "beginner"
+  ],
+  "dataset_sources": [
+    "mlg-ulb/creditcardfraud"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "playground-series-s3e4"
+  ],
+  "model_sources": []
+}

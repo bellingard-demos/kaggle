@@ -1,0 +1,19 @@
+{
+  "id": "aagyapalkaur/top8-titanic-competition-eda-voting-classifier",
+  "id_no": 42507126,
+  "title": "\ud83d\udd25Top8%\ud83d\udd25Titanic_Competition|EDA|Voting_Classifier",
+  "code_file": "top8-titanic-competition-eda-voting-classifier.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "titanic"
+  ],
+  "model_sources": []
+}

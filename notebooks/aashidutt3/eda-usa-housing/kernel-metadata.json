@@ -1,0 +1,19 @@
+{
+  "id": "aashidutt3/eda-usa-housing",
+  "id_no": 29415417,
+  "title": "\ud83c\udfe1EDA: USA Housing",
+  "code_file": "eda-usa-housing.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "vedavyasv/usa-housing"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

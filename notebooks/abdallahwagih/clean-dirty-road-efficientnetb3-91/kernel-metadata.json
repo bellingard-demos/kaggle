@@ -1,0 +1,19 @@
+{
+  "id": "abdallahwagih/clean-dirty-road-efficientnetb3-91",
+  "id_no": 34624330,
+  "title": "clean dirty road | EfficientNetB3 | 91%",
+  "code_file": "clean-dirty-road-efficientnetb3-91.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [
+    "faizalkarim/cleandirty-road-classification"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "aakashveera/fork-of-human-detection-tensorflow",
+  "id_no": 23836074,
+  "title": "Fork of Human Detection Tensorflow",
+  "code_file": "fork-of-human-detection-tensorflow.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [
+    "",
+    "",
+    "",
+    "",
+    "aakashveera/human-dataset-latest"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

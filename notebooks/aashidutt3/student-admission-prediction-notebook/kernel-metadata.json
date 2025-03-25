@@ -1,0 +1,19 @@
+{
+  "id": "aashidutt3/student-admission-prediction-notebook",
+  "id_no": 28398236,
+  "title": "Student Admission Prediction Notebook",
+  "code_file": "student-admission-prediction-notebook.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "mukeshmanral/graduates-admission-prediction"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

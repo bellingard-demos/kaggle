@@ -1,0 +1,19 @@
+{
+  "id": "aagyapalkaur/absolute-beginners-eda-covid-19-pandemic",
+  "id_no": 42294462,
+  "title": "\ud83d\udc66\ud83d\udc67\ud83c\udf93Absolute_Beginners\ud83d\udccaEDA\ud83d\udccaCovid-19_Pandemic",
+  "code_file": "absolute-beginners-eda-covid-19-pandemic.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "whenamancodes/covid-19-coronavirus-pandemic-dataset"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

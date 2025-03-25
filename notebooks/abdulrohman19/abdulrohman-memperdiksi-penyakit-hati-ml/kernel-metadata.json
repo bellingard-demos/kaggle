@@ -1,0 +1,23 @@
+{
+  "id": "abdulrohman19/abdulrohman-memperdiksi-penyakit-hati-ml",
+  "id_no": 20108541,
+  "title": "abdulrohman-Memperdiksi Penyakit Hati ml",
+  "code_file": "abdulrohman-memperdiksi-penyakit-hati-ml.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "matplotlib",
+    "pandas",
+    "seaborn"
+  ],
+  "dataset_sources": [
+    "dileep070/heart-disease-prediction-using-logistic-regression"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

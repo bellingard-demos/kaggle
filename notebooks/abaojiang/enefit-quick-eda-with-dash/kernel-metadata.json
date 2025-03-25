@@ -1,0 +1,21 @@
+{
+  "id": "abaojiang/enefit-quick-eda-with-dash",
+  "id_no": 47298082,
+  "title": "Enefit - Quick EDA with Dash",
+  "code_file": "enefit-quick-eda-with-dash.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "abaojiang/enefit-eda"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "predict-energy-behavior-of-prosumers"
+  ],
+  "model_sources": []
+}

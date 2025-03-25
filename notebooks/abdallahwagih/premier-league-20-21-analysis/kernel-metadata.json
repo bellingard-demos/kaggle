@@ -1,0 +1,19 @@
+{
+  "id": "abdallahwagih/premier-league-20-21-analysis",
+  "id_no": 44141788,
+  "title": "Premier League 20-21 Analysis",
+  "code_file": "premier-league-20-21-analysis.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [
+    "ahmedhassan122/premier-league-20-21"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

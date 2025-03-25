@@ -1,0 +1,19 @@
+{
+  "id": "aaronzhang12/healthcare-data-eda-prediction",
+  "id_no": 46898139,
+  "title": "Healthcare Data EDA & Prediction ",
+  "code_file": "healthcare-data-eda-prediction.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [
+    "prasad22/healthcare-dataset"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

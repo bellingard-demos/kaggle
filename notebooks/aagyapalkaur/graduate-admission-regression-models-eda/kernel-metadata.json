@@ -1,0 +1,19 @@
+{
+  "id": "aagyapalkaur/graduate-admission-regression-models-eda",
+  "id_no": 41503938,
+  "title": "Graduate_Admission_Regression_Models+EDA",
+  "code_file": "graduate-admission-regression-models-eda.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "mohansacharya/graduate-admissions"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

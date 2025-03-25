@@ -1,0 +1,19 @@
+{
+  "id": "abdelrahmankhalil/fuzzy-c-means-with-audit-risk",
+  "id_no": 22718531,
+  "title": "Fuzzy C Means With Audit_risk",
+  "code_file": "fuzzy-c-means-with-audit-risk.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "sid321axn/audit-data"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

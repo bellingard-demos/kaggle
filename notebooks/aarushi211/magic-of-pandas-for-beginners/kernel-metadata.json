@@ -1,0 +1,23 @@
+{
+  "id": "aarushi211/magic-of-pandas-for-beginners",
+  "id_no": 40748750,
+  "title": "Magic of Pandas for Beginners",
+  "code_file": "magic-of-pandas-for-beginners.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "pandas",
+    "beginner",
+    "english"
+  ],
+  "dataset_sources": [
+    "uom190346a/sleep-health-and-lifestyle-dataset"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

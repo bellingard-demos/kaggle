@@ -1,0 +1,19 @@
+{
+  "id": "abdulrahmanabdelaziz/task3-techno-hacks",
+  "id_no": 43461237,
+  "title": "task3 techno hacks ",
+  "code_file": "task3-techno-hacks.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "uciml/iris"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

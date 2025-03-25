@@ -1,0 +1,19 @@
+{
+  "id": "a3amat02/world-population-stats-comparison-by-continent",
+  "id_no": 38619311,
+  "title": "World Population Stats Comparison by Continent",
+  "code_file": "world-population-stats-comparison-by-continent.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "gyaswanth297/world-population-insights-1970-2022"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

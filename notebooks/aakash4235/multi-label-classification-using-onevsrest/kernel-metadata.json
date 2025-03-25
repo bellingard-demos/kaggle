@@ -1,0 +1,19 @@
+{
+  "id": "aakash4235/multi-label-classification-using-onevsrest",
+  "id_no": 29648853,
+  "title": "multi-label classification using oneVsRest",
+  "code_file": "multi-label-classification-using-onevsrest.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "jigsaw-toxic-comment-classification-challenge"
+  ],
+  "model_sources": []
+}

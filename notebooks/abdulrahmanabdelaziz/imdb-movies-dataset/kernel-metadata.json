@@ -1,0 +1,19 @@
+{
+  "id": "abdulrahmanabdelaziz/imdb-movies-dataset",
+  "id_no": 39494582,
+  "title": "IMDB movies Dataset",
+  "code_file": "imdb-movies-dataset.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "harshitshankhdhar/imdb-dataset-of-top-1000-movies-and-tv-shows"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

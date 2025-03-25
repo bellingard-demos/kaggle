@@ -1,0 +1,19 @@
+{
+  "id": "abdallahwagih/covid-19-classification-efficientnetb0-96-32",
+  "id_no": 43614525,
+  "title": "Covid-19 Classification | EfficientNetB0 | 96.32%",
+  "code_file": "covid-19-classification-efficientnetb0-96-32.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [
+    "tawsifurrahman/covid19-radiography-database"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

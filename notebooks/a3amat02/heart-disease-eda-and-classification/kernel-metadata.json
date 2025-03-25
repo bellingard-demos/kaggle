@@ -1,0 +1,19 @@
+{
+  "id": "a3amat02/heart-disease-eda-and-classification",
+  "id_no": 39155322,
+  "title": "Heart Disease EDA and Classification",
+  "code_file": "heart-disease-eda-and-classification.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "utkarshx27/heart-disease-diagnosis-dataset"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

@@ -1,0 +1,19 @@
+{
+  "id": "abhi0787/in-the-aftermath-of-covid-19-w2",
+  "id_no": 8814675,
+  "title": "In the aftermath of COVID-19_W2",
+  "code_file": "in-the-aftermath-of-covid-19-w2.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "covid19-global-forecasting-week-2"
+  ],
+  "model_sources": []
+}

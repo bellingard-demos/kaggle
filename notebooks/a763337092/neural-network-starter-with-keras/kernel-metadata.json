@@ -1,0 +1,19 @@
+{
+  "id": "a763337092/neural-network-starter-with-keras",
+  "id_no": 14076441,
+  "title": "Neural Network starter with Keras",
+  "code_file": "neural-network-starter-with-keras.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "tabular-playground-series-jan-2021"
+  ],
+  "model_sources": []
+}

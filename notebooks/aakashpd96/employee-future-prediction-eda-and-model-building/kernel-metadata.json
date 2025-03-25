@@ -1,0 +1,19 @@
+{
+  "id": "aakashpd96/employee-future-prediction-eda-and-model-building",
+  "id_no": 22062507,
+  "title": "Employee Future Prediction EDA and Model Building",
+  "code_file": "employee-future-prediction-eda-and-model-building.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "tejashvi14/employee-future-prediction"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

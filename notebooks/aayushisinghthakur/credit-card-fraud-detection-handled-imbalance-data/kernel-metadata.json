@@ -1,0 +1,19 @@
+{
+  "id": "aayushisinghthakur/credit-card-fraud-detection-handled-imbalance-data",
+  "id_no": 42757797,
+  "title": "Credit Card Fraud Detection-handled Imbalance Data",
+  "code_file": "credit-card-fraud-detection-handled-imbalance-data.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "mlg-ulb/creditcardfraud"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

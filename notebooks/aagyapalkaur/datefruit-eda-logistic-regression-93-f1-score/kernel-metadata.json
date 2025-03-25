@@ -1,0 +1,19 @@
+{
+  "id": "aagyapalkaur/datefruit-eda-logistic-regression-93-f1-score",
+  "id_no": 41953873,
+  "title": "DateFruit EDA+Logistic Regression 93% F1_Score",
+  "code_file": "datefruit-eda-logistic-regression-93-f1-score.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "muratkokludataset/date-fruit-datasets"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

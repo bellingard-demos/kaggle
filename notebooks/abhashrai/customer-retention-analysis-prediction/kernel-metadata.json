@@ -1,0 +1,25 @@
+{
+  "id": "abhashrai/customer-retention-analysis-prediction",
+  "id_no": 42755582,
+  "title": "Customer Retention Analysis & Prediction",
+  "code_file": "customer-retention-analysis-prediction.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "data analytics",
+    "binary classification",
+    "random forest",
+    "business",
+    "beginner"
+  ],
+  "dataset_sources": [
+    "muhammadshahidazeem/customer-churn-dataset"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

@@ -1,0 +1,19 @@
+{
+  "id": "aashidutt3/coffee-bean-multiclass-classification",
+  "id_no": 29952896,
+  "title": "\u2615Coffee Bean Multiclass Classification",
+  "code_file": "coffee-bean-multiclass-classification.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [
+    "gpiosenka/coffee-bean-dataset-resized-224-x-224"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "aakashnain/beating-everything-with-depthwise-convolution",
+  "id_no": 949352,
+  "title": "Beating everything with Depthwise Convolution",
+  "code_file": "beating-everything-with-depthwise-convolution.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "deep learning",
+    "advanced"
+  ],
+  "dataset_sources": [
+    "paultimothymooney/chest-xray-pneumonia",
+    "keras/vgg16"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

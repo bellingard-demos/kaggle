@@ -1,0 +1,19 @@
+{
+  "id": "aashidutt3/eda-pga-tour-golf-data",
+  "id_no": 28975590,
+  "title": "\u26f3EDA:PGA Tour Golf Data",
+  "code_file": "eda-pga-tour-golf-data.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "robikscube/pga-tour-golf-data-20152022"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

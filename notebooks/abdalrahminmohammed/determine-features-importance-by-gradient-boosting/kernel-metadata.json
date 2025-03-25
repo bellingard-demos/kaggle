@@ -1,0 +1,19 @@
+{
+  "id": "abdalrahminmohammed/determine-features-importance-by-gradient-boosting",
+  "id_no": 47053619,
+  "title": "Determine features importance by Gradient Boosting",
+  "code_file": "determine-features-importance-by-gradient-boosting.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "uciml/mushroom-classification"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

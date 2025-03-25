@@ -1,0 +1,22 @@
+{
+  "id": "aakash90/mar-tabular-fun",
+  "id_no": 15296510,
+  "title": " Mar Tabular _Fun",
+  "code_file": "mar-tabular-fun.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "numpy",
+    "pandas"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "tabular-playground-series-mar-2021"
+  ],
+  "model_sources": []
+}

@@ -1,0 +1,19 @@
+{
+  "id": "abdallahwagih/sea-animals-classification-acc-91-15",
+  "id_no": 35341468,
+  "title": "Sea Animals Classification | Acc: 91.15 ",
+  "code_file": "sea-animals-classification-acc-91-15.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [
+    ""
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

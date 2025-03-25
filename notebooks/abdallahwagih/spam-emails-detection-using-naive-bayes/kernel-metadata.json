@@ -1,0 +1,19 @@
+{
+  "id": "abdallahwagih/spam-emails-detection-using-naive-bayes",
+  "id_no": 44253387,
+  "title": "Spam Emails Detection using Naive Bayes ",
+  "code_file": "spam-emails-detection-using-naive-bayes.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [
+    "abdallahwagih/spam-emails"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "abdallahwagih/efficientnetb0-time-image-classification-99",
+  "id_no": 33381515,
+  "title": "EfficientNetB0-Time-Image-Classification-99%",
+  "code_file": "efficientnetb0-time-image-classification-99.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "efficientnet",
+    "image classification",
+    "deep learning"
+  ],
+  "dataset_sources": [
+    "gpiosenka/time-image-datasetclassification"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

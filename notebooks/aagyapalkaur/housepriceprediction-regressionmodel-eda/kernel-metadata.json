@@ -1,0 +1,19 @@
+{
+  "id": "aagyapalkaur/housepriceprediction-regressionmodel-eda",
+  "id_no": 41310659,
+  "title": "HousePricePrediction RegressionModel + EDA",
+  "code_file": "housepriceprediction-regressionmodel-eda.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "harlfoxem/housesalesprediction"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

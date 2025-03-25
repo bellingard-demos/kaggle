@@ -1,0 +1,19 @@
+{
+  "id": "abdelrhmannabill/eda-on-police-deaths-usa",
+  "id_no": 30546685,
+  "title": "EDA on Police_Deaths_USA",
+  "code_file": "eda-on-police-deaths-usa.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [
+    "mayureshkoli/police-deaths-in-usa-from-1791-to-2022"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

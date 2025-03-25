@@ -1,0 +1,19 @@
+{
+  "id": "abdallahwagih/efficientnetb5-bone-marrow-classification-96-97",
+  "id_no": 32611610,
+  "title": "EfficientNetB5-Bone-Marrow-Classification-96.97",
+  "code_file": "efficientnetb5-bone-marrow-classification-96-97.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [
+    "andrewmvd/bone-marrow-cell-classification"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

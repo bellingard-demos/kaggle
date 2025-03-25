@@ -1,0 +1,19 @@
+{
+  "id": "abdulrohman19/image-convulation-digital-image-processing",
+  "id_no": 19676232,
+  "title": "image convulation - Digital Image Processing",
+  "code_file": "image-convulation-digital-image-processing.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [
+    ""
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

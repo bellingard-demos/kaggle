@@ -1,0 +1,19 @@
+{
+  "id": "abdulrahmanabdelaziz/salary-data",
+  "id_no": 39271257,
+  "title": "Salary_Data",
+  "code_file": "salary-data.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "mohithsairamreddy/salary-data"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

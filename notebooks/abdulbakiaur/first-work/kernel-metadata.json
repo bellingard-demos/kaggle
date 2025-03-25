@@ -1,0 +1,23 @@
+{
+  "id": "abdulbakiaur/first-work",
+  "id_no": 15861117,
+  "title": "First Work",
+  "code_file": "first-work.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "matplotlib",
+    "pandas",
+    "seaborn"
+  ],
+  "dataset_sources": [
+    "gregorut/videogamesales"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

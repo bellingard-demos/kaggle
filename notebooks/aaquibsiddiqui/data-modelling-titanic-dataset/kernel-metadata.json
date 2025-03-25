@@ -1,0 +1,26 @@
+{
+  "id": "aaquibsiddiqui/data-modelling-titanic-dataset",
+  "id_no": 18278894,
+  "title": "Data Modelling/Titanic Dataset",
+  "code_file": "data-modelling-titanic-dataset.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "matplotlib",
+    "numpy",
+    "pandas",
+    "plotly",
+    "seaborn",
+    "sklearn"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "titanic"
+  ],
+  "model_sources": []
+}

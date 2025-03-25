@@ -1,0 +1,19 @@
+{
+  "id": "abdallabola/time-series-forecasting-bola",
+  "id_no": 42015599,
+  "title": "Time Series Forecasting bola",
+  "code_file": "time-series-forecasting-bola.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "vivekvivek13/weather-forecasting"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

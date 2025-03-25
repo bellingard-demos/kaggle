@@ -1,0 +1,20 @@
+{
+  "id": "abdallahwagih/breast-cancer-image-segmentation-unet",
+  "id_no": 34469307,
+  "title": "Breast Cancer Image Segmentation UNet",
+  "code_file": "breast-cancer-image-segmentation-unet.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [
+    "utkarshsaxenadn/breast-cancer-detection-unet",
+    "aryashah2k/breast-ultrasound-images-dataset"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

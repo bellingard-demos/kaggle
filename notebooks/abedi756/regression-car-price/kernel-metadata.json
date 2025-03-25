@@ -1,0 +1,24 @@
+{
+  "id": "abedi756/regression-car-price",
+  "id_no": 30519068,
+  "title": "Regression_Car_price",
+  "code_file": "regression-car-price.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "regression",
+    "pandas",
+    "python",
+    "beginner"
+  ],
+  "dataset_sources": [
+    "abedi756/car-price-data"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

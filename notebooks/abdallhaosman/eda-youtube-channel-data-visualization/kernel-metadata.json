@@ -1,0 +1,19 @@
+{
+  "id": "abdallhaosman/eda-youtube-channel-data-visualization",
+  "id_no": 41970516,
+  "title": "\ud83d\udccaEDA |youtube channel Data | Visualization ",
+  "code_file": "eda-youtube-channel-data-visualization.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "nelgiriyewithana/global-youtube-statistics-2023"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

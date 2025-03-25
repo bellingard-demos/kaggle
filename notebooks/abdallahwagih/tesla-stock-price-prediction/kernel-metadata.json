@@ -1,0 +1,19 @@
+{
+  "id": "abdallahwagih/tesla-stock-price-prediction",
+  "id_no": 32241959,
+  "title": "Tesla Stock Price Prediction",
+  "code_file": "tesla-stock-price-prediction.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [
+    "rpaguirre/tesla-stock-price"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

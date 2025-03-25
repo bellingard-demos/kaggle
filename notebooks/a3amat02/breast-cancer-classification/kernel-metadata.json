@@ -1,0 +1,19 @@
+{
+  "id": "a3amat02/breast-cancer-classification",
+  "id_no": 38650344,
+  "title": "Breast Cancer Classification",
+  "code_file": "breast-cancer-classification.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "utkarshx27/breast-cancer-wisconsin-diagnostic-dataset"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

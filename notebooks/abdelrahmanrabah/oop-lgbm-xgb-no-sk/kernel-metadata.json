@@ -1,0 +1,21 @@
+{
+  "id": "abdelrahmanrabah/oop-lgbm-xgb-no-sk",
+  "id_no": 36858702,
+  "title": "OOP, LGBM, XGB, No Sk",
+  "code_file": "oop-lgbm-xgb-no-sk.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "vuppalaadithyasairam/kidney-stone-prediction-based-on-urine-analysis"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "playground-series-s3e12"
+  ],
+  "model_sources": []
+}

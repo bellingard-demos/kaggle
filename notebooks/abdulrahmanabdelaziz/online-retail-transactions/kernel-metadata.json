@@ -1,0 +1,19 @@
+{
+  "id": "abdulrahmanabdelaziz/online-retail-transactions",
+  "id_no": 37944608,
+  "title": "Online retail Transactions",
+  "code_file": "online-retail-transactions.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "abhishekrp1517/online-retail-transactions-dataset"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

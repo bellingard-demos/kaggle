@@ -1,0 +1,19 @@
+{
+  "id": "abdallahwagih/kvasir-segmentation",
+  "id_no": 33205463,
+  "title": "Kvasir Segmentation",
+  "code_file": "kvasir-segmentation.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [
+    "abdallahwagih/kvasir-dataset-for-classification-and-segmentation"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

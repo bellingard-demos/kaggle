@@ -1,0 +1,32 @@
+{
+  "id": "aakashverma8900/breast-cancer-eda-predictive-modelling",
+  "id_no": 15052073,
+  "title": "Breast Cancer EDA\ud83d\udcca + Predictive Modelling\ud83c\udfae",
+  "code_file": "breast-cancer-eda-predictive-modelling.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "data visualization",
+    "exploratory data analysis",
+    "cancer",
+    "data analytics",
+    "data cleaning",
+    "health",
+    "matplotlib",
+    "pandas",
+    "seaborn",
+    "numpy",
+    "sklearn"
+  ],
+  "dataset_sources": [
+    "",
+    "uciml/breast-cancer-wisconsin-data"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

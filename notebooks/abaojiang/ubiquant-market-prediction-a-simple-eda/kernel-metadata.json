@@ -1,0 +1,25 @@
+{
+  "id": "abaojiang/ubiquant-market-prediction-a-simple-eda",
+  "id_no": 24013237,
+  "title": "Ubiquant Market Prediction - A Simple EDA",
+  "code_file": "ubiquant-market-prediction-a-simple-eda.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "exploratory data analysis",
+    "data visualization",
+    "investing"
+  ],
+  "dataset_sources": [
+    "abaojiang/ubiquant-raw"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "ubiquant-market-prediction"
+  ],
+  "model_sources": []
+}

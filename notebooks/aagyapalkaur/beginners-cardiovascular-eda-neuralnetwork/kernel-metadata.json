@@ -1,0 +1,19 @@
+{
+  "id": "aagyapalkaur/beginners-cardiovascular-eda-neuralnetwork",
+  "id_no": 42603177,
+  "title": "\ud83c\udf93Beginners|Cardiovascular|EDA\ud83d\udcca+NeuralNetwork",
+  "code_file": "beginners-cardiovascular-eda-neuralnetwork.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "thedevastator/exploring-risk-factors-for-cardiovascular-diseas"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "abdalrahmanashour/womens-clothing-e-commerce-reviews",
+  "id_no": 13129265,
+  "title": "Womens Clothing E-Commerce Reviews",
+  "code_file": "womens-clothing-e-commerce-reviews.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "pandas",
+    "plotly",
+    "seaborn"
+  ],
+  "dataset_sources": [
+    "nicapotato/womens-ecommerce-clothing-reviews"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

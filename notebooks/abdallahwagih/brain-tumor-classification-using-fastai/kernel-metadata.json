@@ -1,0 +1,19 @@
+{
+  "id": "abdallahwagih/brain-tumor-classification-using-fastai",
+  "id_no": 36558356,
+  "title": "Brain Tumor Classification using Fastai",
+  "code_file": "brain-tumor-classification-using-fastai.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [
+    "aryanfelix/brats-2019-traintestvalid"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

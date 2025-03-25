@@ -1,0 +1,19 @@
+{
+  "id": "abdallabola/fast-food",
+  "id_no": 42071664,
+  "title": "Fast Food",
+  "code_file": "fast-food.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "joebeachcapital/fast-food"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

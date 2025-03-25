@@ -1,0 +1,19 @@
+{
+  "id": "abdulaminafridi/kaggle-analysis",
+  "id_no": 29777149,
+  "title": "kaggle Analysis",
+  "code_file": "kaggle-analysis.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "varunnagpalspyz/kaggle-rankings"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

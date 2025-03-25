@@ -1,0 +1,19 @@
+{
+  "id": "abdallahwagih/brain-tumor-segmentation-unet-efficientnetb7",
+  "id_no": 43775275,
+  "title": "Brain Tumor Segmentation UNet + EfficientNetB7",
+  "code_file": "brain-tumor-segmentation-unet-efficientnetb7.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [
+    "mateuszbuda/lgg-mri-segmentation"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

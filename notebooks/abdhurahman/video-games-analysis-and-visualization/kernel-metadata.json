@@ -1,0 +1,19 @@
+{
+  "id": "abdhurahman/video-games-analysis-and-visualization",
+  "id_no": 40620913,
+  "title": "VIDEO GAMES ANALYSIS AND VISUALIZATION",
+  "code_file": "video-games-analysis-and-visualization.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "gregorut/videogamesales"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

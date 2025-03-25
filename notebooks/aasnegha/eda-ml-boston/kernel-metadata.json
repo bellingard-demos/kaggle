@@ -1,0 +1,19 @@
+{
+  "id": "aasnegha/eda-ml-boston",
+  "id_no": 29892563,
+  "title": "EDA+ML Boston ",
+  "code_file": "eda-ml-boston.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "vikrishnan/boston-house-prices"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

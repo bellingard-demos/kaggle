@@ -1,0 +1,19 @@
+{
+  "id": "abdallabola/youtube-channel",
+  "id_no": 41958379,
+  "title": "youtube channel",
+  "code_file": "youtube-channel.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "nelgiriyewithana/global-youtube-statistics-2023"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

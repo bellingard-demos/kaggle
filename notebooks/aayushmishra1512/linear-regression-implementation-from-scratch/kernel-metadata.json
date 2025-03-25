@@ -1,0 +1,28 @@
+{
+  "id": "aayushmishra1512/linear-regression-implementation-from-scratch",
+  "id_no": 11010558,
+  "title": "Linear Regression Implementation from Scratch\ud83d\udda5",
+  "code_file": "linear-regression-implementation-from-scratch.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "linear regression",
+    "numpy",
+    "beginner",
+    "exploratory data analysis",
+    "data analytics",
+    "matplotlib",
+    "pandas",
+    "seaborn"
+  ],
+  "dataset_sources": [
+    "aayushmishra1512/car-sales"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "abbymorgan/cranial-ct-starter-notebook",
+  "id_no": 35347117,
+  "title": "Cranial_CT_Starter_Notebook",
+  "code_file": "cranial-ct-starter-notebook.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "medicine",
+    "healthcare",
+    "image augmentation",
+    "data visualization",
+    "computer vision"
+  ],
+  "dataset_sources": [
+    "abbymorgan/cranial-ct"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "aakcay/population-eda",
+  "id_no": 28420481,
+  "title": "population EDA",
+  "code_file": "population-eda.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "politics",
+    "people",
+    "people and society"
+  ],
+  "dataset_sources": [
+    "imoore/age-dataset"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

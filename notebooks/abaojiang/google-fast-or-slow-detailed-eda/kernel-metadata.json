@@ -1,0 +1,19 @@
+{
+  "id": "abaojiang/google-fast-or-slow-detailed-eda",
+  "id_no": 42752987,
+  "title": "Google - Fast or Slow? - Detailed EDA",
+  "code_file": "google-fast-or-slow-detailed-eda.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "predict-ai-model-runtime"
+  ],
+  "model_sources": []
+}

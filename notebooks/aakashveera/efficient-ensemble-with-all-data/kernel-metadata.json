@@ -1,0 +1,25 @@
+{
+  "id": "aakashveera/efficient-ensemble-with-all-data",
+  "id_no": 11107451,
+  "title": "Efficient Ensemble with All data ",
+  "code_file": "efficient-ensemble-with-all-data.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "tpu"
+  ],
+  "dataset_sources": [
+    "cdeotte/isic2019-384x384",
+    "cdeotte/malignant-v2-384x384",
+    "cdeotte/melanoma-384x384"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "siim-isic-melanoma-classification"
+  ],
+  "model_sources": []
+}

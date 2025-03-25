@@ -1,0 +1,24 @@
+{
+  "id": "abdulaminafridi/amex-simple-lgbm-baseline-0ecbae",
+  "id_no": 27447481,
+  "title": "AMEX / Simple LGBM Baseline 0ecbae",
+  "code_file": "amex-simple-lgbm-baseline-0ecbae.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [
+    "odins0n/amex-parquet",
+    "munumbutt/amexfeather"
+  ],
+  "kernel_sources": [
+    "aninda/creating-smaller-train-test-data"
+  ],
+  "competition_sources": [
+    "amex-default-prediction"
+  ],
+  "model_sources": []
+}

@@ -1,0 +1,19 @@
+{
+  "id": "aagyapalkaur/beginners-eda-possum-headlengthpredict",
+  "id_no": 45029237,
+  "title": "\ud83d\udc68\u200d\ud83c\udf93Beginners\ud83d\udcda|\ud83d\udd0dEDA\ud83d\udd0d|Possum_HeadlengthPredict",
+  "code_file": "beginners-eda-possum-headlengthpredict.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "abrambeyer/openintro-possum"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

@@ -1,0 +1,19 @@
+{
+  "id": "abdallahwagih/efficientnetb3-brain-tumor-classification-99",
+  "id_no": 34380610,
+  "title": "efficientnetb3-brain tumor classification-99%",
+  "code_file": "efficientnetb3-brain-tumor-classification-99.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [
+    "masoudnickparvar/brain-tumor-mri-dataset"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

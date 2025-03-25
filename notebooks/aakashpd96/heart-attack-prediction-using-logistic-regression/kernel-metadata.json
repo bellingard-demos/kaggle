@@ -1,0 +1,24 @@
+{
+  "id": "aakashpd96/heart-attack-prediction-using-logistic-regression",
+  "id_no": 16869969,
+  "title": "Heart Attack Prediction using Logistic Regression ",
+  "code_file": "heart-attack-prediction-using-logistic-regression.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "matplotlib",
+    "pandas",
+    "sklearn",
+    "heart conditions"
+  ],
+  "dataset_sources": [
+    "rashikrahmanpritom/heart-attack-analysis-prediction-dataset"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

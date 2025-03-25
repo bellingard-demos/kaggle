@@ -1,0 +1,19 @@
+{
+  "id": "aashidutt3/fruit-classification",
+  "id_no": 31452628,
+  "title": "\ud83c\udf47\ud83e\udd5dFruit Classification\ud83c\udf4e\ud83e\udd51",
+  "code_file": "fruit-classification.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [
+    "karimabdulnabi/fruit-classification10-class"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

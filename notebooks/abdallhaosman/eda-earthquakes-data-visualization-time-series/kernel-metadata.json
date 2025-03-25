@@ -1,0 +1,19 @@
+{
+  "id": "abdallhaosman/eda-earthquakes-data-visualization-time-series",
+  "id_no": 42509334,
+  "title": "EDA  |Earthquakes Data | Visualization|Time Series",
+  "code_file": "eda-earthquakes-data-visualization-time-series.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "alessandrolobello/the-ultimate-earthquake-dataset-from-1990-2023"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

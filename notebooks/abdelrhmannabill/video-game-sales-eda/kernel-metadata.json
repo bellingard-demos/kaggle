@@ -1,0 +1,23 @@
+{
+  "id": "abdelrhmannabill/video-game-sales-eda",
+  "id_no": 31469862,
+  "title": "Video Game Sales - EDA ",
+  "code_file": "video-game-sales-eda.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "data cleaning",
+    "exploratory data analysis",
+    "data visualization"
+  ],
+  "dataset_sources": [
+    "gregorut/videogamesales"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

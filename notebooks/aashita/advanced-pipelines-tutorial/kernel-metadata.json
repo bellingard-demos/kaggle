@@ -1,0 +1,23 @@
+{
+  "id": "aashita/advanced-pipelines-tutorial",
+  "id_no": 934976,
+  "title": "Advanced Pipelines Tutorial ",
+  "code_file": "advanced-pipelines-tutorial.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "beginner",
+    "xgboost",
+    "education"
+  ],
+  "dataset_sources": [
+    "gunjanpathak/melb-data"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

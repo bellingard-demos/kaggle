@@ -1,0 +1,30 @@
+{
+  "id": "aayushmishra1512/what-should-you-read-next-book-recommender",
+  "id_no": 12219835,
+  "title": "\ud83d\udcd5What should you read next? Book Recommender!\ud83d\udcd5",
+  "code_file": "what-should-you-read-next-book-recommender.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "gpu",
+    "recommender systems",
+    "exploratory data analysis",
+    "data visualization",
+    "data cleaning",
+    "literature",
+    "matplotlib",
+    "pandas",
+    "seaborn",
+    "sklearn"
+  ],
+  "dataset_sources": [
+    "jealousleopard/goodreadsbooks"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

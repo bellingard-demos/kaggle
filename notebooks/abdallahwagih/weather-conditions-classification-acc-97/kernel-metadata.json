@@ -1,0 +1,19 @@
+{
+  "id": "abdallahwagih/weather-conditions-classification-acc-97",
+  "id_no": 40395700,
+  "title": "Weather Conditions Classification | Acc: 97%",
+  "code_file": "weather-conditions-classification-acc-97.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [
+    "pratik2901/multiclass-weather-dataset"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

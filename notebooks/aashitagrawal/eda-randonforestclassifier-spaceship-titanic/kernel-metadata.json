@@ -1,0 +1,19 @@
+{
+  "id": "aashitagrawal/eda-randonforestclassifier-spaceship-titanic",
+  "id_no": 38937597,
+  "title": "EDA + RandonForestClassifier - Spaceship Titanic",
+  "code_file": "eda-randonforestclassifier-spaceship-titanic.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "spaceship-titanic"
+  ],
+  "model_sources": []
+}

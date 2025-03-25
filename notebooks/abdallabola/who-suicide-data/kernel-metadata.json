@@ -1,0 +1,19 @@
+{
+  "id": "abdallabola/who-suicide-data",
+  "id_no": 42481820,
+  "title": "WHO Suicide Data ",
+  "code_file": "who-suicide-data.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "kumaranand05/who-suicide-data-1950-2021"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

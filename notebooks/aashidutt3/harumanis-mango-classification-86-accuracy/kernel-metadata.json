@@ -1,0 +1,19 @@
+{
+  "id": "aashidutt3/harumanis-mango-classification-86-accuracy",
+  "id_no": 29216367,
+  "title": "\ud83e\udd6dHarumanis Mango Classification-86% accuracy",
+  "code_file": "harumanis-mango-classification-86-accuracy.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "mohdnazuan/harumanis-mango-physical-measurement"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

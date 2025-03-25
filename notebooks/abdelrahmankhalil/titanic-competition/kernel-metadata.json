@@ -1,0 +1,19 @@
+{
+  "id": "abdelrahmankhalil/titanic-competition",
+  "id_no": 22118121,
+  "title": "Titanic Competition ",
+  "code_file": "titanic-competition.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "titanic"
+  ],
+  "model_sources": []
+}

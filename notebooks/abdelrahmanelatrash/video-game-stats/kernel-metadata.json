@@ -1,0 +1,19 @@
+{
+  "id": "abdelrahmanelatrash/video-game-stats",
+  "id_no": 38345216,
+  "title": "Video Game Stats",
+  "code_file": "video-game-stats.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "gregorut/videogamesales"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

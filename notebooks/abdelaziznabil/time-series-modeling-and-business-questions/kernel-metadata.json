@@ -1,0 +1,19 @@
+{
+  "id": "abdelaziznabil/time-series-modeling-and-business-questions",
+  "id_no": 30849941,
+  "title": "time series modeling and business questions",
+  "code_file": "time-series-modeling-and-business-questions.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "shivamb/netflix-shows"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

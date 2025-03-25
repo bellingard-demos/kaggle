@@ -1,0 +1,25 @@
+{
+  "id": "aayushmishra1512/messy-clean-vgg19",
+  "id_no": 15477697,
+  "title": "Messy/Clean - VGG19",
+  "code_file": "messy-clean-vgg19.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "keras",
+    "matplotlib",
+    "numpy",
+    "tensorflow"
+  ],
+  "dataset_sources": [
+    "gaborfodor/keras-pretrained-models",
+    "cdawn1/messy-vs-clean-room"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

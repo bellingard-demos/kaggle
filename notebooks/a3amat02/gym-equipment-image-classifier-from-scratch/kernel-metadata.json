@@ -1,0 +1,19 @@
+{
+  "id": "a3amat02/gym-equipment-image-classifier-from-scratch",
+  "id_no": 39550712,
+  "title": "Gym Equipment Image Classifier from Scratch",
+  "code_file": "gym-equipment-image-classifier-from-scratch.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "starsiwach/4-gym-equipment-types-classification-dataset"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

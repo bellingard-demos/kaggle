@@ -1,0 +1,19 @@
+{
+  "id": "aashidutt3/eda-e-commerce-dataset",
+  "id_no": 28942883,
+  "title": "\ud83d\uded2EDA:E-commerce Dataset",
+  "code_file": "eda-e-commerce-dataset.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "mukuldeshantri/ecommerce-fashion-dataset"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

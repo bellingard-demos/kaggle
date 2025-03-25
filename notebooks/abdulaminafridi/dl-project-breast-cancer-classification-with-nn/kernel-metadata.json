@@ -1,0 +1,17 @@
+{
+  "id": "abdulaminafridi/dl-project-breast-cancer-classification-with-nn",
+  "id_no": 28022400,
+  "title": "DL Project  Breast Cancer Classification with NN",
+  "code_file": "dl-project-breast-cancer-classification-with-nn.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

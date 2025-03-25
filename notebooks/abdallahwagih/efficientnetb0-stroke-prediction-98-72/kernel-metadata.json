@@ -1,0 +1,21 @@
+{
+  "id": "abdallahwagih/efficientnetb0-stroke-prediction-98-72",
+  "id_no": 31968427,
+  "title": "EfficientNetB0-Stroke Prediction-98.72",
+  "code_file": "efficientnetb0-stroke-prediction-98-72.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [
+    "iashiqul/brain-stroke-prediction-ct-scan-image-dataset"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

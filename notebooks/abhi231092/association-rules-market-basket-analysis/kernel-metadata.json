@@ -1,0 +1,19 @@
+{
+  "id": "abhi231092/association-rules-market-basket-analysis",
+  "id_no": 38021269,
+  "title": "Association Rules - Market Basket Analysis ",
+  "code_file": "association-rules-market-basket-analysis.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "aslanahmedov/market-basket-analysis"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

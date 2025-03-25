@@ -1,0 +1,19 @@
+{
+  "id": "abdallahwagih/brain-tumor-classification-pytorch",
+  "id_no": 42059685,
+  "title": "Brain Tumor Classification PyTorch",
+  "code_file": "brain-tumor-classification-pytorch.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [
+    "masoudnickparvar/brain-tumor-mri-dataset"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

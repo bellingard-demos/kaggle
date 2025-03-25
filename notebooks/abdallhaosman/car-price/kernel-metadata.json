@@ -1,0 +1,19 @@
+{
+  "id": "abdallhaosman/car-price",
+  "id_no": 41912209,
+  "title": "Car Price",
+  "code_file": "car-price.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "imgowthamg/car-price"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

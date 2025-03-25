@@ -1,0 +1,19 @@
+{
+  "id": "abdulhaq786/sentiment-analysis-using-rnn-for-beginners",
+  "id_no": 41725566,
+  "title": "Sentiment_Analysis_using_RNN_for_beginners ",
+  "code_file": "sentiment-analysis-using-rnn-for-beginners.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "ulrikthygepedersen/rotten-tomatoes-reviews"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

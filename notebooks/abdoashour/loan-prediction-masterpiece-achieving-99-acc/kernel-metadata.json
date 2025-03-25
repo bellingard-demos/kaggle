@@ -1,0 +1,19 @@
+{
+  "id": "abdoashour/loan-prediction-masterpiece-achieving-99-acc",
+  "id_no": 47077736,
+  "title": "Loan Prediction Masterpiece: Achieving 99% Acc",
+  "code_file": "loan-prediction-masterpiece-achieving-99-acc.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "vikramamin/bank-loan-approval-lr-dt-rf-and-auc"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

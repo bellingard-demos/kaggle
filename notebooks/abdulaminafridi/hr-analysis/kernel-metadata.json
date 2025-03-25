@@ -1,0 +1,19 @@
+{
+  "id": "abdulaminafridi/hr-analysis",
+  "id_no": 32477723,
+  "title": "HR_analysis",
+  "code_file": "hr-analysis.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "giripujar/hr-analytics"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "aakashveera/rice-disease",
+  "id_no": 15882816,
+  "title": "Rice Disease",
+  "code_file": "rice-disease.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [
+    "minhhuy2810/rice-diseases-image-dataset"
+  ],
+  "kernel_sources": [
+    ""
+  ],
+  "competition_sources": [],
+  "model_sources": []
+}

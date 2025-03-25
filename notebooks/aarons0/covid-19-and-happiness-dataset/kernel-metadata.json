@@ -1,0 +1,29 @@
+{
+  "id": "aarons0/covid-19-and-happiness-dataset",
+  "id_no": 15795049,
+  "title": "COVID-19 and Happiness Dataset",
+  "code_file": "covid-19-and-happiness-dataset.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "psychology",
+    "matplotlib",
+    "numpy",
+    "pandas",
+    "seaborn"
+  ],
+  "dataset_sources": [
+    "tunguz/big-five-personality-test",
+    "juanumusic/countries-iso-codes",
+    "mathurinache/world-happiness-report"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "covid19-global-forecasting-week-1"
+  ],
+  "model_sources": []
+}

@@ -1,0 +1,19 @@
+{
+  "id": "aashidutt3/brain-stroke-prediction",
+  "id_no": 30721251,
+  "title": "\ud83e\udde0Brain Stroke Prediction",
+  "code_file": "brain-stroke-prediction.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "jillanisofttech/brain-stroke-dataset"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

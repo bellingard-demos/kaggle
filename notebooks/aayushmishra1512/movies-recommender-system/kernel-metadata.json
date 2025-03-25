@@ -1,0 +1,25 @@
+{
+  "id": "aayushmishra1512/movies-recommender-system",
+  "id_no": 11181689,
+  "title": "\ud83c\udfa5Movies Recommender System\ud83c\udfa5",
+  "code_file": "movies-recommender-system.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "movies and tv shows",
+    "recommender systems",
+    "tabular",
+    "exploratory data analysis",
+    "python"
+  ],
+  "dataset_sources": [
+    ""
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

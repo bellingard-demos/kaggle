@@ -1,0 +1,19 @@
+{
+  "id": "abdallhwerby/brain-tumor-detection-using-cnn-inception-and-vgg",
+  "id_no": 31777881,
+  "title": "Brain tumor detection using CNN, Inception and VGG",
+  "code_file": "brain-tumor-detection-using-cnn-inception-and-vgg.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "masoudnickparvar/brain-tumor-mri-dataset"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

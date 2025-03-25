@@ -1,0 +1,19 @@
+{
+  "id": "abdallahwagih/indian-rock-python-detection-xception-acc-88-3",
+  "id_no": 36434539,
+  "title": "Indian Rock Python Detection |Xception| Acc: 88.3%",
+  "code_file": "indian-rock-python-detection-xception-acc-88-3.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [
+    "kaniya/russells-viper-and-indian-rock-python-dataset"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

@@ -1,0 +1,19 @@
+{
+  "id": "aadarshvelu/hotel-reservation-churn-prediction",
+  "id_no": 35332330,
+  "title": "Hotel Reservation Churn Prediction",
+  "code_file": "hotel-reservation-churn-prediction.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "ahsan81/hotel-reservations-classification-dataset"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

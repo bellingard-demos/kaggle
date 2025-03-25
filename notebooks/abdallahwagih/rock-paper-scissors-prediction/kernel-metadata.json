@@ -1,0 +1,19 @@
+{
+  "id": "abdallahwagih/rock-paper-scissors-prediction",
+  "id_no": 33746839,
+  "title": "Rock-Paper-Scissors Prediction",
+  "code_file": "rock-paper-scissors-prediction.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [
+    "eng0mohamed0nabil/rock-paper-scissors-dataset"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

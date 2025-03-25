@@ -1,0 +1,19 @@
+{
+  "id": "abdallahwagih/colon-cancer-detection-using-efficientnet",
+  "id_no": 40281655,
+  "title": "Colon Cancer Detection using EfficientNet",
+  "code_file": "colon-cancer-detection-using-efficientnet.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [
+    "andrewmvd/lung-and-colon-cancer-histopathological-images"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

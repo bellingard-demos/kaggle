@@ -1,0 +1,21 @@
+{
+  "id": "a3amat02/resnet50-98-accuracy",
+  "id_no": 39978767,
+  "title": "ResNet50 98% accuracy",
+  "code_file": "resnet50-98-accuracy.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [
+    "muhammadwaqasms/lateblighttomatodisease"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

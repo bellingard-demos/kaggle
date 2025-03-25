@@ -1,0 +1,19 @@
+{
+  "id": "aagyapalkaur/for-beginners-eda-lettucegrowthdays",
+  "id_no": 43468129,
+  "title": "\ud83d\udc69\u200d\ud83c\udf93For Beginners|\ud83d\udccaEDA\ud83d\udcc9|LettuceGrowthDays",
+  "code_file": "for-beginners-eda-lettucegrowthdays.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "jjayfabor/lettuce-growth-days"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

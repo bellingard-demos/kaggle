@@ -1,0 +1,19 @@
+{
+  "id": "abdalrahmanashour/epl-2020-data-analysis",
+  "id_no": 37081214,
+  "title": "EPL_2020_Data_Analysis",
+  "code_file": "epl-2020-data-analysis.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "rajatrc1705/english-premier-league202021"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

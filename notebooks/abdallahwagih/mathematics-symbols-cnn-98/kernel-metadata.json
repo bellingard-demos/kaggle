@@ -1,0 +1,19 @@
+{
+  "id": "abdallahwagih/mathematics-symbols-cnn-98",
+  "id_no": 35749795,
+  "title": "mathematics symbols | CNN | 98%",
+  "code_file": "mathematics-symbols-cnn-98.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [
+    "amitamola/mathematics-symbols-data"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

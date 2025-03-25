@@ -1,0 +1,20 @@
+{
+  "id": "abdallahwagih/nlp-word-embedding-approaches",
+  "id_no": 44929473,
+  "title": "NLP - Word Embedding approaches ",
+  "code_file": "nlp-word-embedding-approaches.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [
+    "leadbest/googlenewsvectorsnegative300",
+    "mfaaris/spotify-app-reviews-2022"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

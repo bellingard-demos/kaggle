@@ -1,0 +1,19 @@
+{
+  "id": "a3amat02/road-mark-detection-using-yolov8",
+  "id_no": 47398543,
+  "title": "Road mark detection using YOLOv8",
+  "code_file": "road-mark-detection-using-yolov8.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [
+    "pkdarabi/road-mark-detection"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

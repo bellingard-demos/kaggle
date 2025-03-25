@@ -1,0 +1,19 @@
+{
+  "id": "aashidutt3/segment-anything-models-taj-edition",
+  "id_no": 38356027,
+  "title": "Segment Anything Models: Taj Edition\ud83d\udd4c\ud83d\udd4c",
+  "code_file": "segment-anything-models-taj-edition.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [
+    "seshurajup/segment-anything-models"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

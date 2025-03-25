@@ -1,0 +1,20 @@
+{
+  "id": "aanchaljayal/crop-production-in-india-eda-project",
+  "id_no": 36703479,
+  "title": " Crop production in India - EDA Project",
+  "code_file": "crop-production-in-india-eda-project.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "srinivas1/agricuture-crops-production-in-india",
+    "abhinand05/crop-production-in-india"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

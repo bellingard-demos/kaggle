@@ -1,0 +1,25 @@
+{
+  "id": "abhashrai/ps3e14-eda-xgboost-for-beginner",
+  "id_no": 38101037,
+  "title": " PS3E14 - EDA | XGBoost for beginner",
+  "code_file": "ps3e14-eda-xgboost-for-beginner.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "beginner",
+    "python",
+    "xgboost",
+    "regression",
+    "exploratory data analysis"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "playground-series-s3e14"
+  ],
+  "model_sources": []
+}

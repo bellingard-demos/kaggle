@@ -1,0 +1,19 @@
+{
+  "id": "abdoashour/how-to-deal-with-outliers",
+  "id_no": 46422936,
+  "title": "How To Deal with Outliers",
+  "code_file": "how-to-deal-with-outliers.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "abdoashour/clv-data"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

@@ -1,0 +1,19 @@
+{
+  "id": "a3amat02/subway-nutrition-facts-eda",
+  "id_no": 42594920,
+  "title": "Subway Nutrition Facts EDA",
+  "code_file": "subway-nutrition-facts-eda.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "joebeachcapital/subway-nutrition"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

@@ -1,0 +1,19 @@
+{
+  "id": "abdhurahman/try-eda-and-preprocessing",
+  "id_no": 39107409,
+  "title": "TRY EDA AND PREPROCESSING",
+  "code_file": "try-eda-and-preprocessing.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "diegobabativa/depression"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

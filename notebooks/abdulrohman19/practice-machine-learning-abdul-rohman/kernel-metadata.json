@@ -1,0 +1,22 @@
+{
+  "id": "abdulrohman19/practice-machine-learning-abdul-rohman",
+  "id_no": 18598990,
+  "title": "Practice Machine Learning  - Abdul rohman",
+  "code_file": "practice-machine-learning-abdul-rohman.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "numpy",
+    "pandas"
+  ],
+  "dataset_sources": [
+    "oddyvirgantara/harga-rumah"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

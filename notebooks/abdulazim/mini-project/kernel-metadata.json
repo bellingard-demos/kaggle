@@ -1,0 +1,19 @@
+{
+  "id": "abdulazim/mini-project",
+  "id_no": 26520532,
+  "title": "Mini Project",
+  "code_file": "mini-project.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "yasserh/wine-quality-dataset"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

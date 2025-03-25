@@ -1,0 +1,21 @@
+{
+  "id": "a3amat02/classifier-80-accuracy",
+  "id_no": 46984393,
+  "title": "Classifier 80%+ accuracy",
+  "code_file": "classifier-80-accuracy.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [
+    "aemyjutt/salary-binary-classifier"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

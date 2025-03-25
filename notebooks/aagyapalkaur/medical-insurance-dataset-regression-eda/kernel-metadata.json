@@ -1,0 +1,19 @@
+{
+  "id": "aagyapalkaur/medical-insurance-dataset-regression-eda",
+  "id_no": 41277928,
+  "title": "Medical Insurance Dataset Regression + EDA",
+  "code_file": "medical-insurance-dataset-regression-eda.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "mirichoi0218/insurance"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

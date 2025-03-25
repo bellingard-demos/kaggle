@@ -1,0 +1,20 @@
+{
+  "id": "abdallahwagih/fake-and-real-news-detection",
+  "id_no": 44306053,
+  "title": "Fake and Real News Detection",
+  "code_file": "fake-and-real-news-detection.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [
+    "",
+    "clmentbisaillon/fake-and-real-news-dataset"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

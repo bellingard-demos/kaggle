@@ -1,0 +1,23 @@
+{
+  "id": "aarontanjaya/eda-heart-failure",
+  "id_no": 16019076,
+  "title": "EDA Heart Failure",
+  "code_file": "eda-heart-failure.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "matplotlib",
+    "pandas",
+    "seaborn"
+  ],
+  "dataset_sources": [
+    "andrewmvd/heart-failure-clinical-data"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

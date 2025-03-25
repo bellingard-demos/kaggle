@@ -1,0 +1,22 @@
+{
+  "id": "abdalrahmanashour/association-rule-apriori",
+  "id_no": 17114985,
+  "title": "Association Rule \"Apriori\"",
+  "code_file": "association-rule-apriori.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "matplotlib",
+    "pandas"
+  ],
+  "dataset_sources": [
+    "simgeerek/grocerystoredataset"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

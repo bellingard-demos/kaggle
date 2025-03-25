@@ -1,0 +1,19 @@
+{
+  "id": "abhi0787/eda-udemy-courses",
+  "id_no": 9686155,
+  "title": "EDA_Udemy_courses",
+  "code_file": "eda-udemy-courses.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [
+    "andrewmvd/udemy-courses"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

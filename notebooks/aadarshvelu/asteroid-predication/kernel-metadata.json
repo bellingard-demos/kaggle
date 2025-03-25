@@ -1,0 +1,19 @@
+{
+  "id": "aadarshvelu/asteroid-predication",
+  "id_no": 29233481,
+  "title": "Asteroid Predication ",
+  "code_file": "asteroid-predication.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "sameepvani/nasa-nearest-earth-objects"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

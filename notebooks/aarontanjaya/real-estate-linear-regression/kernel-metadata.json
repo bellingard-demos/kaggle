@@ -1,0 +1,25 @@
+{
+  "id": "aarontanjaya/real-estate-linear-regression",
+  "id_no": 15814276,
+  "title": "Real Estate Linear Regression",
+  "code_file": "real-estate-linear-regression.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "business",
+    "matplotlib",
+    "numpy",
+    "pandas",
+    "seaborn"
+  ],
+  "dataset_sources": [
+    "quantbruce/real-estate-price-prediction"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

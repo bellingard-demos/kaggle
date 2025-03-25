@@ -1,0 +1,19 @@
+{
+  "id": "aakashpd96/zomato-caf-reviews-eda-with-sentiment-analysis",
+  "id_no": 43325593,
+  "title": "Zomato Caf\u00e9 Reviews EDA with Sentiment Analysis",
+  "code_file": "zomato-caf-reviews-eda-with-sentiment-analysis.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "juhibhojani/zomato-cafe-reviews"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

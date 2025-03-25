@@ -1,0 +1,19 @@
+{
+  "id": "aashidutt3/tabular-playground-series-feb-2021",
+  "id_no": 29456638,
+  "title": "Tabular Playground Series: Feb 2021",
+  "code_file": "tabular-playground-series-feb-2021.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "tabular-playground-series-feb-2021"
+  ],
+  "model_sources": []
+}

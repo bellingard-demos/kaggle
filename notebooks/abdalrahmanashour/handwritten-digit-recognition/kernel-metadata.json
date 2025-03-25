@@ -1,0 +1,22 @@
+{
+  "id": "abdalrahmanashour/handwritten-digit-recognition",
+  "id_no": 16707106,
+  "title": "Handwritten Digit Recognition",
+  "code_file": "handwritten-digit-recognition.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "gpu",
+    "keras"
+  ],
+  "dataset_sources": [
+    "hojjatk/mnist-dataset"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

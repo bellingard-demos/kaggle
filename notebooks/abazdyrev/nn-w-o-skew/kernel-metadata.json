@@ -1,0 +1,28 @@
+{
+  "id": "abazdyrev/nn-w-o-skew",
+  "id_no": 5403124,
+  "title": "NN w/o skew",
+  "code_file": "nn-w-o-skew.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "neural networks",
+    "regression",
+    "gpu",
+    "numpy",
+    "matplotlib",
+    "keras",
+    "pandas",
+    "tensorflow"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "champs-scalar-coupling"
+  ],
+  "model_sources": []
+}

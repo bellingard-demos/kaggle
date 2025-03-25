@@ -1,0 +1,19 @@
+{
+  "id": "abdallahwagih/animals-detection-efficientnetb3-acc-97-6",
+  "id_no": 35776391,
+  "title": "Animals Detection | EfficientNetB3 | Acc: 97.6%",
+  "code_file": "animals-detection-efficientnetb3-acc-97-6.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [
+    "alessiocorrado99/animals10"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

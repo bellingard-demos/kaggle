@@ -1,0 +1,19 @@
+{
+  "id": "aashidutt3/sentiment-analysis-sephora-reviews",
+  "id_no": 38250466,
+  "title": "\ud83d\udc85Sentiment Analysis: Sephora Reviews\ud83d\udc84",
+  "code_file": "sentiment-analysis-sephora-reviews.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [
+    "nadyinky/sephora-products-and-skincare-reviews"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

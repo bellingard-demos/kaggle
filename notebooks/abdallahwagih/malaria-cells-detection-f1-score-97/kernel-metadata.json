@@ -1,0 +1,19 @@
+{
+  "id": "abdallahwagih/malaria-cells-detection-f1-score-97",
+  "id_no": 35892891,
+  "title": "Malaria Cells Detection | f1-score: 97%",
+  "code_file": "malaria-cells-detection-f1-score-97.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [
+    "iarunava/cell-images-for-detecting-malaria"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

@@ -1,0 +1,22 @@
+{
+  "id": "aadhavvignesh/lung-segmentation-by-marker-controlled-watershed",
+  "id_no": 10818175,
+  "title": "Lung Segmentation by Marker-Controlled Watershed",
+  "code_file": "lung-segmentation-by-marker-controlled-watershed.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "image",
+    "data cleaning"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "osic-pulmonary-fibrosis-progression"
+  ],
+  "model_sources": []
+}

@@ -1,0 +1,19 @@
+{
+  "id": "aadhavvignesh/minneapolis-police-interactions-detailed-analysis",
+  "id_no": 10264829,
+  "title": "Minneapolis Police Interactions: Detailed Analysis",
+  "code_file": "minneapolis-police-interactions-detailed-analysis.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "paultimothymooney/minneapolis-police-stops-and-police-violence"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

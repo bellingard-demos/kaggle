@@ -1,0 +1,17 @@
+{
+  "id": "aashitagrawal/handwritten-digit-classification-using-ann",
+  "id_no": 40056930,
+  "title": "\u270d\ufe0fhandwritten digit classification using ann",
+  "code_file": "handwritten-digit-classification-using-ann.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

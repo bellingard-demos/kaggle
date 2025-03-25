@@ -1,0 +1,19 @@
+{
+  "id": "abdulhaq786/methods-to-improve-performance",
+  "id_no": 42623860,
+  "title": "Methods to improve performance",
+  "code_file": "methods-to-improve-performance.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "samuelcortinhas/apples-or-tomatoes-image-classification"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

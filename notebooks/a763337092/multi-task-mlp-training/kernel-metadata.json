@@ -1,0 +1,25 @@
+{
+  "id": "a763337092/multi-task-mlp-training",
+  "id_no": 15070155,
+  "title": "multi-task-mlp[Training]",
+  "code_file": "multi-task-mlp-training.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "gpu",
+    "numpy",
+    "pandas"
+  ],
+  "dataset_sources": [
+    ""
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "indoor-location-navigation"
+  ],
+  "model_sources": []
+}

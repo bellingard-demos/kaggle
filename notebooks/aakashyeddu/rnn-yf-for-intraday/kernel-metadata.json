@@ -1,0 +1,17 @@
+{
+  "id": "aakashyeddu/rnn-yf-for-intraday",
+  "id_no": 27628550,
+  "title": "rnn-yf for intraday",
+  "code_file": "rnn-yf-for-intraday.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

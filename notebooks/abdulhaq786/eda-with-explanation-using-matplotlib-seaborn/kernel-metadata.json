@@ -1,0 +1,21 @@
+{
+  "id": "abdulhaq786/eda-with-explanation-using-matplotlib-seaborn",
+  "id_no": 29803024,
+  "title": "EDA with Explanation using Matplotlib, seaborn ",
+  "code_file": "eda-with-explanation-using-matplotlib-seaborn.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "seaborn"
+  ],
+  "dataset_sources": [
+    "ruchi798/data-science-job-salaries"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

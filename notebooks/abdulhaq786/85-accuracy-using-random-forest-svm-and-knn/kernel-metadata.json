@@ -1,0 +1,19 @@
+{
+  "id": "abdulhaq786/85-accuracy-using-random-forest-svm-and-knn",
+  "id_no": 29774254,
+  "title": "85% Accuracy using Random Forest, SVM and KNN",
+  "code_file": "85-accuracy-using-random-forest-svm-and-knn.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "wenruliu/adult-income-dataset"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

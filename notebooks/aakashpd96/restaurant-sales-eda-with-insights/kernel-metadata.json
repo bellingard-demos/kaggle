@@ -1,0 +1,19 @@
+{
+  "id": "aakashpd96/restaurant-sales-eda-with-insights",
+  "id_no": 46114841,
+  "title": "Restaurant Sales EDA with Insights",
+  "code_file": "restaurant-sales-eda-with-insights.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "rajatsurana979/fast-food-sales-report"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

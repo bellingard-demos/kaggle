@@ -1,0 +1,19 @@
+{
+  "id": "abdallhaosman/netflex",
+  "id_no": 41645634,
+  "title": "Netflex",
+  "code_file": "netflex.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "arnavsmayan/netflix-userbase-dataset"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

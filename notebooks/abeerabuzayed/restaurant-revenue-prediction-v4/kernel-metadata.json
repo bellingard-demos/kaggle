@@ -1,0 +1,29 @@
+{
+  "id": "abeerabuzayed/restaurant-revenue-prediction-v4",
+  "id_no": 5832465,
+  "title": "Restaurant Revenue Prediction_V4",
+  "code_file": "restaurant-revenue-prediction-v4.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "restaurants",
+    "random forest",
+    "deep learning",
+    "xgboost",
+    "matplotlib",
+    "numpy",
+    "pandas",
+    "seaborn",
+    "sklearn"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "restaurant-revenue-prediction"
+  ],
+  "model_sources": []
+}

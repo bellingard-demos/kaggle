@@ -1,0 +1,23 @@
+{
+  "id": "aayushmishra1512/911-calls-detail-eda",
+  "id_no": 10947058,
+  "title": "911 - Calls Detail EDA\ud83d\udcf3\ud83d\udc6e",
+  "code_file": "911-calls-detail-eda.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "beginner",
+    "data visualization",
+    "exploratory data analysis"
+  ],
+  "dataset_sources": [
+    "aayushmishra1512/911calls-historic-data"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

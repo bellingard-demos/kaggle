@@ -1,0 +1,19 @@
+{
+  "id": "aashidutt3/eda-shoe-dataset",
+  "id_no": 29644495,
+  "title": "\ud83d\udc5eEDA: Shoe Dataset",
+  "code_file": "eda-shoe-dataset.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "mdwaquarazam/shoe-dataset"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

@@ -1,0 +1,19 @@
+{
+  "id": "abdallhaosman/life-expectancy-classification-model",
+  "id_no": 42560864,
+  "title": "|Life Expectancy |classification model  ",
+  "code_file": "life-expectancy-classification-model.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "iamsouravbanerjee/life-expectancy-at-birth-across-the-globe"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

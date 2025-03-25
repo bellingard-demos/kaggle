@@ -1,0 +1,19 @@
+{
+  "id": "abdallahwagih/flower-types-classification-efficientnetb5",
+  "id_no": 37998063,
+  "title": "Flower Types Classification | EfficientNetB5",
+  "code_file": "flower-types-classification-efficientnetb5.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [
+    "kausthubkannan/5-flower-types-classification-dataset"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

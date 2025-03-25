@@ -1,0 +1,19 @@
+{
+  "id": "abdulaminafridi/concrete-data-eda-modeling",
+  "id_no": 43464988,
+  "title": "Concrete_data_EDA_modeling",
+  "code_file": "concrete-data-eda-modeling.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "sinamhd9/concrete-comprehensive-strength"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

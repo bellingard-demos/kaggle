@@ -1,0 +1,24 @@
+{
+  "id": "aasthagarg/loan-predication",
+  "id_no": 14770207,
+  "title": "Loan_Predication",
+  "code_file": "loan-predication.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "matplotlib",
+    "numpy",
+    "pandas",
+    "seaborn"
+  ],
+  "dataset_sources": [
+    "ninzaami/loan-predication"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

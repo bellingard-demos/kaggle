@@ -1,0 +1,19 @@
+{
+  "id": "abduallah123456/creditcardprediction",
+  "id_no": 30249426,
+  "title": "creditCardPrediction",
+  "code_file": "creditcardprediction.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "mlg-ulb/creditcardfraud"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

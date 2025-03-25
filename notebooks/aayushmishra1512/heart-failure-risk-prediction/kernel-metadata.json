@@ -1,0 +1,19 @@
+{
+  "id": "aayushmishra1512/heart-failure-risk-prediction",
+  "id_no": 13460522,
+  "title": "Heart Failure Risk  Prediction\ud83d\udc89",
+  "code_file": "heart-failure-risk-prediction.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "andrewmvd/heart-failure-clinical-data"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

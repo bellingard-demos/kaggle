@@ -1,0 +1,25 @@
+{
+  "id": "aayushmishra1512/pokemon-eda-which-pokemon-is-the-best",
+  "id_no": 11249082,
+  "title": "\ud83d\udd34Pokemon EDA - Which Pokemon is the Best?\ud83d\udd34",
+  "code_file": "pokemon-eda-which-pokemon-is-the-best.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "data visualization",
+    "exploratory data analysis",
+    "data analytics",
+    "python",
+    "plotly"
+  ],
+  "dataset_sources": [
+    "abcsds/pokemon"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

@@ -1,0 +1,19 @@
+{
+  "id": "aagyapalkaur/mobilepriceprediction-eda-grid-search-cv-pca",
+  "id_no": 42165223,
+  "title": "MobilePricePrediction EDA+ Grid_Search_CV+ PCA ",
+  "code_file": "mobilepriceprediction-eda-grid-search-cv-pca.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "iabhishekofficial/mobile-price-classification"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

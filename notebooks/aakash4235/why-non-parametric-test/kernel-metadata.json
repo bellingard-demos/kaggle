@@ -1,0 +1,19 @@
+{
+  "id": "aakash4235/why-non-parametric-test",
+  "id_no": 13524078,
+  "title": "why non-parametric test?",
+  "code_file": "why-non-parametric-test.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "babyoda/women-entrepreneurship-and-labor-force"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

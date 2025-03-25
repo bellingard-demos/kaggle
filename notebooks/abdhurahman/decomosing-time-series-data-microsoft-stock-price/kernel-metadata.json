@@ -1,0 +1,19 @@
+{
+  "id": "abdhurahman/decomosing-time-series-data-microsoft-stock-price",
+  "id_no": 40766980,
+  "title": "Decomosing Time Series Data Microsoft Stock Price",
+  "code_file": "decomosing-time-series-data-microsoft-stock-price.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "vijayvvenkitesh/microsoft-stock-time-series-analysis"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

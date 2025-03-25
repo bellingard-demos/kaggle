@@ -1,0 +1,19 @@
+{
+  "id": "aasthagarg/walmart-store-sales-analysis",
+  "id_no": 15101215,
+  "title": "Walmart store sales analysis",
+  "code_file": "walmart-store-sales-analysis.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "aditya6196/retail-analysis-with-walmart-data"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

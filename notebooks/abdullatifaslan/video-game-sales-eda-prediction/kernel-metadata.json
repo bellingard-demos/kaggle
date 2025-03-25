@@ -1,0 +1,30 @@
+{
+  "id": "abdullatifaslan/video-game-sales-eda-prediction",
+  "id_no": 14490527,
+  "title": "Video Game Sales EDA & Prediction",
+  "code_file": "video-game-sales-eda-prediction.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "exploratory data analysis",
+    "decision tree",
+    "random forest",
+    "video games",
+    "model comparison",
+    "matplotlib",
+    "numpy",
+    "pandas",
+    "seaborn",
+    "gpu"
+  ],
+  "dataset_sources": [
+    "gregorut/videogamesales"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

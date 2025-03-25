@@ -1,0 +1,22 @@
+{
+  "id": "a763337092/feat-corr-eda",
+  "id_no": 14379907,
+  "title": "feat_corr_eda",
+  "code_file": "feat-corr-eda.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "matplotlib",
+    "numpy",
+    "pandas",
+    "seaborn"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

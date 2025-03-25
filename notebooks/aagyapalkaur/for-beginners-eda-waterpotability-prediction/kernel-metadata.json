@@ -1,0 +1,19 @@
+{
+  "id": "aagyapalkaur/for-beginners-eda-waterpotability-prediction",
+  "id_no": 42918793,
+  "title": "\ud83c\udf93For Beginners\ud83d\udccaEDA|WaterPotability_Prediction",
+  "code_file": "for-beginners-eda-waterpotability-prediction.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "uom190346a/water-quality-and-potability"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

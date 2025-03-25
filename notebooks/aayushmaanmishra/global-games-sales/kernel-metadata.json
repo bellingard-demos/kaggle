@@ -1,0 +1,19 @@
+{
+  "id": "aayushmaanmishra/global-games-sales",
+  "id_no": 40327090,
+  "title": "Global Games Sales",
+  "code_file": "global-games-sales.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [
+    "gregorut/videogamesales"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

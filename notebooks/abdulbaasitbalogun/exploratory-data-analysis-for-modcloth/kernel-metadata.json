@@ -1,0 +1,20 @@
+{
+  "id": "abdulbaasitbalogun/exploratory-data-analysis-for-modcloth",
+  "id_no": 33716591,
+  "title": "Exploratory Data Analysis for Modcloth",
+  "code_file": "exploratory-data-analysis-for-modcloth.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "",
+    "rmisra/clothing-fit-dataset-for-size-recommendation"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

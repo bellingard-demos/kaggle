@@ -1,0 +1,19 @@
+{
+  "id": "aaronzhang12/global-university-rankings-plotly-dash",
+  "id_no": 42507721,
+  "title": "Global University Rankings (Plotly & Dash)",
+  "code_file": "global-university-rankings-plotly-dash.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [
+    "joyshil0599/global-university-rankings-dataset-2023"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

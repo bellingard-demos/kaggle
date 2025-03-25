@@ -1,0 +1,19 @@
+{
+  "id": "abdulhaq786/simple-and-easy-step-by-step-explanation-kmeans",
+  "id_no": 29967152,
+  "title": "Simple and Easy step by step Explanation  KMeans",
+  "code_file": "simple-and-easy-step-by-step-explanation-kmeans.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "rohan0301/unsupervised-learning-on-country-data"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

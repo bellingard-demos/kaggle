@@ -1,0 +1,19 @@
+{
+  "id": "abdelrahmanalimo/forestfire",
+  "id_no": 41928366,
+  "title": "ForestFire",
+  "code_file": "forestfire.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    ""
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

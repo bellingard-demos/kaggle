@@ -1,0 +1,19 @@
+{
+  "id": "abdelrahmanrabah/titanic-for-beginners-lgbm-and-xgb",
+  "id_no": 42727394,
+  "title": "Titanic for Beginners - LGBM and XGB",
+  "code_file": "titanic-for-beginners-lgbm-and-xgb.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "titanic"
+  ],
+  "model_sources": []
+}

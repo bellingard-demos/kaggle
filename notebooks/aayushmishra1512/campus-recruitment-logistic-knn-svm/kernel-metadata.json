@@ -1,0 +1,25 @@
+{
+  "id": "aayushmishra1512/campus-recruitment-logistic-knn-svm",
+  "id_no": 12261625,
+  "title": "Campus Recruitment - [Logistic+KNN+SVM]\ud83c\udf93\ud83d\udc65",
+  "code_file": "campus-recruitment-logistic-knn-svm.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "exploratory data analysis",
+    "logistic regression",
+    "classification",
+    "gpu",
+    "data cleaning"
+  ],
+  "dataset_sources": [
+    "benroshan/factors-affecting-campus-placement"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

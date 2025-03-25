@@ -1,0 +1,19 @@
+{
+  "id": "aaronzhang12/youtube-interactive-visualization-dash-plotly",
+  "id_no": 42270174,
+  "title": "YouTube Interactive Visualization Dash/Plotly",
+  "code_file": "youtube-interactive-visualization-dash-plotly.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [
+    "nelgiriyewithana/global-youtube-statistics-2023"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

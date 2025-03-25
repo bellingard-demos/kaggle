@@ -1,0 +1,28 @@
+{
+  "id": "aakcay/data-science-job-salaries-visualization-analysis",
+  "id_no": 29257013,
+  "title": "Data Science Job Salaries : Visualization,Analysis",
+  "code_file": "data-science-job-salaries-visualization-analysis.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "data visualization",
+    "seaborn",
+    "exploratory data analysis",
+    "plotly",
+    "python",
+    "pandas",
+    "categorical",
+    "data analytics"
+  ],
+  "dataset_sources": [
+    "ruchi798/data-science-job-salaries"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

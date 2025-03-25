@@ -1,0 +1,19 @@
+{
+  "id": "abhi0787/huskycat-eda",
+  "id_no": 9685638,
+  "title": "HuskyCat_EDA",
+  "code_file": "huskycat-eda.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [
+    "mrisdal/married-at-first-sight"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

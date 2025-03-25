@@ -1,0 +1,19 @@
+{
+  "id": "abdallahwagih/blood-cell-cancer-detection",
+  "id_no": 40279787,
+  "title": "Blood Cell Cancer Detection",
+  "code_file": "blood-cell-cancer-detection.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [
+    "unclesamulus/blood-cells-image-dataset"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

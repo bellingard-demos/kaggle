@@ -1,0 +1,24 @@
+{
+  "id": "aakash90/startup-investor",
+  "id_no": 6141863,
+  "title": "Startup Investor",
+  "code_file": "startup-investor.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "matplotlib",
+    "pandas",
+    "seaborn"
+  ],
+  "dataset_sources": [
+    "",
+    "sudalairajkumar/indian-startup-funding"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "aarons0/simple-bird-recognition",
+  "id_no": 15729009,
+  "title": "Simple Bird Recognition",
+  "code_file": "simple-bird-recognition.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "matplotlib",
+    "numpy",
+    "seaborn",
+    "tensorflow",
+    "sklearn"
+  ],
+  "dataset_sources": [
+    "aarons0/new-england-labeled-bird-species-spectrograms"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

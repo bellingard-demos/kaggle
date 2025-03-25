@@ -1,0 +1,19 @@
+{
+  "id": "aashidutt3/eda-analyzing-screen-time",
+  "id_no": 30817054,
+  "title": "\ud83d\udcf1EDA: Analyzing Screen Time",
+  "code_file": "eda-analyzing-screen-time.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "ruchi798/analyzing-screen-time"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

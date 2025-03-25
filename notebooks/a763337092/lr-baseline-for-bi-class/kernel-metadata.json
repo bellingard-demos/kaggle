@@ -1,0 +1,19 @@
+{
+  "id": "a763337092/lr-baseline-for-bi-class",
+  "id_no": 9485358,
+  "title": "LR baseline for BI-class",
+  "code_file": "lr-baseline-for-bi-class.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "rs6-attrition-predict"
+  ],
+  "model_sources": []
+}

@@ -1,0 +1,19 @@
+{
+  "id": "aashidutt3/eda-spacex-launches-falcon9-and-falcon-heavy",
+  "id_no": 29139782,
+  "title": "\ud83d\ude80EDA: SpaceX Launches Falcon9 and Falcon Heavy",
+  "code_file": "eda-spacex-launches-falcon9-and-falcon-heavy.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    ""
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

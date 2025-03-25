@@ -1,0 +1,22 @@
+{
+  "id": "abdalrahmanashour/covid19-egypt-next-30-days-cases-predictions",
+  "id_no": 20116465,
+  "title": "Covid19 Egypt Next 30 Days Cases Predictions",
+  "code_file": "covid19-egypt-next-30-days-cases-predictions.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "matplotlib",
+    "pandas"
+  ],
+  "dataset_sources": [
+    "antgoldbloom/covid19-data-from-john-hopkins-university"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

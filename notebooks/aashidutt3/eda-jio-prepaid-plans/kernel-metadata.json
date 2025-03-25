@@ -1,0 +1,19 @@
+{
+  "id": "aashidutt3/eda-jio-prepaid-plans",
+  "id_no": 28487414,
+  "title": "EDA: Jio Prepaid Plans",
+  "code_file": "eda-jio-prepaid-plans.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "dhamur/jioprepaidplans"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

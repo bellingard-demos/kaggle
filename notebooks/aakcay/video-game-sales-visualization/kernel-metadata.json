@@ -1,0 +1,26 @@
+{
+  "id": "aakcay/video-game-sales-visualization",
+  "id_no": 29531763,
+  "title": "Video Game Sales - Visualization",
+  "code_file": "video-game-sales-visualization.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "plotly",
+    "video games",
+    "data visualization",
+    "exploratory data analysis",
+    "pandas",
+    "seaborn"
+  ],
+  "dataset_sources": [
+    "gregorut/videogamesales"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

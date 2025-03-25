@@ -1,0 +1,19 @@
+{
+  "id": "abdulrahmanabdelaziz/online-shop-customer-sales",
+  "id_no": 37095282,
+  "title": "Online shop customer sales",
+  "code_file": "online-shop-customer-sales.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "onlineretailshop/online-shop-customer-sales-data"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

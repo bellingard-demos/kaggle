@@ -1,0 +1,19 @@
+{
+  "id": "aadhavvignesh/exploring-valorant-weapons-eda",
+  "id_no": 11076982,
+  "title": "Exploring Valorant Weapons: EDA",
+  "code_file": "exploring-valorant-weapons-eda.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [
+    "aadhavvignesh/valorant-weapon-stats"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

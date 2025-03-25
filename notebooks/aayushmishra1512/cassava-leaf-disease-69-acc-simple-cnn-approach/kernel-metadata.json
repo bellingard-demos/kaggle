@@ -1,0 +1,26 @@
+{
+  "id": "aayushmishra1512/cassava-leaf-disease-69-acc-simple-cnn-approach",
+  "id_no": 14936134,
+  "title": "Cassava Leaf Disease 69% Acc [Simple CNN approach]",
+  "code_file": "cassava-leaf-disease-69-acc-simple-cnn-approach.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "keras",
+    "matplotlib",
+    "numpy",
+    "pandas",
+    "seaborn",
+    "tensorflow"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "cassava-leaf-disease-classification"
+  ],
+  "model_sources": []
+}

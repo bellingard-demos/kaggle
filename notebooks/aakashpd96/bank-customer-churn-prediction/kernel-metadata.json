@@ -1,0 +1,23 @@
+{
+  "id": "aakashpd96/bank-customer-churn-prediction",
+  "id_no": 18596030,
+  "title": "Bank Customer Churn Prediction",
+  "code_file": "bank-customer-churn-prediction.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "matplotlib",
+    "pandas",
+    "sklearn"
+  ],
+  "dataset_sources": [
+    "santoshd3/bank-customers"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

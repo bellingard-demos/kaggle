@@ -1,0 +1,19 @@
+{
+  "id": "abdallahmmosa/data-visualization-movies",
+  "id_no": 31798486,
+  "title": "Data Visualization Movies",
+  "code_file": "data-visualization-movies.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "mitchellharrison/top-500-movies-budget"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

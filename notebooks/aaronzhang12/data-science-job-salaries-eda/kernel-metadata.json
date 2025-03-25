@@ -1,0 +1,19 @@
+{
+  "id": "aaronzhang12/data-science-job-salaries-eda",
+  "id_no": 41394441,
+  "title": "Data Science Job Salaries EDA",
+  "code_file": "data-science-job-salaries-eda.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [
+    "ruchi798/data-science-job-salaries"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

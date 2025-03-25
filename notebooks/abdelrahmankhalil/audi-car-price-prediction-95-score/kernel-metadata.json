@@ -1,0 +1,19 @@
+{
+  "id": "abdelrahmankhalil/audi-car-price-prediction-95-score",
+  "id_no": 24855698,
+  "title": "Audi Car price prediction( 95 % Score)",
+  "code_file": "audi-car-price-prediction-95-score.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "adityadesai13/used-car-dataset-ford-and-mercedes"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

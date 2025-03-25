@@ -1,0 +1,19 @@
+{
+  "id": "aaronzhang12/china-suicide-analysis-eda",
+  "id_no": 41179752,
+  "title": "China Suicide Analysis EDA",
+  "code_file": "china-suicide-analysis-eda.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [
+    "utkarshx27/suicide-attempts-in-shandong-china"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

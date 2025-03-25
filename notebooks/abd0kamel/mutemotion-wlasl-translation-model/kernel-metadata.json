@@ -1,0 +1,21 @@
+{
+  "id": "abd0kamel/mutemotion-wlasl-translation-model",
+  "id_no": 44537303,
+  "title": "MuteMotion: WLASL Translation Model",
+  "code_file": "mutemotion-wlasl-translation-model.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [
+    "",
+    "risangbaskoro/wlasl-processed",
+    "sttaseen/wlasl2000-resized"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

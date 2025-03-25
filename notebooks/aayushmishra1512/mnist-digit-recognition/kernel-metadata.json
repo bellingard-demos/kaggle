@@ -1,0 +1,23 @@
+{
+  "id": "aayushmishra1512/mnist-digit-recognition",
+  "id_no": 12147965,
+  "title": "MNIST-Digit Recognition\ud83d\udcdf",
+  "code_file": "mnist-digit-recognition.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "gpu",
+    "deep learning",
+    "neural networks",
+    "image",
+    "classification"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

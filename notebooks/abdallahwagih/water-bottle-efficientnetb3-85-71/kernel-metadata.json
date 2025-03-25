@@ -1,0 +1,19 @@
+{
+  "id": "abdallahwagih/water-bottle-efficientnetb3-85-71",
+  "id_no": 34769901,
+  "title": "Water Bottle | EfficientNetB3 | 85.71%",
+  "code_file": "water-bottle-efficientnetb3-85-71.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [
+    "chethuhn/water-bottle-dataset"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

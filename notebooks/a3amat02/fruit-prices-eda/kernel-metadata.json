@@ -1,0 +1,19 @@
+{
+  "id": "a3amat02/fruit-prices-eda",
+  "id_no": 39370671,
+  "title": "Fruit prices EDA",
+  "code_file": "fruit-prices-eda.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "vstacknocopyright/fruit-and-vegetable-prices"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

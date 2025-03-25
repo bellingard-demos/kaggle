@@ -1,0 +1,17 @@
+{
+  "id": "aanchalgarg12/fibonacci-series",
+  "id_no": 47024297,
+  "title": "Fibonacci Series",
+  "code_file": "fibonacci-series.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

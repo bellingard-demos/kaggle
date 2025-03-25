@@ -1,0 +1,19 @@
+{
+  "id": "abdelrahmanelatrash/data-visualization",
+  "id_no": 38616303,
+  "title": "Data Visualization",
+  "code_file": "data-visualization.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "mrhainguyen/employee-names-salaries-and-position-titles"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

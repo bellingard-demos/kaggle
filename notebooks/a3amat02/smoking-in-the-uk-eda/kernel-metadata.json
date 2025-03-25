@@ -1,0 +1,19 @@
+{
+  "id": "a3amat02/smoking-in-the-uk-eda",
+  "id_no": 38376051,
+  "title": "Smoking in the UK EDA",
+  "code_file": "smoking-in-the-uk-eda.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "utkarshx27/smoking-dataset-from-uk"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

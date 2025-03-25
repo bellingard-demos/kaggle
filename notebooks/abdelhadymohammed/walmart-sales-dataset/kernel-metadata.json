@@ -1,0 +1,19 @@
+{
+  "id": "abdelhadymohammed/walmart-sales-dataset",
+  "id_no": 42765350,
+  "title": "walmart_sales_dataset",
+  "code_file": "walmart-sales-dataset.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "varsharam/walmart-sales-dataset-of-45stores"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

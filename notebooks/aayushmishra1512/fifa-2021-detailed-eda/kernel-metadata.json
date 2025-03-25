@@ -1,0 +1,25 @@
+{
+  "id": "aayushmishra1512/fifa-2021-detailed-eda",
+  "id_no": 11223204,
+  "title": "FIFA-2021 Detailed EDA\u26bd\ud83d\uded1",
+  "code_file": "fifa-2021-detailed-eda.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "data visualization",
+    "football",
+    "sports",
+    "video games",
+    "exploratory data analysis"
+  ],
+  "dataset_sources": [
+    "aayushmishra1512/fifa-2021-complete-player-data"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

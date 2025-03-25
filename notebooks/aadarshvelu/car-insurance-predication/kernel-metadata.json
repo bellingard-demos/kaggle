@@ -1,0 +1,19 @@
+{
+  "id": "aadarshvelu/car-insurance-predication",
+  "id_no": 18502621,
+  "title": "Car Insurance Predication",
+  "code_file": "car-insurance-predication.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "sagnik1511/car-insurance-data"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

@@ -1,0 +1,19 @@
+{
+  "id": "aakash90/adopt-pet",
+  "id_no": 11217933,
+  "title": "Adopt_pet",
+  "code_file": "adopt-pet.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "aakash90/pet-adopt"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

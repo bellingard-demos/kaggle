@@ -1,0 +1,19 @@
+{
+  "id": "aadisingh21/intrusion-detection-system",
+  "id_no": 39344521,
+  "title": "Intrusion Detection System",
+  "code_file": "intrusion-detection-system.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "sampadab17/network-intrusion-detection"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

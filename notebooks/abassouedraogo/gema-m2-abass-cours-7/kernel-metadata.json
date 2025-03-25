@@ -1,0 +1,19 @@
+{
+  "id": "abassouedraogo/gema-m2-abass-cours-7",
+  "id_no": 36544532,
+  "title": "GEMA_M2_Abass_Cours_7",
+  "code_file": "gema-m2-abass-cours-7.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "classifying-customers-into-segments"
+  ],
+  "model_sources": []
+}

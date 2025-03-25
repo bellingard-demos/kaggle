@@ -1,0 +1,19 @@
+{
+  "id": "abdalrahmanashour/classification-of-mobile-prices-using-knn",
+  "id_no": 22873087,
+  "title": "Classification of mobile prices using KNN ",
+  "code_file": "classification-of-mobile-prices-using-knn.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "iabhishekofficial/mobile-price-classification"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "abdelrhmannabill/imdb-movies-eda",
+  "id_no": 31927813,
+  "title": "IMDB movies -EDA  \ud83c\udfa5",
+  "code_file": "imdb-movies-eda.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "exploratory data analysis",
+    "data analytics",
+    "data visualization"
+  ],
+  "dataset_sources": [
+    "rakkesharv/imdb-5000-movies-multiple-genres-dataset"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

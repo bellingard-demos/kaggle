@@ -1,0 +1,19 @@
+{
+  "id": "abhi231092/inferential-statistics-student-s-t-distribution",
+  "id_no": 37106491,
+  "title": "Inferential Statistics - Student's T Distribution",
+  "code_file": "inferential-statistics-student-s-t-distribution.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "ruchi798/data-science-job-salaries"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

@@ -1,0 +1,19 @@
+{
+  "id": "abdallahwagih/human-cancer-tissues-classification-efficientnetb5",
+  "id_no": 42949674,
+  "title": "Human Cancer Tissues Classification EfficientNetB5",
+  "code_file": "human-cancer-tissues-classification-efficientnetb5.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [
+    "imrankhan77/nct-crc-he-100k"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

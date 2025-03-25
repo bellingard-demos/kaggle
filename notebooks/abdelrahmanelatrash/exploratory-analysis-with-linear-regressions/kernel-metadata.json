@@ -1,0 +1,19 @@
+{
+  "id": "abdelrahmanelatrash/exploratory-analysis-with-linear-regressions",
+  "id_no": 38548900,
+  "title": "Exploratory Analysis with Linear Regressions",
+  "code_file": "exploratory-analysis-with-linear-regressions.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "himanshunakrani/student-study-hours"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

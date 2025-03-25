@@ -1,0 +1,19 @@
+{
+  "id": "abaojiang/check-new-hidden-test-leakage",
+  "id_no": 36426782,
+  "title": "Check New Hidden Test Leakage",
+  "code_file": "check-new-hidden-test-leakage.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "predict-student-performance-from-game-play"
+  ],
+  "model_sources": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "abdelrhmansibrahim/diabetes-classification",
+  "id_no": 20005905,
+  "title": "Diabetes classification",
+  "code_file": "diabetes-classification.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "matplotlib",
+    "numpy",
+    "pandas",
+    "plotly",
+    "seaborn"
+  ],
+  "dataset_sources": [
+    "uciml/pima-indians-diabetes-database"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

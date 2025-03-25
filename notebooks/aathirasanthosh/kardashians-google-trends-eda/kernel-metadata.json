@@ -1,0 +1,20 @@
+{
+  "id": "aathirasanthosh/kardashians-google-trends-eda",
+  "id_no": 35346522,
+  "title": "Kardashians_Google_Trends_EDA",
+  "code_file": "kardashians-google-trends-eda.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "",
+    ""
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

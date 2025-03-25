@@ -1,0 +1,19 @@
+{
+  "id": "abdallahwagih/covid-19-classification-efficientnetb3-88-1",
+  "id_no": 34560028,
+  "title": "Covid-19 Classification | EfficientNetB3 | 88.1%",
+  "code_file": "covid-19-classification-efficientnetb3-88-1.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [
+    "nourmahmoud/covid19-digital-xrays-forgery-dataset"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

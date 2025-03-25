@@ -1,0 +1,19 @@
+{
+  "id": "a3amat02/taxol-drug-resistance-cells-classification",
+  "id_no": 37721230,
+  "title": "Taxol Drug Resistance cells Classification",
+  "code_file": "taxol-drug-resistance-cells-classification.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "aliabedimadiseh/taxol-drug-resistance-cell-lines-in-breast-cancer"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

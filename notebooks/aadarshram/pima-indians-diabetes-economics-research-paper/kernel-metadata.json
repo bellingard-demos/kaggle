@@ -1,0 +1,19 @@
+{
+  "id": "aadarshram/pima-indians-diabetes-economics-research-paper",
+  "id_no": 36473428,
+  "title": "Pima Indians Diabetes - Economics Research Paper",
+  "code_file": "pima-indians-diabetes-economics-research-paper.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [
+    "uciml/pima-indians-diabetes-database"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

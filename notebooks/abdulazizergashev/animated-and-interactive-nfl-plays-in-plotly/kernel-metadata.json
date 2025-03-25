@@ -1,0 +1,19 @@
+{
+  "id": "abdulazizergashev/animated-and-interactive-nfl-plays-in-plotly",
+  "id_no": 31287105,
+  "title": "Animated (and interactive) NFL Plays in Plotly",
+  "code_file": "animated-and-interactive-nfl-plays-in-plotly.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "nfl-big-data-bowl-2023"
+  ],
+  "model_sources": []
+}

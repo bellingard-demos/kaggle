@@ -1,0 +1,19 @@
+{
+  "id": "abdulloshohraufiy/airline-ticket-price",
+  "id_no": 47266396,
+  "title": "Airline ticket price",
+  "code_file": "airline-ticket-price.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "aviachipta-narxini-bashorat-qilish"
+  ],
+  "model_sources": []
+}

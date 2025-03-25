@@ -1,0 +1,19 @@
+{
+  "id": "aakashyeddu/heart-disease-prediction-multiple-models",
+  "id_no": 29193207,
+  "title": "Heart Disease Prediction - Multiple models",
+  "code_file": "heart-disease-prediction-multiple-models.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [
+    "nareshbhat/health-care-data-set-on-heart-attack-possibility"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

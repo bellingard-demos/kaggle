@@ -1,0 +1,19 @@
+{
+  "id": "abdelrahmanrabah/oop-optuna-xgb-lgbm-cat-rf",
+  "id_no": 36550435,
+  "title": "OOP, Optuna, XGB, LGBM, Cat, RF",
+  "code_file": "oop-optuna-xgb-lgbm-cat-rf.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [
+    "ankitverma2010/ecommerce-customer-churn-analysis-and-prediction"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

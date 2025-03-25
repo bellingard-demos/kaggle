@@ -1,0 +1,23 @@
+{
+  "id": "abdallamahmoudamin/notebook116530c5c9",
+  "id_no": 17138223,
+  "title": "notebook116530c5c9",
+  "code_file": "notebook116530c5c9.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "numpy",
+    "pandas",
+    "seaborn"
+  ],
+  "dataset_sources": [
+    "altruistdelhite04/loan-prediction-problem-dataset"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

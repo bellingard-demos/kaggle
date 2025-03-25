@@ -1,0 +1,21 @@
+{
+  "id": "aakashveera/notebook1",
+  "id_no": 10881712,
+  "title": "notebook1",
+  "code_file": "notebook1.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "global-wheat-detection"
+  ],
+  "model_sources": []
+}

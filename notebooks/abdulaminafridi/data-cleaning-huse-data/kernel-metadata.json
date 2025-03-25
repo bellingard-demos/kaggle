@@ -1,0 +1,19 @@
+{
+  "id": "abdulaminafridi/data-cleaning-huse-data",
+  "id_no": 32821495,
+  "title": "Data_cleaning_huse_data",
+  "code_file": "data-cleaning-huse-data.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "amitabhajoy/bengaluru-house-price-data"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

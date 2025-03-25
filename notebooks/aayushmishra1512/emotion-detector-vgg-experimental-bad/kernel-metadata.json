@@ -1,0 +1,23 @@
+{
+  "id": "aayushmishra1512/emotion-detector-vgg-experimental-bad",
+  "id_no": 15247339,
+  "title": "Emotion Detector - VGG[Experimental - Bad]",
+  "code_file": "emotion-detector-vgg-experimental-bad.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "keras",
+    "tensorflow"
+  ],
+  "dataset_sources": [
+    "msambare/fer2013",
+    "gaborfodor/keras-pretrained-models"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

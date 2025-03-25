@@ -1,0 +1,21 @@
+{
+  "id": "aakashveera/soil-type-classification-b3",
+  "id_no": 15844747,
+  "title": "Soil Type Classification B3",
+  "code_file": "soil-type-classification-b3.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [
+    ""
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

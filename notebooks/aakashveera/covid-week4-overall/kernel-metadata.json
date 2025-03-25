@@ -1,0 +1,19 @@
+{
+  "id": "aakashveera/covid-week4-overall",
+  "id_no": 10499318,
+  "title": "Covid week4 Overall",
+  "code_file": "covid-week4-overall.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "covid19-global-forecasting-week-4"
+  ],
+  "model_sources": []
+}

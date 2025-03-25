@@ -1,0 +1,29 @@
+{
+  "id": "aaquibsiddiqui/eda-walmart-sales",
+  "id_no": 18276922,
+  "title": "EDA Walmart Sales",
+  "code_file": "eda-walmart-sales.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "matplotlib",
+    "numpy",
+    "pandas",
+    "plotly",
+    "seaborn",
+    "sklearn"
+  ],
+  "dataset_sources": [
+    "",
+    "aaquibsiddiqui/walmart-datasets"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "walmart-recruiting-store-sales-forecasting"
+  ],
+  "model_sources": []
+}

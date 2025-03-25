@@ -1,0 +1,19 @@
+{
+  "id": "aakash4235/predicting-house-price-with-lr-90-score",
+  "id_no": 13234617,
+  "title": "Predicting house price with LR(90%_score)",
+  "code_file": "predicting-house-price-with-lr-90-score.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "house-prices-advanced-regression-techniques"
+  ],
+  "model_sources": []
+}

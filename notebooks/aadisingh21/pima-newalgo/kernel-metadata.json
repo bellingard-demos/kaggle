@@ -1,0 +1,19 @@
+{
+  "id": "aadisingh21/pima-newalgo",
+  "id_no": 41384449,
+  "title": "pima-newalgo",
+  "code_file": "pima-newalgo.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "uciml/pima-indians-diabetes-database"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

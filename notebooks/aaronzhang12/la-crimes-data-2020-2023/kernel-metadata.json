@@ -1,0 +1,19 @@
+{
+  "id": "aaronzhang12/la-crimes-data-2020-2023",
+  "id_no": 43153005,
+  "title": "LA Crimes Data 2020 - 2023",
+  "code_file": "la-crimes-data-2020-2023.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [
+    ""
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

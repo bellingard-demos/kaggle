@@ -1,0 +1,17 @@
+{
+  "id": "aakashgare/dictionary",
+  "id_no": 41539956,
+  "title": "Dictionary",
+  "code_file": "dictionary.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

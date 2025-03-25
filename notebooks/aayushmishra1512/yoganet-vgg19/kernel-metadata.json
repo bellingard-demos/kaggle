@@ -1,0 +1,26 @@
+{
+  "id": "aayushmishra1512/yoganet-vgg19",
+  "id_no": 17406371,
+  "title": "YogaNet - VGG19",
+  "code_file": "yoganet-vgg19.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "tensorflow",
+    "deep learning",
+    "india",
+    "beginner",
+    "classification"
+  ],
+  "dataset_sources": [
+    "gaborfodor/keras-pretrained-models",
+    "niharika41298/yoga-poses-dataset"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

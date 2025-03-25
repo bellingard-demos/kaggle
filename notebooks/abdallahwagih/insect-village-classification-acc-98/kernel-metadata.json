@@ -1,0 +1,19 @@
+{
+  "id": "abdallahwagih/insect-village-classification-acc-98",
+  "id_no": 35367028,
+  "title": "Insect Village Classification | Acc: 98 %",
+  "code_file": "insect-village-classification-acc-98.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [
+    "vencerlanz09/insect-village-synthetic-dataset"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

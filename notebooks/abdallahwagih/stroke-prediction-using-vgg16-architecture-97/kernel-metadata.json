@@ -1,0 +1,19 @@
+{
+  "id": "abdallahwagih/stroke-prediction-using-vgg16-architecture-97",
+  "id_no": 33554483,
+  "title": "Stroke Prediction Using VGG16 Architecture 97%",
+  "code_file": "stroke-prediction-using-vgg16-architecture-97.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [
+    "iashiqul/brain-stroke-prediction-ct-scan-image-dataset"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

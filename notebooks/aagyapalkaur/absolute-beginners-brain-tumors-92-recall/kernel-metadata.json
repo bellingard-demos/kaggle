@@ -1,0 +1,25 @@
+{
+  "id": "aagyapalkaur/absolute-beginners-brain-tumors-92-recall",
+  "id_no": 44324112,
+  "title": "\ud83d\udc68\u200d\ud83c\udf93Absolute_Beginners|\ud83e\udde0Brain_Tumors\ud83e\udde0|92%Recall",
+  "code_file": "absolute-beginners-brain-tumors-92-recall.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [
+    "",
+    "",
+    "",
+    "",
+    "thomasdubail/brain-tumors-256x256"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

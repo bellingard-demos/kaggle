@@ -1,0 +1,23 @@
+{
+  "id": "abdoulsn/tweets-mining-eda-modeling",
+  "id_no": 7201961,
+  "title": "Tweets Mining+EDA+Modeling",
+  "code_file": "tweets-mining-eda-modeling.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [
+    "rtatman/glove-global-vectors-for-word-representation"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "nlp-getting-started"
+  ],
+  "model_sources": []
+}

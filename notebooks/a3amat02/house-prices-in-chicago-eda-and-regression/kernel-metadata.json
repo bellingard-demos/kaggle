@@ -1,0 +1,19 @@
+{
+  "id": "a3amat02/house-prices-in-chicago-eda-and-regression",
+  "id_no": 38851271,
+  "title": "House Prices in Chicago EDA and Regression",
+  "code_file": "house-prices-in-chicago-eda-and-regression.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "tawfikelmetwally/chicago-house-price"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

@@ -1,0 +1,19 @@
+{
+  "id": "abdallhaosman/eda-visualization-data-science-job-salaries",
+  "id_no": 42298378,
+  "title": "\ud83d\udccaEDA |  Visualization |Data Science Job Salaries",
+  "code_file": "eda-visualization-data-science-job-salaries.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "arnabchaki/data-science-salaries-2023"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

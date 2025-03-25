@@ -1,0 +1,19 @@
+{
+  "id": "a3amat02/diabetes-diagnosis-classification-and-eda",
+  "id_no": 38802439,
+  "title": "Diabetes Diagnosis Classification and EDA",
+  "code_file": "diabetes-diagnosis-classification-and-eda.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "sujithmandala/easiest-diabetes-classification-dataset"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

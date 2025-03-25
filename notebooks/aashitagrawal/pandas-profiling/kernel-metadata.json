@@ -1,0 +1,19 @@
+{
+  "id": "aashitagrawal/pandas-profiling",
+  "id_no": 39305939,
+  "title": "\ud83d\udd25\ud83d\udd25Pandas Profiling",
+  "code_file": "pandas-profiling.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "titanic"
+  ],
+  "model_sources": []
+}

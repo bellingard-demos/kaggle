@@ -1,0 +1,19 @@
+{
+  "id": "aadhavvignesh/eda-exploring-pubg-weapons",
+  "id_no": 10923278,
+  "title": "EDA: Exploring PUBG Weapons",
+  "code_file": "eda-exploring-pubg-weapons.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [
+    "aadhavvignesh/pubg-weapon-stats"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

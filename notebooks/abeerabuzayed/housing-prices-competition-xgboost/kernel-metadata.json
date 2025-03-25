@@ -1,0 +1,21 @@
+{
+  "id": "abeerabuzayed/housing-prices-competition-xgboost",
+  "id_no": 6369710,
+  "title": " Housing Prices Competition (XGBoost)",
+  "code_file": "housing-prices-competition-xgboost.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "pandas"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "home-data-for-ml-course"
+  ],
+  "model_sources": []
+}

@@ -1,0 +1,19 @@
+{
+  "id": "abdelrahmanalimo/heart-attack",
+  "id_no": 44915339,
+  "title": "Heart Attack",
+  "code_file": "heart-attack.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "heart-attack-risk-analysis"
+  ],
+  "model_sources": []
+}

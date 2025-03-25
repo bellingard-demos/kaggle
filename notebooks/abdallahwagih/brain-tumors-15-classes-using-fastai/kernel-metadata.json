@@ -1,0 +1,19 @@
+{
+  "id": "abdallahwagih/brain-tumors-15-classes-using-fastai",
+  "id_no": 36818295,
+  "title": "Brain Tumors 15 classes using Fastai",
+  "code_file": "brain-tumors-15-classes-using-fastai.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [
+    "fernando2rad/brain-tumor-mri-images-44c"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

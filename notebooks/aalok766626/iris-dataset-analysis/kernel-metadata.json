@@ -1,0 +1,21 @@
+{
+  "id": "aalok766626/iris-dataset-analysis",
+  "id_no": 36883567,
+  "title": "Iris Dataset Analysis",
+  "code_file": "iris-dataset-analysis.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "logistic regression"
+  ],
+  "dataset_sources": [
+    "uciml/iris"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

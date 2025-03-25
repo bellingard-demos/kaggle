@@ -1,0 +1,21 @@
+{
+  "id": "abdulaminafridi/lstm-air-passengers",
+  "id_no": 44856969,
+  "title": "LSTM_air_passengers",
+  "code_file": "lstm-air-passengers.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [
+    "rakannimer/air-passengers"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

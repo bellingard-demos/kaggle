@@ -1,0 +1,19 @@
+{
+  "id": "abdalrahminmohammed/eda-and-decision-tree-classifier",
+  "id_no": 46648983,
+  "title": "EDA and Decision Tree classifier",
+  "code_file": "eda-and-decision-tree-classifier.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "parulpandey/palmer-archipelago-antarctica-penguin-data"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

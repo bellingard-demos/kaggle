@@ -1,0 +1,25 @@
+{
+  "id": "aadhyasharma/20bda40",
+  "id_no": 18611524,
+  "title": "20BDA40",
+  "code_file": "20bda40.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "matplotlib",
+    "numpy",
+    "pandas",
+    "seaborn",
+    "sklearn"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "machine-learning-24-hrs-hackathon"
+  ],
+  "model_sources": []
+}

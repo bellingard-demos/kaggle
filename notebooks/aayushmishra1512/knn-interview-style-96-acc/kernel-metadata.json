@@ -1,0 +1,24 @@
+{
+  "id": "aayushmishra1512/knn-interview-style-96-acc",
+  "id_no": 10826179,
+  "title": "KNN- Interview Style\ud83d\udcc8(96 % acc)",
+  "code_file": "knn-interview-style-96-acc.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "beginner",
+    "data visualization",
+    "exploratory data analysis",
+    "classification"
+  ],
+  "dataset_sources": [
+    "aayushmishra1512/classifieddata"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

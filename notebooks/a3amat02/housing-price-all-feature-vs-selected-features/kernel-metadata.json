@@ -1,0 +1,19 @@
+{
+  "id": "a3amat02/housing-price-all-feature-vs-selected-features",
+  "id_no": 38157408,
+  "title": "Housing Price All Feature vs Selected Features",
+  "code_file": "housing-price-all-feature-vs-selected-features.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "shubhammeshram579/house"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

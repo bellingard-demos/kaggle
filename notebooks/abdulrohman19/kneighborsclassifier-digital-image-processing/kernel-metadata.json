@@ -1,0 +1,17 @@
+{
+  "id": "abdulrohman19/kneighborsclassifier-digital-image-processing",
+  "id_no": 21138906,
+  "title": "KNeighborsClassifier - Digital Image Processing",
+  "code_file": "kneighborsclassifier-digital-image-processing.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

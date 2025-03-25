@@ -1,0 +1,19 @@
+{
+  "id": "abdallhaosman/calories",
+  "id_no": 42070143,
+  "title": "Calories\t",
+  "code_file": "calories.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "joebeachcapital/fast-food"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

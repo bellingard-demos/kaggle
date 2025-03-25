@@ -1,0 +1,19 @@
+{
+  "id": "abdallhaosman/eda-data-visualization-global-missing",
+  "id_no": 42247372,
+  "title": "EDA | Data Visualization |Global Missing  ",
+  "code_file": "eda-data-visualization-global-missing.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "nelgiriyewithana/global-missing-migrants-dataset"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

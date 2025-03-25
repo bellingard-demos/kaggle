@@ -1,0 +1,19 @@
+{
+  "id": "aakashveera/traditional-approach-using-svm",
+  "id_no": 10722726,
+  "title": "Traditional Approach using SVM",
+  "code_file": "traditional-approach-using-svm.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "recognizance"
+  ],
+  "model_sources": []
+}

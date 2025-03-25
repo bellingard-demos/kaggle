@@ -1,0 +1,19 @@
+{
+  "id": "a3amat02/thorough-eda-and-classification-models",
+  "id_no": 39063669,
+  "title": "Thorough EDA and Classification models",
+  "code_file": "thorough-eda-and-classification-models.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "uom190346a/disease-symptoms-and-patient-profile-dataset"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

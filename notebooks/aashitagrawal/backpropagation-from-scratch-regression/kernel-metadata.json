@@ -1,0 +1,17 @@
+{
+  "id": "aashitagrawal/backpropagation-from-scratch-regression",
+  "id_no": 40057003,
+  "title": "\ud83d\udd25\ud83d\udd25Backpropagation from scratch regression",
+  "code_file": "backpropagation-from-scratch-regression.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

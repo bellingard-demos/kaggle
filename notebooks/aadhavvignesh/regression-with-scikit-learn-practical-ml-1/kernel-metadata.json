@@ -1,0 +1,19 @@
+{
+  "id": "aadhavvignesh/regression-with-scikit-learn-practical-ml-1",
+  "id_no": 9785226,
+  "title": "Regression with Scikit-Learn: Practical ML #1",
+  "code_file": "regression-with-scikit-learn-practical-ml-1.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "ruiqurm/lianjia"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

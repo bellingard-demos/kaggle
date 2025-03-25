@@ -1,0 +1,19 @@
+{
+  "id": "a0116612rziyu/college-completion-analysis-template",
+  "id_no": 34286231,
+  "title": "College Completion Analysis Template",
+  "code_file": "college-completion-analysis-template.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "us-college-completion-rate-analysis"
+  ],
+  "model_sources": []
+}

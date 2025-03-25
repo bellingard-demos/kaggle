@@ -1,0 +1,19 @@
+{
+  "id": "aagyapalkaur/heartattackprediction-eda-outlier-detection",
+  "id_no": 41907822,
+  "title": "HeartAttackPrediction EDA+Outlier_Detection ",
+  "code_file": "heartattackprediction-eda-outlier-detection.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "rashikrahmanpritom/heart-attack-analysis-prediction-dataset"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

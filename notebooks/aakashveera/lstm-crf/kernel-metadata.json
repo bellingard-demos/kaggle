@@ -1,0 +1,26 @@
+{
+  "id": "aakashveera/lstm-crf",
+  "id_no": 15483506,
+  "title": "LSTM_CRF",
+  "code_file": "lstm-crf.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "gpu",
+    "matplotlib",
+    "nltk",
+    "numpy",
+    "pandas"
+  ],
+  "dataset_sources": [
+    "",
+    "abhinavwalia95/entity-annotated-corpus"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

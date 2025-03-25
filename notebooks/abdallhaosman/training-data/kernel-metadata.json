@@ -1,0 +1,19 @@
+{
+  "id": "abdallhaosman/training-data",
+  "id_no": 41500434,
+  "title": "training _data",
+  "code_file": "training-data.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "gyanprakashkushwaha/realme-mobiles-dataset"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

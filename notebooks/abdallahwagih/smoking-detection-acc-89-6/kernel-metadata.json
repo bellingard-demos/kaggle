@@ -1,0 +1,19 @@
+{
+  "id": "abdallahwagih/smoking-detection-acc-89-6",
+  "id_no": 35553218,
+  "title": "Smoking Detection | Acc: 89.6%",
+  "code_file": "smoking-detection-acc-89-6.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [
+    "vitaminc/cigarette-smoker-detection"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

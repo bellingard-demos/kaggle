@@ -1,0 +1,19 @@
+{
+  "id": "abdhurahman/rfm-cluster-analysis",
+  "id_no": 40100604,
+  "title": "RFM & Cluster Analysis",
+  "code_file": "rfm-cluster-analysis.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "hellbuoy/online-retail-customer-clustering"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

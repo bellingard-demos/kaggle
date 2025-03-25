@@ -1,0 +1,17 @@
+{
+  "id": "abdallahwagih/gans-text-to-image",
+  "id_no": 45604827,
+  "title": "GANs - Text to Image",
+  "code_file": "gans-text-to-image.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

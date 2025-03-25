@@ -1,0 +1,25 @@
+{
+  "id": "aadarshvelu/heart-attack-prediction",
+  "id_no": 17164370,
+  "title": "Heart Attack Prediction",
+  "code_file": "heart-attack-prediction.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "matplotlib",
+    "pandas",
+    "seaborn",
+    "binary classification",
+    "classification"
+  ],
+  "dataset_sources": [
+    "rashikrahmanpritom/heart-attack-analysis-prediction-dataset"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

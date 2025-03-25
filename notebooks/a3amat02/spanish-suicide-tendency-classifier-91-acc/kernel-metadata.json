@@ -1,0 +1,21 @@
+{
+  "id": "a3amat02/spanish-suicide-tendency-classifier-91-acc",
+  "id_no": 40433485,
+  "title": "Spanish Suicide Tendency Classifier 91% acc",
+  "code_file": "spanish-suicide-tendency-classifier-91-acc.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [
+    "robertocarlosmendoza/spanish-lang-suicide-tendency-texts"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

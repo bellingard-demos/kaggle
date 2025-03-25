@@ -1,0 +1,19 @@
+{
+  "id": "abdallahwagih/alzheimer-detection-efficientnetb3-acc-99",
+  "id_no": 35654824,
+  "title": "Alzheimer Detection | efficientnetb3 | Acc: 99%",
+  "code_file": "alzheimer-detection-efficientnetb3-acc-99.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [
+    "sachinkumar413/alzheimer-mri-dataset"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

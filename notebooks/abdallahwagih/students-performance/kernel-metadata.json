@@ -1,0 +1,19 @@
+{
+  "id": "abdallahwagih/students-performance",
+  "id_no": 44100506,
+  "title": "Students Performance",
+  "code_file": "students-performance.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [
+    "spscientist/students-performance-in-exams"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

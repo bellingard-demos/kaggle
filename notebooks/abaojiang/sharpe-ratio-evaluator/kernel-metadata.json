@@ -1,0 +1,19 @@
+{
+  "id": "abaojiang/sharpe-ratio-evaluator",
+  "id_no": 26630357,
+  "title": "Sharpe Ratio Evaluator",
+  "code_file": "sharpe-ratio-evaluator.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "jpx-tokyo-stock-exchange-prediction"
+  ],
+  "model_sources": []
+}

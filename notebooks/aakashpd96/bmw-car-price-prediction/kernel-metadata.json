@@ -1,0 +1,24 @@
+{
+  "id": "aakashpd96/bmw-car-price-prediction",
+  "id_no": 16345218,
+  "title": "BMW_car price prediction",
+  "code_file": "bmw-car-price-prediction.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "matplotlib",
+    "numpy",
+    "pandas",
+    "seaborn"
+  ],
+  "dataset_sources": [
+    "adityadesai13/used-car-dataset-ford-and-mercedes"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

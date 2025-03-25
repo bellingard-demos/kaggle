@@ -1,0 +1,19 @@
+{
+  "id": "abdallahwagih/gans-image-to-image",
+  "id_no": 45608926,
+  "title": "GANs - Image to Image",
+  "code_file": "gans-image-to-image.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [
+    ""
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

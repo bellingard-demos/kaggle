@@ -1,0 +1,19 @@
+{
+  "id": "aashidutt3/eda-jio-mart-product-items",
+  "id_no": 29022386,
+  "title": "\ud83d\uded2EDA: Jio Mart Product Items",
+  "code_file": "eda-jio-mart-product-items.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "mohit2512/jio-mart-product-items"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

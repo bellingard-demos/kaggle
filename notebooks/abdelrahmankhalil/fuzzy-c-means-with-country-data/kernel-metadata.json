@@ -1,0 +1,19 @@
+{
+  "id": "abdelrahmankhalil/fuzzy-c-means-with-country-data",
+  "id_no": 22535987,
+  "title": "Fuzzy C Means With country data",
+  "code_file": "fuzzy-c-means-with-country-data.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "rohan0301/unsupervised-learning-on-country-data"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

@@ -1,0 +1,24 @@
+{
+  "id": "abdelrahmanrabah/pandas-pyspark-pytorch-lstm-cells",
+  "id_no": 35883172,
+  "title": "Pandas, PySpark, PyTorch LSTM cells",
+  "code_file": "pandas-pyspark-pytorch-lstm-cells.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "pytorch",
+    "lstm",
+    "pandas"
+  ],
+  "dataset_sources": [
+    "",
+    "kazanova/sentiment140"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

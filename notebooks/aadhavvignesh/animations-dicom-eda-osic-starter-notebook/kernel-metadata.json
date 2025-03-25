@@ -1,0 +1,23 @@
+{
+  "id": "aadhavvignesh/animations-dicom-eda-osic-starter-notebook",
+  "id_no": 10544607,
+  "title": "Animations, DICOM, EDA: OSIC Starter Notebook",
+  "code_file": "animations-dicom-eda-osic-starter-notebook.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "data visualization",
+    "exploratory data analysis",
+    "image"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "osic-pulmonary-fibrosis-progression"
+  ],
+  "model_sources": []
+}

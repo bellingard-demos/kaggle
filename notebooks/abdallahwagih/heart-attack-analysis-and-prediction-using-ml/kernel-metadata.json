@@ -1,0 +1,20 @@
+{
+  "id": "abdallahwagih/heart-attack-analysis-and-prediction-using-ml",
+  "id_no": 35774378,
+  "title": "Heart Attack Analysis and Prediction Using ML",
+  "code_file": "heart-attack-analysis-and-prediction-using-ml.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [
+    "rashikrahmanpritom/heart-attack-analysis-prediction-dataset",
+    "anasfauzanbaletti/uts-anas-fauzan-baletti"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

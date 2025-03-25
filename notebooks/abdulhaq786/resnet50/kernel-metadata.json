@@ -1,0 +1,21 @@
+{
+  "id": "abdulhaq786/resnet50",
+  "id_no": 47236867,
+  "title": "ResNet50",
+  "code_file": "resnet50.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [
+    "jayaprakashpondy/wheat-leaf-disease"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

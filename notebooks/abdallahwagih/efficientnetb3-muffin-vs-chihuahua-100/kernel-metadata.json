@@ -1,0 +1,19 @@
+{
+  "id": "abdallahwagih/efficientnetb3-muffin-vs-chihuahua-100",
+  "id_no": 33619809,
+  "title": "EfficientNetB3-Muffin VS. Chihuahua-100%",
+  "code_file": "efficientnetb3-muffin-vs-chihuahua-100.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [
+    "samuelcortinhas/muffin-vs-chihuahua-image-classification"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

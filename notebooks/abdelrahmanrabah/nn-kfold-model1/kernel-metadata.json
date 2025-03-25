@@ -1,0 +1,21 @@
+{
+  "id": "abdelrahmanrabah/nn-kfold-model1",
+  "id_no": 25160021,
+  "title": "NN KFold Model1",
+  "code_file": "nn-kfold-model1.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "tabular-playground-series-mar-2022"
+  ],
+  "model_sources": []
+}

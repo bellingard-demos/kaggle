@@ -1,0 +1,19 @@
+{
+  "id": "abdallhaosman/phone-price",
+  "id_no": 41644195,
+  "title": "phone_price",
+  "code_file": "phone-price.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "gyanprakashkushwaha/mobile-recommendation-system-dataset"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

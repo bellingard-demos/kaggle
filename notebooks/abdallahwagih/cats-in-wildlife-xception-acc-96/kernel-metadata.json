@@ -1,0 +1,19 @@
+{
+  "id": "abdallahwagih/cats-in-wildlife-xception-acc-96",
+  "id_no": 35587440,
+  "title": "Cats in wildlife | xception | Acc: 96%",
+  "code_file": "cats-in-wildlife-xception-acc-96.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [
+    "gpiosenka/cats-in-the-wild-image-classification"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

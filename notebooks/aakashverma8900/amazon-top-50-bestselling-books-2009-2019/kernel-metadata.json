@@ -1,0 +1,28 @@
+{
+  "id": "aakashverma8900/amazon-top-50-bestselling-books-2009-2019",
+  "id_no": 14746938,
+  "title": "Amazon Top 50 Bestselling Books 2009-2019",
+  "code_file": "amazon-top-50-bestselling-books-2009-2019.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "pandas",
+    "matplotlib",
+    "numpy",
+    "linear regression",
+    "decision tree",
+    "exploratory data analysis",
+    "seaborn",
+    "sklearn"
+  ],
+  "dataset_sources": [
+    "sootersaalu/amazon-top-50-bestselling-books-2009-2019"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

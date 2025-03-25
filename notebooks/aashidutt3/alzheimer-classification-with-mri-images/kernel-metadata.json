@@ -1,0 +1,19 @@
+{
+  "id": "aashidutt3/alzheimer-classification-with-mri-images",
+  "id_no": 31009320,
+  "title": "\ud83e\udde0Alzheimer Classification with MRI Images ",
+  "code_file": "alzheimer-classification-with-mri-images.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [
+    "uraninjo/augmented-alzheimer-mri-dataset"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

@@ -1,0 +1,24 @@
+{
+  "id": "aaquibsiddiqui/linear-regression-usa-housing",
+  "id_no": 18201615,
+  "title": "Linear Regression USA-Housing",
+  "code_file": "linear-regression-usa-housing.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "matplotlib",
+    "pandas",
+    "plotly",
+    "seaborn"
+  ],
+  "dataset_sources": [
+    "aaquibsiddiqui/usa-housing-dataset"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

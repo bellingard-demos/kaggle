@@ -1,0 +1,19 @@
+{
+  "id": "abdulaminafridi/supermarket-store-branches-sales-analysis",
+  "id_no": 28429973,
+  "title": "Supermarket store branches sales analysis",
+  "code_file": "supermarket-store-branches-sales-analysis.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "surajjha101/stores-area-and-sales-data"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

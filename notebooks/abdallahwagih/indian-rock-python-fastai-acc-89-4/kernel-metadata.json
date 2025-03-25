@@ -1,0 +1,19 @@
+{
+  "id": "abdallahwagih/indian-rock-python-fastai-acc-89-4",
+  "id_no": 36449779,
+  "title": "Indian Rock Python | fastai | Acc: 89.4%",
+  "code_file": "indian-rock-python-fastai-acc-89-4.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [
+    "kaniya/russells-viper-and-indian-rock-python-dataset"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

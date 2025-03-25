@@ -1,0 +1,19 @@
+{
+  "id": "abdallabola/energy",
+  "id_no": 42048316,
+  "title": "ENERGY",
+  "code_file": "energy.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "anshtanwar/global-data-on-sustainable-energy"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

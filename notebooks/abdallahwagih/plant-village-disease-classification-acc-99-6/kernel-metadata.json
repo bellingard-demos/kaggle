@@ -1,0 +1,19 @@
+{
+  "id": "abdallahwagih/plant-village-disease-classification-acc-99-6",
+  "id_no": 35705109,
+  "title": "Plant Village Disease Classification | Acc: 99.6%",
+  "code_file": "plant-village-disease-classification-acc-99-6.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [
+    "abdallahalidev/plantvillage-dataset"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

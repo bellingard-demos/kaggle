@@ -1,0 +1,25 @@
+{
+  "id": "abeerabuzayed/quora-insincere-questions-classification-visualiza",
+  "id_no": 6421344,
+  "title": "Quora Insincere Questions Classification_Visualiza",
+  "code_file": "quora-insincere-questions-classification-visualiza.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "data visualization",
+    "text",
+    "neural networks",
+    "deep learning",
+    "classification"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "quora-insincere-questions-classification"
+  ],
+  "model_sources": []
+}

@@ -1,0 +1,19 @@
+{
+  "id": "a3amat02/historic-sales-eda",
+  "id_no": 38526344,
+  "title": "Historic sales EDA",
+  "code_file": "historic-sales-eda.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "edsonmarin/historic-sales-of-electric-vehicles"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

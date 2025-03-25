@@ -1,0 +1,19 @@
+{
+  "id": "abdoashraf90/car-price-prediction",
+  "id_no": 46631473,
+  "title": "Car_price_prediction",
+  "code_file": "car-price-prediction.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [
+    "hellbuoy/car-price-prediction"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

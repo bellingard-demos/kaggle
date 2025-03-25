@@ -1,0 +1,19 @@
+{
+  "id": "abhi231092/ipl-2023-auction-analytics",
+  "id_no": 34429149,
+  "title": "IPL 2023 Auction Analytics",
+  "code_file": "ipl-2023-auction-analytics.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "idharmeshsuthar/ipl-2023-auction-dataset"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

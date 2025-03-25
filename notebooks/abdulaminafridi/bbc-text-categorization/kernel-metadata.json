@@ -1,0 +1,21 @@
+{
+  "id": "abdulaminafridi/bbc-text-categorization",
+  "id_no": 29811542,
+  "title": "BBC text categorization",
+  "code_file": "bbc-text-categorization.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [
+    "yufengdev/bbc-fulltext-and-category"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

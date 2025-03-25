@@ -1,0 +1,21 @@
+{
+  "id": "aakashpd96/crop-recommendation-model",
+  "id_no": 16549796,
+  "title": "Crop Recommendation Model",
+  "code_file": "crop-recommendation-model.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "pandas"
+  ],
+  "dataset_sources": [
+    "atharvaingle/crop-recommendation-dataset"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

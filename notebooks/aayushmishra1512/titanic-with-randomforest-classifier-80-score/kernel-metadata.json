@@ -1,0 +1,22 @@
+{
+  "id": "aayushmishra1512/titanic-with-randomforest-classifier-80-score",
+  "id_no": 10395231,
+  "title": "Titanic  with RandomForest Classifier(80% score)",
+  "code_file": "titanic-with-randomforest-classifier-80-score.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "data visualization",
+    "exploratory data analysis"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "titanic"
+  ],
+  "model_sources": []
+}

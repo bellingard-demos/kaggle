@@ -1,0 +1,25 @@
+{
+  "id": "abdallahwagih/heart-failure-clinical-records-dataset-eda",
+  "id_no": 20349230,
+  "title": "heart_failure_clinical_records_dataset (EDA)",
+  "code_file": "heart-failure-clinical-records-dataset-eda.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "healthcare",
+    "exploratory data analysis",
+    "matplotlib",
+    "pandas",
+    "seaborn"
+  ],
+  "dataset_sources": [
+    "andrewmvd/heart-failure-clinical-data"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

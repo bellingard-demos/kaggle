@@ -1,0 +1,21 @@
+{
+  "id": "abdallabola/pet-s-facial-expression-image",
+  "id_no": 43619186,
+  "title": "Pet's Facial Expression Image",
+  "code_file": "pet-s-facial-expression-image.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [
+    ""
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

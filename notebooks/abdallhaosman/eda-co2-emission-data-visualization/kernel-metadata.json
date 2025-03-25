@@ -1,0 +1,19 @@
+{
+  "id": "abdallhaosman/eda-co2-emission-data-visualization",
+  "id_no": 42060804,
+  "title": "\ud83d\udcca EDA |CO2 emission Data | Visualization",
+  "code_file": "eda-co2-emission-data-visualization.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "anshtanwar/global-data-on-sustainable-energy"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

@@ -1,0 +1,19 @@
+{
+  "id": "aagyapalkaur/red-wine-dataset-regression-models-eda",
+  "id_no": 41208408,
+  "title": "Red Wine Dataset Regression Models + EDA",
+  "code_file": "red-wine-dataset-regression-models-eda.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [
+    "uciml/red-wine-quality-cortez-et-al-2009"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

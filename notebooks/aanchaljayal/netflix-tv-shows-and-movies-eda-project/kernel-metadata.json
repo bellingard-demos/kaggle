@@ -1,0 +1,19 @@
+{
+  "id": "aanchaljayal/netflix-tv-shows-and-movies-eda-project",
+  "id_no": 36497666,
+  "title": "Netflix Tv shows and Movies - EDA Project",
+  "code_file": "netflix-tv-shows-and-movies-eda-project.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [
+    "shivamb/netflix-shows"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

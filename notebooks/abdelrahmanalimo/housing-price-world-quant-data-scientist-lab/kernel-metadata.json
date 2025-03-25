@@ -1,0 +1,20 @@
+{
+  "id": "abdelrahmanalimo/housing-price-world-quant-data-scientist-lab",
+  "id_no": 43272979,
+  "title": "Housing price (world Quant | Data scientist lab)",
+  "code_file": "housing-price-world-quant-data-scientist-lab.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "",
+    ""
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "abdelrahmanalimo/irc-detect",
+  "id_no": 40064309,
+  "title": "IRC_DETECT",
+  "code_file": "irc-detect.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "logistic regression",
+    "sklearn",
+    "random forest"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "icr-identify-age-related-conditions"
+  ],
+  "model_sources": []
+}

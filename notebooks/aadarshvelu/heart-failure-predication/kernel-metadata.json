@@ -1,0 +1,22 @@
+{
+  "id": "aadarshvelu/heart-failure-predication",
+  "id_no": 17415119,
+  "title": "Heart Failure Predication",
+  "code_file": "heart-failure-predication.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "classification",
+    "healthcare"
+  ],
+  "dataset_sources": [
+    "andrewmvd/heart-failure-clinical-data"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

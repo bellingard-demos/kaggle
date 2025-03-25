@@ -1,0 +1,29 @@
+{
+  "id": "a763337092/mlp123-lstm-cnn-blending1120",
+  "id_no": 12988155,
+  "title": "mlp123_lstm_cnn_blending1120",
+  "code_file": "mlp123-lstm-cnn-blending1120.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "a763337092/cnn-torch1120-weights",
+    "yasufuminakama/iterative-stratification"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "lish-moa"
+  ],
+  "model_sources": []
+}

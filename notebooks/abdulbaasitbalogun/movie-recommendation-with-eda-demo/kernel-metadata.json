@@ -1,0 +1,26 @@
+{
+  "id": "abdulbaasitbalogun/movie-recommendation-with-eda-demo",
+  "id_no": 33732857,
+  "title": "Movie Recommendation with EDA, DEMO",
+  "code_file": "movie-recommendation-with-eda-demo.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "carolzhangdc/imdb-5000-movie-dataset",
+    "lakshmi25npathi/imdb-dataset-of-50k-movie-reviews",
+    "danielgrijalvas/movies",
+    "grouplens/movielens-20m-dataset",
+    "shivamb/netflix-shows",
+    "netflix-inc/netflix-prize-data",
+    "tmdb/tmdb-movie-metadata",
+    "jrobischon/wikipedia-movie-plots"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

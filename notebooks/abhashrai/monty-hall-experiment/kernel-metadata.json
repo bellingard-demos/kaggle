@@ -1,0 +1,20 @@
+{
+  "id": "abhashrai/monty-hall-experiment",
+  "id_no": 37176589,
+  "title": "Monty Hall Experiment",
+  "code_file": "monty-hall-experiment.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "python",
+    "research"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

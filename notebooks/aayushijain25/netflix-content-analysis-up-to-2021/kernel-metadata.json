@@ -1,0 +1,28 @@
+{
+  "id": "aayushijain25/netflix-content-analysis-up-to-2021",
+  "id_no": 17470848,
+  "title": "Netflix Content Analysis up to 2021",
+  "code_file": "netflix-content-analysis-up-to-2021.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "exploratory data analysis",
+    "matplotlib",
+    "data visualization",
+    "pandas",
+    "numpy",
+    "plotly",
+    "seaborn"
+  ],
+  "dataset_sources": [
+    "andradaolteanu/iso-country-codes-global",
+    "shivamb/netflix-shows"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

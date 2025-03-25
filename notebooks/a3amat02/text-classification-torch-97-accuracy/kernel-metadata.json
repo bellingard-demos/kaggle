@@ -1,0 +1,21 @@
+{
+  "id": "a3amat02/text-classification-torch-97-accuracy",
+  "id_no": 46297103,
+  "title": "Text Classification torch \ud83d\udd25 || 97% accuracy \ud83d\ude80",
+  "code_file": "text-classification-torch-97-accuracy.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [
+    "thedrcat/daigt-v2-train-dataset"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

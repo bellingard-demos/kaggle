@@ -1,0 +1,19 @@
+{
+  "id": "abdallamahmoudamin/fraud-detection",
+  "id_no": 25452720,
+  "title": "Fraud detection",
+  "code_file": "fraud-detection.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "mlg-ulb/creditcardfraud"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

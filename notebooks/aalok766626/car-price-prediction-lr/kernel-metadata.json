@@ -1,0 +1,19 @@
+{
+  "id": "aalok766626/car-price-prediction-lr",
+  "id_no": 36516713,
+  "title": "Car Price Prediction LR",
+  "code_file": "car-price-prediction-lr.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [
+    "hellbuoy/car-price-prediction"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

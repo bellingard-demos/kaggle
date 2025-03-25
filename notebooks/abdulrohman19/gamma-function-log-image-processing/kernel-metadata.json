@@ -1,0 +1,19 @@
+{
+  "id": "abdulrohman19/gamma-function-log-image-processing",
+  "id_no": 18441625,
+  "title": "Gamma Function & Log - Image Processing",
+  "code_file": "gamma-function-log-image-processing.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [
+    ""
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

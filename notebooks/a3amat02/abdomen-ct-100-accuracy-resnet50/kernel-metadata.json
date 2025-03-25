@@ -1,0 +1,21 @@
+{
+  "id": "a3amat02/abdomen-ct-100-accuracy-resnet50",
+  "id_no": 47049422,
+  "title": "Abdomen CT 100% accuracy ResNet50",
+  "code_file": "abdomen-ct-100-accuracy-resnet50.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [
+    "trainingdatapro/computed-tomography-ct-of-the-abdomen"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

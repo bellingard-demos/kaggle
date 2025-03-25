@@ -1,0 +1,19 @@
+{
+  "id": "aakashyeddu/apriori-yedduaakash",
+  "id_no": 28013129,
+  "title": "Apriori-YedduAakash",
+  "code_file": "apriori-yedduaakash.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "mittalvasu95/the-bread-basket"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

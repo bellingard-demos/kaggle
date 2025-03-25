@@ -1,0 +1,25 @@
+{
+  "id": "aayushmishra1512/kaggle-ml-ds-survey-detail-eda",
+  "id_no": 13379607,
+  "title": "Kaggle ML & DS Survey Detail EDA\ud83d\udc65",
+  "code_file": "kaggle-ml-ds-survey-detail-eda.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "exploratory data analysis",
+    "matplotlib",
+    "data analytics",
+    "data visualization",
+    "tabular"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "kaggle-survey-2020"
+  ],
+  "model_sources": []
+}

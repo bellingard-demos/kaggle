@@ -1,0 +1,19 @@
+{
+  "id": "abdallahwagih/spotify-analysis-and-visualization",
+  "id_no": 45189670,
+  "title": "Spotify Analysis and Visualization",
+  "code_file": "spotify-analysis-and-visualization.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [
+    "paradisejoy/top-hits-spotify-from-20002019"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

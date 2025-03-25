@@ -1,0 +1,19 @@
+{
+  "id": "abdalrahmanashour/udemy-courses-data-analysis",
+  "id_no": 35885690,
+  "title": "Udemy Courses Data Analysis",
+  "code_file": "udemy-courses-data-analysis.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "ahmedashfaq6777/udemy-courses-dataset"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

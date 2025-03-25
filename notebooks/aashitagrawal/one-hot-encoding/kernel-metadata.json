@@ -1,0 +1,19 @@
+{
+  "id": "aashitagrawal/one-hot-encoding",
+  "id_no": 38993342,
+  "title": "\ud83d\udd25\ud83d\udd25One Hot Encoding",
+  "code_file": "one-hot-encoding.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "aibuzz/cars-dataset"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

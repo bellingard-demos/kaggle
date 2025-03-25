@@ -1,0 +1,19 @@
+{
+  "id": "a3amat02/customer-satisfaction-eda-ml-models",
+  "id_no": 45979820,
+  "title": "Customer Satisfaction EDA || ML models ",
+  "code_file": "customer-satisfaction-eda-ml-models.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "uom190346a/e-commerce-customer-behavior-dataset"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

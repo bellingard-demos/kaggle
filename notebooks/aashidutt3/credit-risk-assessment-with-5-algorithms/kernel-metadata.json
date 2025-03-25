@@ -1,0 +1,19 @@
+{
+  "id": "aashidutt3/credit-risk-assessment-with-5-algorithms",
+  "id_no": 43582019,
+  "title": "Credit Risk Assessment with 5+ Algorithms",
+  "code_file": "credit-risk-assessment-with-5-algorithms.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [
+    "ppb00x/credit-risk-customers"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

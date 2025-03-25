@@ -1,0 +1,23 @@
+{
+  "id": "aayushmishra1512/dogs-and-cats-image-classifier-80-acc",
+  "id_no": 10556543,
+  "title": "Dogs and Cats Image-Classifier(80% acc)",
+  "code_file": "dogs-and-cats-image-classifier-80-acc.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "deep learning",
+    "classification",
+    "neural networks"
+  ],
+  "dataset_sources": [
+    "chetankv/dogs-cats-images"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

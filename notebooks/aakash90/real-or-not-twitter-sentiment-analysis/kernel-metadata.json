@@ -1,0 +1,21 @@
+{
+  "id": "aakash90/real-or-not-twitter-sentiment-analysis",
+  "id_no": 8223831,
+  "title": "Real or Not Twitter sentiment Analysis",
+  "code_file": "real-or-not-twitter-sentiment-analysis.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "nlp-getting-started"
+  ],
+  "model_sources": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "abdulrazzaqshaik/exercise-creating-reading-and-writing",
+  "id_no": 24605562,
+  "title": "Exercise: Creating, Reading and Writing",
+  "code_file": "exercise-creating-reading-and-writing.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [
+    "rtatman/188-million-us-wildfires",
+    "nolanbconaway/pitchfork-data",
+    "datasnaek/chess",
+    "nasa/kepler-exoplanet-search-results",
+    "dansbecker/powerlifting-database",
+    "residentmario/ramen-ratings",
+    "residentmario/things-on-reddit",
+    "datasnaek/youtube-new",
+    "jpmiller/publicassistance",
+    "zynicide/wine-reviews"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

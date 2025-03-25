@@ -1,0 +1,25 @@
+{
+  "id": "abeerabuzayed/restaurant-revenue-prediction-v2",
+  "id_no": 5729566,
+  "title": "Restaurant Revenue Prediction_V2",
+  "code_file": "restaurant-revenue-prediction-v2.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "sklearn",
+    "seaborn",
+    "pandas",
+    "numpy",
+    "matplotlib"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "restaurant-revenue-prediction"
+  ],
+  "model_sources": []
+}

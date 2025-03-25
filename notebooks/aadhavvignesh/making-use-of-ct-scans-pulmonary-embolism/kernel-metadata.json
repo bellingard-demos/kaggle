@@ -1,0 +1,21 @@
+{
+  "id": "aadhavvignesh/making-use-of-ct-scans-pulmonary-embolism",
+  "id_no": 11646070,
+  "title": "Making use of CT Scans: Pulmonary Embolism",
+  "code_file": "making-use-of-ct-scans-pulmonary-embolism.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "image"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "rsna-str-pulmonary-embolism-detection"
+  ],
+  "model_sources": []
+}

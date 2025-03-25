@@ -1,0 +1,19 @@
+{
+  "id": "abazdyrev/neural-network-baseline-for-recommender-systems",
+  "id_no": 3379128,
+  "title": "Neural Network baseline for recommender systems",
+  "code_file": "neural-network-baseline-for-recommender-systems.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "megogochallenge"
+  ],
+  "model_sources": []
+}

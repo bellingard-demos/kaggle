@@ -1,0 +1,21 @@
+{
+  "id": "aakcay/covid-19-data-analysis",
+  "id_no": 24181514,
+  "title": "COVID-19 Data Analysis",
+  "code_file": "covid-19-data-analysis.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "covid19"
+  ],
+  "dataset_sources": [
+    "yamqwe/omicron-covid19-variant-daily-cases"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

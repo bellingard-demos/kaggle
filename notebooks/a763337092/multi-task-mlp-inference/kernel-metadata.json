@@ -1,0 +1,27 @@
+{
+  "id": "a763337092/multi-task-mlp-inference",
+  "id_no": 15071387,
+  "title": "multi-task-mlp[Inference]",
+  "code_file": "multi-task-mlp-inference.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "gpu",
+    "numpy",
+    "pandas"
+  ],
+  "dataset_sources": [
+    ""
+  ],
+  "kernel_sources": [
+    "a763337092/multi-task-mlp-training"
+  ],
+  "competition_sources": [
+    "indoor-location-navigation"
+  ],
+  "model_sources": []
+}

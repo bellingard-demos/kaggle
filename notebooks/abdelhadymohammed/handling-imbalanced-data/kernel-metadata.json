@@ -1,0 +1,19 @@
+{
+  "id": "abdelhadymohammed/handling-imbalanced-data",
+  "id_no": 42558172,
+  "title": "handling imbalanced data",
+  "code_file": "handling-imbalanced-data.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "kamilpytlak/personal-key-indicators-of-heart-disease"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

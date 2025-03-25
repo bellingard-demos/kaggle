@@ -1,0 +1,24 @@
+{
+  "id": "abhayparashar31/flight-fare-prediction-simplest-approach",
+  "id_no": 26083857,
+  "title": "Flight Fare Prediction-Simplest Approach",
+  "code_file": "flight-fare-prediction-simplest-approach.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "random forest",
+    "exploratory data analysis",
+    "feature engineering",
+    "sklearn"
+  ],
+  "dataset_sources": [
+    "nikhilmittal/flight-fare-prediction-mh"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

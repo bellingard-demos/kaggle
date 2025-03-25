@@ -1,0 +1,19 @@
+{
+  "id": "abdullwahabalasiri/startupssalesregion",
+  "id_no": 30371321,
+  "title": "StartupsSalesRegion",
+  "code_file": "startupssalesregion.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [
+    "mohamedridaelbakri/startups-expansion-analysis"
+  ],
+  "competition_sources": [],
+  "model_sources": []
+}

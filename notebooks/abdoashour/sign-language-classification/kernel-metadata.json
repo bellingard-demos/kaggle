@@ -1,0 +1,19 @@
+{
+  "id": "abdoashour/sign-language-classification",
+  "id_no": 42089779,
+  "title": "\ud83e\udd1eSign Language Classification",
+  "code_file": "sign-language-classification.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "datamunge/sign-language-mnist"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

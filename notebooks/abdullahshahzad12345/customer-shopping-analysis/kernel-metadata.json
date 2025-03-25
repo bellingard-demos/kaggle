@@ -1,0 +1,19 @@
+{
+  "id": "abdullahshahzad12345/customer-shopping-analysis",
+  "id_no": 44069736,
+  "title": "Customer shopping analysis",
+  "code_file": "customer-shopping-analysis.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "iamsouravbanerjee/customer-shopping-trends-dataset"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

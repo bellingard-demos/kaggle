@@ -1,0 +1,21 @@
+{
+  "id": "abdulhaq786/admission-prediction-linear-regression",
+  "id_no": 29614796,
+  "title": "Admission Prediction Linear Regression",
+  "code_file": "admission-prediction-linear-regression.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "linear regression"
+  ],
+  "dataset_sources": [
+    "mukeshmanral/graduates-admission-prediction"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

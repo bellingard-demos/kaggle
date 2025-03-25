@@ -1,0 +1,28 @@
+{
+  "id": "aahansinghcharak/heart-disease-prediction",
+  "id_no": 20372984,
+  "title": "Heart Disease Prediction",
+  "code_file": "heart-disease-prediction.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "heart conditions",
+    "health",
+    "matplotlib",
+    "numpy",
+    "pandas",
+    "scipy",
+    "seaborn",
+    "sklearn"
+  ],
+  "dataset_sources": [
+    ""
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

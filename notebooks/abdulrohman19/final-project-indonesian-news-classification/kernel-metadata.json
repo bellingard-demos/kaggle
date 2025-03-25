@@ -1,0 +1,21 @@
+{
+  "id": "abdulrohman19/final-project-indonesian-news-classification",
+  "id_no": 25311186,
+  "title": "Final Project - Indonesian News Classification",
+  "code_file": "final-project-indonesian-news-classification.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [
+    ""
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

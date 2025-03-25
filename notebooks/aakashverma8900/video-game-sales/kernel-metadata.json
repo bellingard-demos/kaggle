@@ -1,0 +1,27 @@
+{
+  "id": "aakashverma8900/video-game-sales",
+  "id_no": 14860935,
+  "title": "Video Game Sales\ud83c\udfae\ud83d\udcca",
+  "code_file": "video-game-sales.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "data visualization",
+    "video games",
+    "exploratory data analysis",
+    "linear regression",
+    "matplotlib",
+    "pandas",
+    "seaborn"
+  ],
+  "dataset_sources": [
+    "gregorut/videogamesales"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

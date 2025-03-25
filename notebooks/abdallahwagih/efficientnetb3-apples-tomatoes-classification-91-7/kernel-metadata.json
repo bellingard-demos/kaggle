@@ -1,0 +1,19 @@
+{
+  "id": "abdallahwagih/efficientnetb3-apples-tomatoes-classification-91-7",
+  "id_no": 33157718,
+  "title": "EfficientNetB3-Apples-Tomatoes-Classification-91.7",
+  "code_file": "efficientnetb3-apples-tomatoes-classification-91-7.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [
+    "samuelcortinhas/apples-or-tomatoes-image-classification"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

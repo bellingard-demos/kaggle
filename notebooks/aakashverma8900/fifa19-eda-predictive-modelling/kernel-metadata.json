@@ -1,0 +1,27 @@
+{
+  "id": "aakashverma8900/fifa19-eda-predictive-modelling",
+  "id_no": 15420820,
+  "title": "FIFA19 EDA\ud83d\udcca + Predictive Modelling\ud83c\udfae",
+  "code_file": "fifa19-eda-predictive-modelling.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "data visualization",
+    "exploratory data analysis",
+    "data cleaning",
+    "data analytics",
+    "linear regression",
+    "decision tree"
+  ],
+  "dataset_sources": [
+    "",
+    ""
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

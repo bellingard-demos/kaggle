@@ -1,0 +1,19 @@
+{
+  "id": "abdelrahmanalimo/usa-investment",
+  "id_no": 42008504,
+  "title": "USA investment",
+  "code_file": "usa-investment.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "abdelrahmanalimo/usa-investment-government"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

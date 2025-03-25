@@ -1,0 +1,21 @@
+{
+  "id": "abazdyrev/iasa-natural-language-processing-workshop-part-1",
+  "id_no": 8210754,
+  "title": "IASA Natural Language Processing Workshop (Part 1)",
+  "code_file": "iasa-natural-language-processing-workshop-part-1.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "abazdyrev/nlp-lectures-images"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "nlp-getting-started"
+  ],
+  "model_sources": []
+}

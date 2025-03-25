@@ -1,0 +1,25 @@
+{
+  "id": "abdallamahmoudamin/stanford-assignment-2-cifar10",
+  "id_no": 20870720,
+  "title": "Stanford Assignment 2 Cifar10",
+  "code_file": "stanford-assignment-2-cifar10.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "matplotlib",
+    "numpy",
+    "pandas",
+    "tensorflow",
+    "gpu"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "cifar-10"
+  ],
+  "model_sources": []
+}

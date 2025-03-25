@@ -1,0 +1,21 @@
+{
+  "id": "aayushmishra1512/recommender-nutrients-based",
+  "id_no": 12070627,
+  "title": "Recommender[Nutrients based]\u2668",
+  "code_file": "recommender-nutrients-based.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "pandas"
+  ],
+  "dataset_sources": [
+    "niharika41298/nutrition-details-for-most-common-foods"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

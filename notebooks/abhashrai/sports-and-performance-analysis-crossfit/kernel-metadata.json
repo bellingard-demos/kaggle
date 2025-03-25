@@ -1,0 +1,25 @@
+{
+  "id": "abhashrai/sports-and-performance-analysis-crossfit",
+  "id_no": 37943903,
+  "title": "Sports and Performance Analysis | Crossfit",
+  "code_file": "sports-and-performance-analysis-crossfit.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "data visualization",
+    "beginner",
+    "exploratory data analysis",
+    "python",
+    "sports"
+  ],
+  "dataset_sources": [
+    "ulrikthygepedersen/crossfit-athletes"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

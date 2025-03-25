@@ -1,0 +1,19 @@
+{
+  "id": "abdulaminafridi/black-friday",
+  "id_no": 33160855,
+  "title": "black_friday",
+  "code_file": "black-friday.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "sdolezel/black-friday"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

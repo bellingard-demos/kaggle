@@ -1,0 +1,19 @@
+{
+  "id": "abdullahshagnoba/linear-regression",
+  "id_no": 38504956,
+  "title": "Linear Regression",
+  "code_file": "linear-regression.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "tmcketterick/heights-and-weights"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

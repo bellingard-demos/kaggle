@@ -1,0 +1,19 @@
+{
+  "id": "aaronzhang12/new-york-cars-eda-data-analysis",
+  "id_no": 41179283,
+  "title": "New York Cars - EDA/Data Analysis",
+  "code_file": "new-york-cars-eda-data-analysis.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [
+    "ahmettalhabektas/new-york-cars-big-data-2023"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

@@ -1,0 +1,19 @@
+{
+  "id": "aagyapalkaur/absolute-beginners-eda-studentperformance",
+  "id_no": 42288488,
+  "title": "\ud83d\udc69\u200d\ud83c\udf93Absolute_Beginners\ud83d\udd0d\ud83d\udccaEDA|StudentPerformance",
+  "code_file": "absolute-beginners-eda-studentperformance.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "whenamancodes/students-performance-in-exams"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

@@ -1,0 +1,19 @@
+{
+  "id": "abdelrahmankhalil/fuzzy-c-means-with-excel-data",
+  "id_no": 22533294,
+  "title": "Fuzzy-C-Means with Excel Data",
+  "code_file": "fuzzy-c-means-with-excel-data.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "imanjowkar/clustering"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

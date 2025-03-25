@@ -1,0 +1,23 @@
+{
+  "id": "abdallahwagih/effecientnetb3-birds-species-98-62",
+  "id_no": 32069953,
+  "title": "EffecientNetB3-Birds-Species-98.62",
+  "code_file": "effecientnetb3-birds-species-98-62.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "efficientnet-b3",
+    "animals",
+    "image classification"
+  ],
+  "dataset_sources": [
+    ""
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

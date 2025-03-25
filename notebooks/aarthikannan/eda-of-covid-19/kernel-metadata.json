@@ -1,0 +1,19 @@
+{
+  "id": "aarthikannan/eda-of-covid-19",
+  "id_no": 8619349,
+  "title": "EDA of COVID-19 ",
+  "code_file": "eda-of-covid-19.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "covid19-global-forecasting-week-2"
+  ],
+  "model_sources": []
+}

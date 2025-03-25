@@ -1,0 +1,19 @@
+{
+  "id": "aashidutt3/eda-top-instagram-influencers-with-wandb",
+  "id_no": 28702909,
+  "title": "EDA:Top-Instagram-Influencers-with-WandB\ud83d\udc1d",
+  "code_file": "eda-top-instagram-influencers-with-wandb.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [
+    ""
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

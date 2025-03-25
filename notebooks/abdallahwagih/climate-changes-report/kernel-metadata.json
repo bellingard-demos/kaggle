@@ -1,0 +1,25 @@
+{
+  "id": "abdallahwagih/climate-changes-report",
+  "id_no": 32977763,
+  "title": "Climate Changes Report",
+  "code_file": "climate-changes-report.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [
+    "",
+    "jarredpriester/antarctica-mass",
+    "jarredpriester/arctic-sea-ice-extent",
+    "jarredpriester/global-annual-mean-temperature",
+    "jarredpriester/global-population",
+    "jarredpriester/global-sea-level-rise",
+    "sevgisarac/temperature-change"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

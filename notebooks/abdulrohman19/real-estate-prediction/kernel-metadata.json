@@ -1,0 +1,23 @@
+{
+  "id": "abdulrohman19/real-estate-prediction",
+  "id_no": 18133592,
+  "title": "Real estate prediction",
+  "code_file": "real-estate-prediction.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "matplotlib",
+    "pandas",
+    "seaborn"
+  ],
+  "dataset_sources": [
+    "oddyvirgantara/harga-real-estate"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

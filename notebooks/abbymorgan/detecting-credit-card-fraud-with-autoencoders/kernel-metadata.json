@@ -1,0 +1,25 @@
+{
+  "id": "abbymorgan/detecting-credit-card-fraud-with-autoencoders",
+  "id_no": 35213028,
+  "title": "Detecting Credit Card Fraud With Autoencoders",
+  "code_file": "detecting-credit-card-fraud-with-autoencoders.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "deep learning",
+    "binary classification",
+    "finance",
+    "neural networks",
+    "tabular classification"
+  ],
+  "dataset_sources": [
+    "mlg-ulb/creditcardfraud"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

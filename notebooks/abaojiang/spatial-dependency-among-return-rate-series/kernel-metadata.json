@@ -1,0 +1,21 @@
+{
+  "id": "abaojiang/spatial-dependency-among-return-rate-series",
+  "id_no": 24051891,
+  "title": "Spatial Dependency among Return Rate Series",
+  "code_file": "spatial-dependency-among-return-rate-series.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "abaojiang/ubiquant-raw"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "ubiquant-market-prediction"
+  ],
+  "model_sources": []
+}

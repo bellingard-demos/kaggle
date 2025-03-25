@@ -1,0 +1,19 @@
+{
+  "id": "a3amat02/apple-amazon-google-microsoft-eda",
+  "id_no": 38965991,
+  "title": "Apple, Amazon, Google, Microsoft EDA",
+  "code_file": "apple-amazon-google-microsoft-eda.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    ""
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

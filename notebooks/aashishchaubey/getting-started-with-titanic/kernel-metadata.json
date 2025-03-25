@@ -1,0 +1,19 @@
+{
+  "id": "aashishchaubey/getting-started-with-titanic",
+  "id_no": 6709277,
+  "title": "Getting Started with Titanic",
+  "code_file": "getting-started-with-titanic.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "titanic"
+  ],
+  "model_sources": []
+}

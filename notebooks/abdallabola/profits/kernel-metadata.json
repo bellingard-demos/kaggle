@@ -1,0 +1,19 @@
+{
+  "id": "abdallabola/profits",
+  "id_no": 42173503,
+  "title": "profits",
+  "code_file": "profits.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "joebeachcapital/top-2000-companies-globally"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

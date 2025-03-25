@@ -1,0 +1,24 @@
+{
+  "id": "abdullahcakmak/video-game-sales-eda-and-visualization",
+  "id_no": 19146924,
+  "title": "Video Game Sales EDA and Visualization",
+  "code_file": "video-game-sales-eda-and-visualization.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "video games",
+    "matplotlib",
+    "pandas",
+    "seaborn"
+  ],
+  "dataset_sources": [
+    "gregorut/videogamesales"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

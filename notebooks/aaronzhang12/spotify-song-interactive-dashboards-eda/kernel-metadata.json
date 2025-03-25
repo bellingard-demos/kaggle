@@ -1,0 +1,19 @@
+{
+  "id": "aaronzhang12/spotify-song-interactive-dashboards-eda",
+  "id_no": 42879472,
+  "title": "Spotify Song Interactive Dashboards(EDA)",
+  "code_file": "spotify-song-interactive-dashboards-eda.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [
+    "nelgiriyewithana/top-spotify-songs-2023"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

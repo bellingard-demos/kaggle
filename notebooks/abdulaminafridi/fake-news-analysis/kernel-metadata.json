@@ -1,0 +1,21 @@
+{
+  "id": "abdulaminafridi/fake-news-analysis",
+  "id_no": 28475931,
+  "title": "fake news analysis ",
+  "code_file": "fake-news-analysis.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [
+    ""
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

@@ -1,0 +1,21 @@
+{
+  "id": "abdulhaq786/efficient-net-95-percent",
+  "id_no": 47231350,
+  "title": "Efficient Net 95 percent",
+  "code_file": "efficient-net-95-percent.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [
+    "jayaprakashpondy/wheat-leaf-disease"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

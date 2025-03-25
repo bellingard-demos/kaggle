@@ -1,0 +1,27 @@
+{
+  "id": "abhashrai/classifying-traffic-95-accuracy-cnn-xception",
+  "id_no": 44589643,
+  "title": "Classifying Traffic | 95% Accuracy | CNN-Xception",
+  "code_file": "classifying-traffic-95-accuracy-cnn-xception.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "image augmentation",
+    "cnn",
+    "keras",
+    "image classification",
+    "intermediate",
+    "gpu"
+  ],
+  "dataset_sources": [
+    "",
+    "abhashrai/traffic-congestion-videos"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

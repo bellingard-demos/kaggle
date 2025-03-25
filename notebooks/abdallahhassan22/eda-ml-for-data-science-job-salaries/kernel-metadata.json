@@ -1,0 +1,25 @@
+{
+  "id": "abdallahhassan22/eda-ml-for-data-science-job-salaries",
+  "id_no": 29371397,
+  "title": "\ud83d\udccaEDA + ML for Data Science Job Salaries  ",
+  "code_file": "eda-ml-for-data-science-job-salaries.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "data visualization",
+    "data analytics",
+    "beginner",
+    "intermediate",
+    "seaborn"
+  ],
+  "dataset_sources": [
+    "ruchi798/data-science-job-salaries"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

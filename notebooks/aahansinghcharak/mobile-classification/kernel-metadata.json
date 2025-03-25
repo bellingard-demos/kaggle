@@ -1,0 +1,24 @@
+{
+  "id": "aahansinghcharak/mobile-classification",
+  "id_no": 20305126,
+  "title": "Mobile Classification",
+  "code_file": "mobile-classification.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "matplotlib",
+    "pandas",
+    "seaborn"
+  ],
+  "dataset_sources": [
+    "iabhishekofficial/mobile-price-classification",
+    "spscientist/students-performance-in-exams"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

@@ -1,0 +1,24 @@
+{
+  "id": "abdallahhassan22/deep-learning-model-for-retinopathy-detection",
+  "id_no": 29308981,
+  "title": "Deep Learning Model For Retinopathy detection",
+  "code_file": "deep-learning-model-for-retinopathy-detection.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "diabetes",
+    "eyes and vision",
+    "cnn",
+    "image"
+  ],
+  "dataset_sources": [
+    "abdallahhassan22/drdata"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

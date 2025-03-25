@@ -1,0 +1,19 @@
+{
+  "id": "aashidutt3/eda-us-domestic-flights",
+  "id_no": 28607023,
+  "title": "EDA: US-Domestic-Flights ",
+  "code_file": "eda-us-domestic-flights.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "ryanjt/us-domestic-flights-from-1990-to-2009"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

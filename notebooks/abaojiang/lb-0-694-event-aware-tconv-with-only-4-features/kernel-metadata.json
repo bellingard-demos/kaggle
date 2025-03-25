@@ -1,0 +1,22 @@
+{
+  "id": "abaojiang/lb-0-694-event-aware-tconv-with-only-4-features",
+  "id_no": 36627170,
+  "title": "[LB 0.694] Event-Aware TConv with Only 4 Features",
+  "code_file": "lb-0-694-event-aware-tconv-with-only-4-features.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [
+    "",
+    "abaojiang/0330-16-53-13"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "predict-student-performance-from-game-play"
+  ],
+  "model_sources": []
+}

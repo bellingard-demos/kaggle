@@ -1,0 +1,19 @@
+{
+  "id": "a3amat02/covid19-in-india-state-wise-eda",
+  "id_no": 41900247,
+  "title": "Covid19 in India State wise EDA",
+  "code_file": "covid19-in-india-state-wise-eda.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "joebeachcapital/covid-19-india-statewise-2023"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

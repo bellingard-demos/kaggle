@@ -1,0 +1,27 @@
+{
+  "id": "a763337092/bert-blending-v1",
+  "id_no": 7350285,
+  "title": "bert_blending_v1",
+  "code_file": "bert-blending-v1.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [
+    "",
+    "prokaj/bert-joint-baseline",
+    "a763337092/bert-en-uncased-l12-h768-a12",
+    "a763337092/bert-weights-repeatkfold1224",
+    "a763337092/qa2bert1230"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "google-quest-challenge"
+  ],
+  "model_sources": []
+}

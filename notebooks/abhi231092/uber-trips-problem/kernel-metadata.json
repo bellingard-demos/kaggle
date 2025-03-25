@@ -1,0 +1,21 @@
+{
+  "id": "abhi231092/uber-trips-problem",
+  "id_no": 34273538,
+  "title": "Uber Trips Problem",
+  "code_file": "uber-trips-problem.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "exploratory data analysis"
+  ],
+  "dataset_sources": [
+    "abhi231092/uber-rides-data-bw-city-and-airport"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

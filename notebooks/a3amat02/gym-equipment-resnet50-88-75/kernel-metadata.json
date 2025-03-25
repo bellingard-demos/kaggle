@@ -1,0 +1,19 @@
+{
+  "id": "a3amat02/gym-equipment-resnet50-88-75",
+  "id_no": 39586611,
+  "title": "Gym Equipment ResNet50 88.75%",
+  "code_file": "gym-equipment-resnet50-88-75.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "starsiwach/4-gym-equipment-types-classification-dataset"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

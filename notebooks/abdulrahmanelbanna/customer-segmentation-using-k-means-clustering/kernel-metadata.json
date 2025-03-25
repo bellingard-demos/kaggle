@@ -1,0 +1,19 @@
+{
+  "id": "abdulrahmanelbanna/customer-segmentation-using-k-means-clustering",
+  "id_no": 43319458,
+  "title": "Customer Segmentation using K-Means Clustering",
+  "code_file": "customer-segmentation-using-k-means-clustering.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "vjchoudhary7/customer-segmentation-tutorial-in-python"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

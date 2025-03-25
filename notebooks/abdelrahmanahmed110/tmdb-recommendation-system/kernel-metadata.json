@@ -1,0 +1,19 @@
+{
+  "id": "abdelrahmanahmed110/tmdb-recommendation-system",
+  "id_no": 40515529,
+  "title": "TMDB Recommendation System ",
+  "code_file": "tmdb-recommendation-system.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "jillanisofttech/updatedtmdb-movies-dataset"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

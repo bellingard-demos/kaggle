@@ -1,0 +1,21 @@
+{
+  "id": "abdullahkavakli/brain-tumor-classification-with-cnn",
+  "id_no": 36440229,
+  "title": "\ud83e\udde0 Brain Tumor Classification with CNN",
+  "code_file": "brain-tumor-classification-with-cnn.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [
+    "sartajbhuvaji/brain-tumor-classification-mri"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

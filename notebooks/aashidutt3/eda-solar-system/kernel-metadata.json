@@ -1,0 +1,19 @@
+{
+  "id": "aashidutt3/eda-solar-system",
+  "id_no": 30883975,
+  "title": "\u2600\ud83c\udf0e\ud83c\udf15\ud83e\ude90EDA : Solar System",
+  "code_file": "eda-solar-system.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "iamsouravbanerjee/planet-dataset"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

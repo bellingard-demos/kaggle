@@ -1,0 +1,25 @@
+{
+  "id": "aayushmishra1512/pneumonia-detection-using-cnn",
+  "id_no": 12959534,
+  "title": "Pneumonia Detection using CNN\ud83c\udfe5",
+  "code_file": "pneumonia-detection-using-cnn.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "deep learning",
+    "matplotlib",
+    "healthcare",
+    "cnn",
+    "tensorflow"
+  ],
+  "dataset_sources": [
+    "paultimothymooney/chest-xray-pneumonia"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

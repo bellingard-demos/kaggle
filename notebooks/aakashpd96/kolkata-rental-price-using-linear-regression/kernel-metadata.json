@@ -1,0 +1,23 @@
+{
+  "id": "aakashpd96/kolkata-rental-price-using-linear-regression",
+  "id_no": 17292308,
+  "title": "Kolkata Rental Price using Linear Regression",
+  "code_file": "kolkata-rental-price-using-linear-regression.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "numpy",
+    "pandas",
+    "sklearn"
+  ],
+  "dataset_sources": [
+    "saisaathvik/house-rent-prices-of-metropolitan-cities-in-india"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

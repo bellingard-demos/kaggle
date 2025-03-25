@@ -1,0 +1,23 @@
+{
+  "id": "abdelrahmanhassanein/ptp-matching-siamese-lstm",
+  "id_no": 26296491,
+  "title": "PTP_matching_Siamese_LSTM",
+  "code_file": "ptp-matching-siamese-lstm.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [
+    "danielwillgeorge/glove6b100dtxt"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "us-patent-phrase-to-phrase-matching"
+  ],
+  "model_sources": []
+}

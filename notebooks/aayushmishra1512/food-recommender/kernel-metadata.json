@@ -1,0 +1,22 @@
+{
+  "id": "aayushmishra1512/food-recommender",
+  "id_no": 11585482,
+  "title": "Food Recommender\ud83c\udf55",
+  "code_file": "food-recommender.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "numpy",
+    "pandas"
+  ],
+  "dataset_sources": [
+    "shuyangli94/food-com-recipes-and-user-interactions"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

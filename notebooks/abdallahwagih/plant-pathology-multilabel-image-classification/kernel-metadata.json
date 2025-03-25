@@ -1,0 +1,19 @@
+{
+  "id": "abdallahwagih/plant-pathology-multilabel-image-classification",
+  "id_no": 34410387,
+  "title": "Plant Pathology- Multilabel Image Classification",
+  "code_file": "plant-pathology-multilabel-image-classification.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "plant-pathology-2021-fgvc8"
+  ],
+  "model_sources": []
+}

@@ -1,0 +1,19 @@
+{
+  "id": "aakashgare/33-pandas-series-ii",
+  "id_no": 42237358,
+  "title": "33.Pandas-series II",
+  "code_file": "33-pandas-series-ii.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "gregorut/videogamesales"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

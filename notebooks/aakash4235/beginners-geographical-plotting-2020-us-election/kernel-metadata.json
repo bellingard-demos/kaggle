@@ -1,0 +1,20 @@
+{
+  "id": "aakash4235/beginners-geographical-plotting-2020-us-election",
+  "id_no": 12922610,
+  "title": "Beginners Geographical plotting(2020 US election)",
+  "code_file": "beginners-geographical-plotting-2020-us-election.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "",
+    "paultimothymooney/latitude-and-longitude-for-every-country-and-state"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

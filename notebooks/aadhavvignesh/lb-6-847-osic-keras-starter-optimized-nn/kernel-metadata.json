@@ -1,0 +1,19 @@
+{
+  "id": "aadhavvignesh/lb-6-847-osic-keras-starter-optimized-nn",
+  "id_no": 10660234,
+  "title": "[LB: -6.847] OSIC Keras Starter: Optimized NN",
+  "code_file": "lb-6-847-osic-keras-starter-optimized-nn.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "osic-pulmonary-fibrosis-progression"
+  ],
+  "model_sources": []
+}

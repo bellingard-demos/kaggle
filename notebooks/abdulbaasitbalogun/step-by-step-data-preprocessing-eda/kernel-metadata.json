@@ -1,0 +1,19 @@
+{
+  "id": "abdulbaasitbalogun/step-by-step-data-preprocessing-eda",
+  "id_no": 33720141,
+  "title": "Step-by-step Data Preprocessing & EDA",
+  "code_file": "step-by-step-data-preprocessing-eda.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [
+    "rmisra/clothing-fit-dataset-for-size-recommendation"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

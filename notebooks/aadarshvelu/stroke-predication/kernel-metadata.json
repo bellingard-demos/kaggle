@@ -1,0 +1,27 @@
+{
+  "id": "aadarshvelu/stroke-predication",
+  "id_no": 16152542,
+  "title": "Stroke Predication...",
+  "code_file": "stroke-predication.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "binary classification",
+    "sampling",
+    "logistic regression",
+    "matplotlib",
+    "numpy",
+    "pandas",
+    "seaborn"
+  ],
+  "dataset_sources": [
+    "fedesoriano/stroke-prediction-dataset"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

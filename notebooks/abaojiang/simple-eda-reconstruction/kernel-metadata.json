@@ -1,0 +1,26 @@
+{
+  "id": "abaojiang/simple-eda-reconstruction",
+  "id_no": 17703576,
+  "title": "Simple EDA Reconstruction (\u5167\u542b\u90e8\u5206\u4e2d\u6587\u7ffb\u8b6f)",
+  "code_file": "simple-eda-reconstruction.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "pandas",
+    "exploratory data analysis",
+    "python",
+    "numpy",
+    "plotly",
+    "games"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "mlb-player-digital-engagement-forecasting"
+  ],
+  "model_sources": []
+}

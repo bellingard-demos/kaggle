@@ -1,0 +1,22 @@
+{
+  "id": "abdallahhassan22/titanic-notebook",
+  "id_no": 28756011,
+  "title": "titanic notebook",
+  "code_file": "titanic-notebook.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "classification",
+    "beginner"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "titanic"
+  ],
+  "model_sources": []
+}

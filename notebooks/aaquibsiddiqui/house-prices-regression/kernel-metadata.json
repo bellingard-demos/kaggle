@@ -1,0 +1,23 @@
+{
+  "id": "aaquibsiddiqui/house-prices-regression",
+  "id_no": 18481025,
+  "title": "House Prices/Regression",
+  "code_file": "house-prices-regression.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "matplotlib",
+    "pandas",
+    "seaborn"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "house-prices-advanced-regression-techniques"
+  ],
+  "model_sources": []
+}

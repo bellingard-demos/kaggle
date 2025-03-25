@@ -1,0 +1,20 @@
+{
+  "id": "abdullahnchy/hackules-play-book-1",
+  "id_no": 44588830,
+  "title": "Hackules Play Book 1",
+  "code_file": "hackules-play-book-1.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "atmragib/abc-dataset",
+    "yakinrubaiat/bangladesh-weather-dataset"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

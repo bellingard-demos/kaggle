@@ -1,0 +1,19 @@
+{
+  "id": "abdallahwagih/grape-disease-xception-acc-99",
+  "id_no": 35379503,
+  "title": "Grape Disease | xception | acc: 99%",
+  "code_file": "grape-disease-xception-acc-99.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [
+    "rm1000/grape-disease-dataset-original"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

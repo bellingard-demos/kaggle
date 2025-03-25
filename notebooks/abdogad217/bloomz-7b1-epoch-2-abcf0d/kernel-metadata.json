@@ -1,0 +1,24 @@
+{
+  "id": "abdogad217/bloomz-7b1-epoch-2-abcf0d",
+  "id_no": 47315588,
+  "title": "bloomz 7b1 epoch 2 abcf0d",
+  "code_file": "bloomz-7b1-epoch-2-abcf0d.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [
+    "emam2002/bloomz-7b1-ar",
+    "emam2002/bloomz-7b1-epoch-2-2",
+    "elemam/expect-answer-true-or-false",
+    "elemam/expect-answer-true-or-false-arabic"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

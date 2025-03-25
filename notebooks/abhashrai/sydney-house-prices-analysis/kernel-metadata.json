@@ -1,0 +1,25 @@
+{
+  "id": "abhashrai/sydney-house-prices-analysis",
+  "id_no": 35296299,
+  "title": "Sydney House Prices Analysis",
+  "code_file": "sydney-house-prices-analysis.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "data cleaning",
+    "data visualization",
+    "data analytics",
+    "beginner",
+    "housing"
+  ],
+  "dataset_sources": [
+    "mihirhalai/sydney-house-prices"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

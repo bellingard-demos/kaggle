@@ -1,0 +1,24 @@
+{
+  "id": "aashita/feature-engineering-for-march-madness",
+  "id_no": 773118,
+  "title": "Feature Engineering for March Madness ",
+  "code_file": "feature-engineering-for-march-madness.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "beginner",
+    "feature engineering",
+    "games"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "mens-machine-learning-competition-2018",
+    "mens-machine-learning-competition-2019"
+  ],
+  "model_sources": []
+}

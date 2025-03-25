@@ -1,0 +1,19 @@
+{
+  "id": "aakashveera/yolo-v4-dataset-creator",
+  "id_no": 10931088,
+  "title": "Yolo-v4 dataset creator",
+  "code_file": "yolo-v4-dataset-creator.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "global-wheat-detection"
+  ],
+  "model_sources": []
+}

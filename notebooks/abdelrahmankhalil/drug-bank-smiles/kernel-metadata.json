@@ -1,0 +1,19 @@
+{
+  "id": "abdelrahmankhalil/drug-bank-smiles",
+  "id_no": 32998527,
+  "title": "Drug Bank Smiles ",
+  "code_file": "drug-bank-smiles.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "waqarkaleemkhan/drug-bank-dataset-excel-file"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

@@ -1,0 +1,21 @@
+{
+  "id": "abdokhalf/video-games-sales-visualization",
+  "id_no": 16443258,
+  "title": "Video Games Sales Visualization",
+  "code_file": "video-games-sales-visualization.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "video games"
+  ],
+  "dataset_sources": [
+    "gregorut/videogamesales"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

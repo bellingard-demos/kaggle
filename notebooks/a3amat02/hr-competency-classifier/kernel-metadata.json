@@ -1,0 +1,19 @@
+{
+  "id": "a3amat02/hr-competency-classifier",
+  "id_no": 38389338,
+  "title": "HR Competency Classifier",
+  "code_file": "hr-competency-classifier.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "muhammadjawwadismail/hr-competency-scores-for-screening"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

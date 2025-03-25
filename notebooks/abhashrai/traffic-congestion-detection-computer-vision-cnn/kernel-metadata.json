@@ -1,0 +1,25 @@
+{
+  "id": "abhashrai/traffic-congestion-detection-computer-vision-cnn",
+  "id_no": 38788782,
+  "title": "Traffic Congestion Detection-Computer Vision-CNN",
+  "code_file": "traffic-congestion-detection-computer-vision-cnn.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "gpu",
+    "image",
+    "computer vision",
+    "intermediate",
+    "cnn"
+  ],
+  "dataset_sources": [
+    "abhashrai/traffic-images-data"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

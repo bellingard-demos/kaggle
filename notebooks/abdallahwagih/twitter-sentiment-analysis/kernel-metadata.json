@@ -1,0 +1,19 @@
+{
+  "id": "abdallahwagih/twitter-sentiment-analysis",
+  "id_no": 44542968,
+  "title": "Twitter Sentiment Analysis",
+  "code_file": "twitter-sentiment-analysis.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [
+    "jp797498e/twitter-entity-sentiment-analysis"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

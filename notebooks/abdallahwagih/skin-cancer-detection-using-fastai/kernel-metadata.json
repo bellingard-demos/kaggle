@@ -1,0 +1,19 @@
+{
+  "id": "abdallahwagih/skin-cancer-detection-using-fastai",
+  "id_no": 36585733,
+  "title": "Skin Cancer Detection Using Fastai",
+  "code_file": "skin-cancer-detection-using-fastai.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [
+    "kylegraupe/skin-cancer-binary-classification-dataset"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

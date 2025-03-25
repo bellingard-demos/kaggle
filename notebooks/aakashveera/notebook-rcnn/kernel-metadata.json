@@ -1,0 +1,24 @@
+{
+  "id": "aakashveera/notebook-rcnn",
+  "id_no": 10896364,
+  "title": "notebook RCNN",
+  "code_file": "notebook-rcnn.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [
+    "aakashveera/faster-rcnn-pretrained-weights",
+    "pestipeti/global-wheat-detection-public"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "global-wheat-detection"
+  ],
+  "model_sources": []
+}

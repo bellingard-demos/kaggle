@@ -1,0 +1,19 @@
+{
+  "id": "abeerhmousa/notebookaa1ceb5707",
+  "id_no": 42610937,
+  "title": "notebookaa1ceb5707",
+  "code_file": "notebookaa1ceb5707.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [
+    "mlg-ulb/creditcardfraud"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

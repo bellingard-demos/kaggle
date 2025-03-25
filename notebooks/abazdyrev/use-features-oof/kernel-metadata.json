@@ -1,0 +1,26 @@
+{
+  "id": "abazdyrev/use-features-oof",
+  "id_no": 6768864,
+  "title": "USE + Features + OOF",
+  "code_file": "use-features-oof.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "deep learning",
+    "nlp",
+    "beginner",
+    "gpu"
+  ],
+  "dataset_sources": [
+    "ldm314/universalsentenceencoderlarge4"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "google-quest-challenge"
+  ],
+  "model_sources": []
+}

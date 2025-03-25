@@ -1,0 +1,21 @@
+{
+  "id": "a3amat02/resnet50-99-accuracy-healthy-tomato-classifier",
+  "id_no": 47361519,
+  "title": "ResNet50 99% accuracy Healthy Tomato Classifier",
+  "code_file": "resnet50-99-accuracy-healthy-tomato-classifier.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [
+    "nexuswho/tomatofruits"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

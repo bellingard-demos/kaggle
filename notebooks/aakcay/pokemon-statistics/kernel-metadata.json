@@ -1,0 +1,23 @@
+{
+  "id": "aakcay/pokemon-statistics",
+  "id_no": 5036579,
+  "title": " pokemon statistics",
+  "code_file": "pokemon-statistics.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "pandas",
+    "matplotlib",
+    "seaborn"
+  ],
+  "dataset_sources": [
+    "abcsds/pokemon"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

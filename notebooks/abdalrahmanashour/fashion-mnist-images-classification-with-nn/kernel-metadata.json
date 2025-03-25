@@ -1,0 +1,21 @@
+{
+  "id": "abdalrahmanashour/fashion-mnist-images-classification-with-nn",
+  "id_no": 14350958,
+  "title": "fashion_mnist_images_Classification_with_NN",
+  "code_file": "fashion-mnist-images-classification-with-nn.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "matplotlib",
+    "numpy",
+    "tensorflow"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

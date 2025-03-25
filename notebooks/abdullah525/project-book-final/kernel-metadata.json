@@ -1,0 +1,19 @@
+{
+  "id": "abdullah525/project-book-final",
+  "id_no": 38914785,
+  "title": "project-book-final",
+  "code_file": "project-book-final.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "uciml/pima-indians-diabetes-database"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

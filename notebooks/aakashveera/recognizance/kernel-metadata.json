@@ -1,0 +1,21 @@
+{
+  "id": "aakashveera/recognizance",
+  "id_no": 10697304,
+  "title": "recognizance",
+  "code_file": "recognizance.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "recognizance"
+  ],
+  "model_sources": []
+}

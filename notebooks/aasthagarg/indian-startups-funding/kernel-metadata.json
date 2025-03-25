@@ -1,0 +1,23 @@
+{
+  "id": "aasthagarg/indian-startups-funding",
+  "id_no": 15005864,
+  "title": "Indian_Startups_funding",
+  "code_file": "indian-startups-funding.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "matplotlib",
+    "pandas",
+    "seaborn"
+  ],
+  "dataset_sources": [
+    "sudalairajkumar/indian-startup-funding"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

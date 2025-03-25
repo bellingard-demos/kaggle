@@ -1,0 +1,19 @@
+{
+  "id": "aakashveera/m5-accuracy",
+  "id_no": 10717771,
+  "title": "M5 Accuracy",
+  "code_file": "m5-accuracy.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "m5-forecasting-accuracy"
+  ],
+  "model_sources": []
+}

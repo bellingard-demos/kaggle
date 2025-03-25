@@ -1,0 +1,21 @@
+{
+  "id": "abdelrahmanalimo/stoke-price-with-lstm",
+  "id_no": 44705790,
+  "title": "Stoke Price With LSTM",
+  "code_file": "stoke-price-with-lstm.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "lstm",
+    "keras",
+    "finance"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

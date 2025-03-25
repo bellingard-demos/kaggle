@@ -1,0 +1,19 @@
+{
+  "id": "abdelhadymohammed/mobile-price-classification",
+  "id_no": 42530990,
+  "title": "mobile_price_classification",
+  "code_file": "mobile-price-classification.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "iabhishekofficial/mobile-price-classification"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

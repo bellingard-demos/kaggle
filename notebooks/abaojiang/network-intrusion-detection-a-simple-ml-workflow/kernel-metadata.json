@@ -1,0 +1,25 @@
+{
+  "id": "abaojiang/network-intrusion-detection-a-simple-ml-workflow",
+  "id_no": 17742674,
+  "title": "Network Intrusion Detection - A Simple ML Workflow",
+  "code_file": "network-intrusion-detection-a-simple-ml-workflow.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "numpy",
+    "pandas",
+    "plotly",
+    "exploratory data analysis",
+    "binary classification"
+  ],
+  "dataset_sources": [
+    "sampadab17/network-intrusion-detection"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

@@ -1,0 +1,19 @@
+{
+  "id": "aakashveera/random-forest",
+  "id_no": 10810344,
+  "title": "Random Forest",
+  "code_file": "random-forest.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "bosch-production-line-performance"
+  ],
+  "model_sources": []
+}

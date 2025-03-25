@@ -1,0 +1,19 @@
+{
+  "id": "aadarshvelu/ts-analysis",
+  "id_no": 29724846,
+  "title": "TS Analysis",
+  "code_file": "ts-analysis.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "twinkle0705/state-wise-power-consumption-in-india"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

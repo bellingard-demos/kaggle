@@ -1,0 +1,19 @@
+{
+  "id": "aaronalbrecht/hardness-contest",
+  "id_no": 46381069,
+  "title": "hardness contest",
+  "code_file": "hardness-contest.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "playground-series-s3e25"
+  ],
+  "model_sources": []
+}

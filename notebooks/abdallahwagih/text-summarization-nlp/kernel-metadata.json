@@ -1,0 +1,17 @@
+{
+  "id": "abdallahwagih/text-summarization-nlp",
+  "id_no": 44582189,
+  "title": "Text Summarization NLP",
+  "code_file": "text-summarization-nlp.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

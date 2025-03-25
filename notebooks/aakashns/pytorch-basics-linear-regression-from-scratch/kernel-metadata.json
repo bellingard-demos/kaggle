@@ -1,0 +1,21 @@
+{
+  "id": "aakashns/pytorch-basics-linear-regression-from-scratch",
+  "id_no": 1708968,
+  "title": "PyTorch basics - Linear Regression from scratch",
+  "code_file": "pytorch-basics-linear-regression-from-scratch.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "beginner",
+    "linear regression",
+    "deep learning"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

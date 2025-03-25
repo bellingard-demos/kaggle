@@ -1,0 +1,19 @@
+{
+  "id": "abaojiang/eda-on-game-progress",
+  "id_no": 35226554,
+  "title": "EDA on Game Progress",
+  "code_file": "eda-on-game-progress.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "predict-student-performance-from-game-play"
+  ],
+  "model_sources": []
+}

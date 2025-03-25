@@ -1,0 +1,25 @@
+{
+  "id": "aashita/word-clouds-of-various-shapes",
+  "id_no": 814599,
+  "title": "Word clouds of various shapes",
+  "code_file": "word-clouds-of-various-shapes.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "data visualization",
+    "exploratory data analysis",
+    "text mining",
+    "text"
+  ],
+  "dataset_sources": [
+    "aashita/masks",
+    "aashita/nyt-comments"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

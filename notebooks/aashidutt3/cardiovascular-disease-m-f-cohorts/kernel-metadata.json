@@ -1,0 +1,21 @@
+{
+  "id": "aashidutt3/cardiovascular-disease-m-f-cohorts",
+  "id_no": 16770640,
+  "title": "cardiovascular disease M/F cohorts ",
+  "code_file": "cardiovascular-disease-m-f-cohorts.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "health"
+  ],
+  "dataset_sources": [
+    "ishadss/kkkkkk"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

@@ -1,0 +1,19 @@
+{
+  "id": "abdelraofmohamed/polynomial-regression",
+  "id_no": 42350565,
+  "title": "Polynomial Regression",
+  "code_file": "polynomial-regression.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "mirajdeepbhandari/polynomial-regression"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

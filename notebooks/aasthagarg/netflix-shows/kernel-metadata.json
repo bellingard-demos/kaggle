@@ -1,0 +1,25 @@
+{
+  "id": "aasthagarg/netflix-shows",
+  "id_no": 15084955,
+  "title": "Netflix_shows",
+  "code_file": "netflix-shows.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "matplotlib",
+    "numpy",
+    "pandas",
+    "plotly",
+    "seaborn"
+  ],
+  "dataset_sources": [
+    "shivamb/netflix-shows"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

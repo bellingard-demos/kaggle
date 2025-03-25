@@ -1,0 +1,19 @@
+{
+  "id": "abdullahkavakli/restaurant-reviews-classification",
+  "id_no": 36595706,
+  "title": "\ud83e\udd57Restaurant Reviews Classification ",
+  "code_file": "restaurant-reviews-classification.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "vigneshwarsofficial/reviews"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

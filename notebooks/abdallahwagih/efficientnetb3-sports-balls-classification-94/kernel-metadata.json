@@ -1,0 +1,19 @@
+{
+  "id": "abdallahwagih/efficientnetb3-sports-balls-classification-94",
+  "id_no": 33618570,
+  "title": "EfficientNetB3-Sports Balls Classification-94%",
+  "code_file": "efficientnetb3-sports-balls-classification-94.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [
+    "samuelcortinhas/sports-balls-multiclass-image-classification"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

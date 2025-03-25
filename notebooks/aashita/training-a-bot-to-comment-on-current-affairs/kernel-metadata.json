@@ -1,0 +1,23 @@
+{
+  "id": "aashita/training-a-bot-to-comment-on-current-affairs",
+  "id_no": 924053,
+  "title": "Training a bot to comment on current affairs",
+  "code_file": "training-a-bot-to-comment-on-current-affairs.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "text",
+    "languages",
+    "nlp"
+  ],
+  "dataset_sources": [
+    "aashita/nyt-comments"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

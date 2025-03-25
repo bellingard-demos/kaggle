@@ -1,0 +1,17 @@
+{
+  "id": "abbymorgan/yolov5-comet-artifacts",
+  "id_no": 35235494,
+  "title": "Yolov5+Comet_Artifacts",
+  "code_file": "yolov5-comet-artifacts.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

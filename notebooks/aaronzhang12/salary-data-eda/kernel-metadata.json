@@ -1,0 +1,19 @@
+{
+  "id": "aaronzhang12/salary-data-eda",
+  "id_no": 41712791,
+  "title": "Salary Data EDA",
+  "code_file": "salary-data-eda.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [
+    ""
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

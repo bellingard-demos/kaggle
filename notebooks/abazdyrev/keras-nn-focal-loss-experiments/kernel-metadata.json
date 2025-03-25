@@ -1,0 +1,28 @@
+{
+  "id": "abazdyrev/keras-nn-focal-loss-experiments",
+  "id_no": 5256675,
+  "title": "Keras NN + Focal Loss experiments",
+  "code_file": "keras-nn-focal-loss-experiments.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "deep learning",
+    "classification",
+    "tabular",
+    "gpu",
+    "tensorflow",
+    "pandas",
+    "numpy",
+    "keras"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "ieee-fraud-detection"
+  ],
+  "model_sources": []
+}

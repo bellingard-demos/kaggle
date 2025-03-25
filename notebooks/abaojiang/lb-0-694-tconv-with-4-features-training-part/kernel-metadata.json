@@ -1,0 +1,22 @@
+{
+  "id": "abaojiang/lb-0-694-tconv-with-4-features-training-part",
+  "id_no": 36765468,
+  "title": "[LB 0.694] TConv with 4 Features - Training Part",
+  "code_file": "lb-0-694-tconv-with-4-features-training-part.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [
+    "abaojiang/0330-16-53-13",
+    "abaojiang/jo-old-train"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "predict-student-performance-from-game-play"
+  ],
+  "model_sources": []
+}

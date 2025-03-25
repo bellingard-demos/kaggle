@@ -1,0 +1,19 @@
+{
+  "id": "abdullahsaida011/brain-tumor-mri-classification-using-cnn",
+  "id_no": 45210326,
+  "title": "Brain Tumor MRI Classification using cnn ",
+  "code_file": "brain-tumor-mri-classification-using-cnn.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [
+    "masoudnickparvar/brain-tumor-mri-dataset"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

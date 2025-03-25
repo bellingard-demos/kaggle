@@ -1,0 +1,19 @@
+{
+  "id": "abhi0787/eda-on-the-ship-disaster-huskycat",
+  "id_no": 11104077,
+  "title": "EDA on the ship disaster -- HuskyCat",
+  "code_file": "eda-on-the-ship-disaster-huskycat.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [
+    "christianlillelund/passenger-list-for-the-estonia-ferry-disaster"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

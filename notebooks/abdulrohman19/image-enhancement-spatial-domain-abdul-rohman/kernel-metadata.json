@@ -1,0 +1,24 @@
+{
+  "id": "abdulrohman19/image-enhancement-spatial-domain-abdul-rohman",
+  "id_no": 18486018,
+  "title": "Image Enhancement Spatial Domain - Abdul Rohman ",
+  "code_file": "image-enhancement-spatial-domain-abdul-rohman.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "cv2",
+    "matplotlib",
+    "numpy",
+    "PIL"
+  ],
+  "dataset_sources": [
+    "oddyvirgantara/dataset-tutorial-pcd"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

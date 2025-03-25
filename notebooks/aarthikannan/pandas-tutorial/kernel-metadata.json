@@ -1,0 +1,30 @@
+{
+  "id": "aarthikannan/pandas-tutorial",
+  "id_no": 9812584,
+  "title": "Pandas Tutorial",
+  "code_file": "pandas-tutorial.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "beginner"
+  ],
+  "dataset_sources": [
+    "rtatman/188-million-us-wildfires",
+    "nolanbconaway/pitchfork-data",
+    "datasnaek/chess",
+    "nasa/kepler-exoplanet-search-results",
+    "dansbecker/powerlifting-database",
+    "residentmario/ramen-ratings",
+    "residentmario/things-on-reddit",
+    "datasnaek/youtube-new",
+    "jpmiller/publicassistance",
+    "zynicide/wine-reviews"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

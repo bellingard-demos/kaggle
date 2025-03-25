@@ -1,0 +1,29 @@
+{
+  "id": "abhashrai/pandas-vs-polars-csv-reading-time",
+  "id_no": 46605961,
+  "title": "Pandas vs Polars - CSV Reading time",
+  "code_file": "pandas-vs-polars-csv-reading-time.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "asishpandey/crop-production-in-india",
+    "mczielinski/bitcoin-historical-data",
+    "thedrcat/daigt-proper-train-dataset",
+    "ahmedaliraja/e-commerece-sales-data-2023-24",
+    "maso0dahmed/football-players-data",
+    "mohammadrahdanmofrad/global-fire-burned-area",
+    "everydaycodings/global-news-dataset",
+    "ravindrasinghrana/job-description-dataset",
+    "asaniczka/product-titles-text-classification",
+    "mrmorj/political-advertisements-from-facebook",
+    "retailrocket/ecommerce-dataset"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

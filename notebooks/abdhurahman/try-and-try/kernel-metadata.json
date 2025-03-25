@@ -1,0 +1,19 @@
+{
+  "id": "abdhurahman/try-and-try",
+  "id_no": 40386532,
+  "title": "TRY AND TRY",
+  "code_file": "try-and-try.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    ""
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

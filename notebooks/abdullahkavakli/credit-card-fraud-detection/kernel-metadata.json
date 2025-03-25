@@ -1,0 +1,19 @@
+{
+  "id": "abdullahkavakli/credit-card-fraud-detection",
+  "id_no": 36440383,
+  "title": "\ud83d\udcb3Credit Card Fraud Detection",
+  "code_file": "credit-card-fraud-detection.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [
+    "mlg-ulb/creditcardfraud"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

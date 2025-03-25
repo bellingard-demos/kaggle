@@ -1,0 +1,19 @@
+{
+  "id": "abdallabola/weather-with-96-0-accuracy-visualization",
+  "id_no": 42140355,
+  "title": "weather with 96.0% Accuracy+visualization",
+  "code_file": "weather-with-96-0-accuracy-visualization.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "guillemservera/global-daily-climate-data"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

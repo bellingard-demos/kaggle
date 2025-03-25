@@ -1,0 +1,19 @@
+{
+  "id": "aarthikannan/data-visualization",
+  "id_no": 10064876,
+  "title": "Data_Visualization ",
+  "code_file": "data-visualization.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [
+    "parulpandey/palmer-archipelago-antarctica-penguin-data"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

@@ -1,0 +1,19 @@
+{
+  "id": "abhi231092/inferential-statistics-clt-and-ci",
+  "id_no": 36916198,
+  "title": "Inferential Statistics - CLT and CI",
+  "code_file": "inferential-statistics-clt-and-ci.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "burnoutminer/heights-and-weights-dataset"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

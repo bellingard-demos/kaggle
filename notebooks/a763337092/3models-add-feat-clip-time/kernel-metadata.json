@@ -1,0 +1,19 @@
+{
+  "id": "a763337092/3models-add-feat-clip-time",
+  "id_no": 7612806,
+  "title": "3models add feat clip_time",
+  "code_file": "3models-add-feat-clip-time.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [
+    "m7catsue/dsb2019-external-data"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

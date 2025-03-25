@@ -1,0 +1,19 @@
+{
+  "id": "aakashveera/polynomial-regression",
+  "id_no": 10558251,
+  "title": "Polynomial Regression",
+  "code_file": "polynomial-regression.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "covid19-global-forecasting-week-4"
+  ],
+  "model_sources": []
+}

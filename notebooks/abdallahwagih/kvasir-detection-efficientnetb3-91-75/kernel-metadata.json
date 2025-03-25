@@ -1,0 +1,19 @@
+{
+  "id": "abdallahwagih/kvasir-detection-efficientnetb3-91-75",
+  "id_no": 33204532,
+  "title": "Kvasir Detection | EfficientNetB3 |91.75%",
+  "code_file": "kvasir-detection-efficientnetb3-91-75.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [
+    "abdallahwagih/kvasir-dataset-for-classification-and-segmentation"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

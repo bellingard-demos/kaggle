@@ -1,0 +1,19 @@
+{
+  "id": "abdoashraf90/helthcare-diabetes-with-acuracy-99-using-knn",
+  "id_no": 47419330,
+  "title": "helthcare_diabetes_with acuracy 99% using KNN",
+  "code_file": "helthcare-diabetes-with-acuracy-99-using-knn.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [
+    "nanditapore/healthcare-diabetes"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

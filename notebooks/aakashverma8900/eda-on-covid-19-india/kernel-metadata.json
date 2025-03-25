@@ -1,0 +1,29 @@
+{
+  "id": "aakashverma8900/eda-on-covid-19-india",
+  "id_no": 14771398,
+  "title": "EDA on COVID-19 (India)",
+  "code_file": "eda-on-covid-19-india.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "covid19",
+    "pandas",
+    "india",
+    "geography",
+    "exploratory data analysis",
+    "matplotlib",
+    "numpy",
+    "seaborn"
+  ],
+  "dataset_sources": [
+    "sudalairajkumar/covid19-in-india",
+    "somacodes/india-states"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

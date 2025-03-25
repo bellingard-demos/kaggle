@@ -1,0 +1,19 @@
+{
+  "id": "abdallahwagih/nlp-transformers",
+  "id_no": 45177699,
+  "title": "NLP - Transformers",
+  "code_file": "nlp-transformers.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "sentiment-analysis-company-reviews"
+  ],
+  "model_sources": []
+}

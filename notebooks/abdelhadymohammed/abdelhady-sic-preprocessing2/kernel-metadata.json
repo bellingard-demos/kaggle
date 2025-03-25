@@ -1,0 +1,19 @@
+{
+  "id": "abdelhadymohammed/abdelhady-sic-preprocessing2",
+  "id_no": 42162700,
+  "title": "Abdelhady_SIC-Preprocessing2",
+  "code_file": "abdelhady-sic-preprocessing2.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "anthonypino/melbourne-housing-market"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

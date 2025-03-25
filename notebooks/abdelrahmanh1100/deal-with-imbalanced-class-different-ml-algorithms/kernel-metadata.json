@@ -1,0 +1,19 @@
+{
+  "id": "abdelrahmanh1100/deal-with-imbalanced-class-different-ml-algorithms",
+  "id_no": 33429901,
+  "title": "deal with imbalanced class+different Ml algorithms",
+  "code_file": "deal-with-imbalanced-class-different-ml-algorithms.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [
+    "mlg-ulb/creditcardfraud"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

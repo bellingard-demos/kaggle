@@ -1,0 +1,19 @@
+{
+  "id": "aaronzhang12/us-largest-companies-interactive-dashboards",
+  "id_no": 42338440,
+  "title": "US Largest Companies Interactive Dashboards",
+  "code_file": "us-largest-companies-interactive-dashboards.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [
+    "claymaker/us-largest-companies"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

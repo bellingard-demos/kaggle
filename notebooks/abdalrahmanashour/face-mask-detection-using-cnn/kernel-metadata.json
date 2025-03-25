@@ -1,0 +1,22 @@
+{
+  "id": "abdalrahmanashour/face-mask-detection-using-cnn",
+  "id_no": 14635114,
+  "title": "Face_Mask_Detection_using_CNN",
+  "code_file": "face-mask-detection-using-cnn.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "gpu",
+    "matplotlib"
+  ],
+  "dataset_sources": [
+    "prithwirajmitra/covid-face-mask-detection-dataset"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

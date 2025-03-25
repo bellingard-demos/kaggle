@@ -1,0 +1,27 @@
+{
+  "id": "aayushmishra1512/plant-pathology-starter",
+  "id_no": 15941742,
+  "title": "Plant-Pathology-Starter",
+  "code_file": "plant-pathology-starter.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "cv2",
+    "matplotlib",
+    "pandas",
+    "seaborn",
+    "tensorflow"
+  ],
+  "dataset_sources": [
+    "gaborfodor/keras-pretrained-models"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "plant-pathology-2021-fgvc8"
+  ],
+  "model_sources": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "abdallahmmosa/data-visualization-car",
+  "id_no": 31685080,
+  "title": "Data Visualization Car",
+  "code_file": "data-visualization-car.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "hellbuoy/car-price-prediction",
+    "mitchellharrison/top-500-movies-budget"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

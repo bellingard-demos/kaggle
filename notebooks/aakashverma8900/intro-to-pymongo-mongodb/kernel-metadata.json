@@ -1,0 +1,23 @@
+{
+  "id": "aakashverma8900/intro-to-pymongo-mongodb",
+  "id_no": 17005134,
+  "title": "Intro to PyMongo \ud83c\udf3f (MongoDB \ud83c\udf3f)",
+  "code_file": "intro-to-pymongo-mongodb.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "python",
+    "software",
+    "programming"
+  ],
+  "dataset_sources": [
+    ""
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

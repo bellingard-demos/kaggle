@@ -1,0 +1,19 @@
+{
+  "id": "abdelrhmannabill/marvel-characters-eda",
+  "id_no": 31661562,
+  "title": "Marvel Characters - EDA",
+  "code_file": "marvel-characters-eda.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "syedasimalishah/marvel-chracters"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

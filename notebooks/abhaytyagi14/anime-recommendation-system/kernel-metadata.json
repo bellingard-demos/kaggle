@@ -1,0 +1,19 @@
+{
+  "id": "abhaytyagi14/anime-recommendation-system",
+  "id_no": 41475191,
+  "title": "anime recommendation system",
+  "code_file": "anime-recommendation-system.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [
+    "crxxom/all-animes-in-mal"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

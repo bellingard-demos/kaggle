@@ -1,0 +1,21 @@
+{
+  "id": "abdallahwagih/effecientnetb3-tomato-disease-detection-99-81",
+  "id_no": 32013793,
+  "title": "EffecientNetB3-Tomato-Disease-Detection-99.81",
+  "code_file": "effecientnetb3-tomato-disease-detection-99-81.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [
+    "cookiefinder/tomato-disease-multiple-sources"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

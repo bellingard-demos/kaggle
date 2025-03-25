@@ -1,0 +1,19 @@
+{
+  "id": "aashitagrawal/eda-randomforest-housing-price-advanced",
+  "id_no": 38765466,
+  "title": "EDA + RandomForest - Housing Price Advanced",
+  "code_file": "eda-randomforest-housing-price-advanced.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "house-prices-advanced-regression-techniques"
+  ],
+  "model_sources": []
+}

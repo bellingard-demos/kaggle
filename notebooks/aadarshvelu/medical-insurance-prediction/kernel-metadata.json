@@ -1,0 +1,27 @@
+{
+  "id": "aadarshvelu/medical-insurance-prediction",
+  "id_no": 14419811,
+  "title": "Medical Insurance prediction",
+  "code_file": "medical-insurance-prediction.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "linear regression",
+    "medicine",
+    "insurance",
+    "beginner",
+    "matplotlib",
+    "pandas",
+    "sklearn"
+  ],
+  "dataset_sources": [
+    "mirichoi0218/insurance"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

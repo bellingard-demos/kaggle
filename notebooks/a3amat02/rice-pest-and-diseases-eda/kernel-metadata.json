@@ -1,0 +1,19 @@
+{
+  "id": "a3amat02/rice-pest-and-diseases-eda",
+  "id_no": 39310083,
+  "title": "Rice -Pest and Diseases EDA",
+  "code_file": "rice-pest-and-diseases-eda.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "zsinghrahulk/rice-pest-and-diseases"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

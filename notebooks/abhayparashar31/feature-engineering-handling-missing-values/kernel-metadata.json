@@ -1,0 +1,22 @@
+{
+  "id": "abhayparashar31/feature-engineering-handling-missing-values",
+  "id_no": 28016885,
+  "title": "Feature Engineering - Handling Missing Values",
+  "code_file": "feature-engineering-handling-missing-values.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "exploratory data analysis",
+    "feature engineering"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "titanic"
+  ],
+  "model_sources": []
+}

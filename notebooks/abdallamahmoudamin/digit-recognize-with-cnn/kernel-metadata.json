@@ -1,0 +1,19 @@
+{
+  "id": "abdallamahmoudamin/digit-recognize-with-cnn",
+  "id_no": 24335831,
+  "title": "Digit Recognize with CNN",
+  "code_file": "digit-recognize-with-cnn.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "digit-recognizer"
+  ],
+  "model_sources": []
+}

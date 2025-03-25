@@ -1,0 +1,19 @@
+{
+  "id": "a3amat02/crypto-currencies-eda-and-autoregression",
+  "id_no": 38855102,
+  "title": "Crypto Currencies EDA and AutoRegression",
+  "code_file": "crypto-currencies-eda-and-autoregression.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "jack232126/all-cryptocurrency-data"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

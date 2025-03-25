@@ -1,0 +1,19 @@
+{
+  "id": "abduallah123456/insuranceprediction",
+  "id_no": 30409498,
+  "title": "InsurancePrediction",
+  "code_file": "insuranceprediction.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "mirichoi0218/insurance"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

@@ -1,0 +1,19 @@
+{
+  "id": "aadhavvignesh/getting-started-with-the-calories-burned-dataset",
+  "id_no": 8971344,
+  "title": "Getting Started with the Calories Burned Dataset",
+  "code_file": "getting-started-with-the-calories-burned-dataset.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "aadhavvignesh/calories-burned-during-exercise-and-activities"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

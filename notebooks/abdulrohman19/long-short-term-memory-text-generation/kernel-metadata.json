@@ -1,0 +1,21 @@
+{
+  "id": "abdulrohman19/long-short-term-memory-text-generation",
+  "id_no": 25293366,
+  "title": "Long short-term Memory - Text generation",
+  "code_file": "long-short-term-memory-text-generation.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [
+    ""
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

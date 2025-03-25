@@ -1,0 +1,19 @@
+{
+  "id": "abdallahhassan22/eda-stroke-prediction",
+  "id_no": 29413375,
+  "title": "EDA + STROKE PREDICTION",
+  "code_file": "eda-stroke-prediction.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "zzettrkalpakbal/full-filled-brain-stroke-dataset"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

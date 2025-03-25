@@ -1,0 +1,19 @@
+{
+  "id": "abdullahshagnoba/data-visualization-2",
+  "id_no": 38681426,
+  "title": "Data Visualization 2",
+  "code_file": "data-visualization-2.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    ""
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

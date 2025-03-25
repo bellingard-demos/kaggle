@@ -1,0 +1,23 @@
+{
+  "id": "a763337092/blending-tensorflow-and-pytorch",
+  "id_no": 14549944,
+  "title": "Blending tensorflow and pytorch\ud83d\udd25\ud83d\udd25\ud83d\udd25",
+  "code_file": "blending-tensorflow-and-pytorch.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [
+    "a763337092/mlp012003weights"
+  ],
+  "kernel_sources": [
+    "code1110/jane-street-with-keras-nn-overfit"
+  ],
+  "competition_sources": [],
+  "model_sources": []
+}

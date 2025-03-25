@@ -1,0 +1,19 @@
+{
+  "id": "aagyapalkaur/time-series-analysis-apple-stock-eda",
+  "id_no": 45093247,
+  "title": "\u23f0Time_series_Analysis\u23f0 |\ud83c\udf4fApple_Stock|EDA\ud83d\udcc8 ",
+  "code_file": "time-series-analysis-apple-stock-eda.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "meetnagadia/apple-stock-price-from-19802021"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

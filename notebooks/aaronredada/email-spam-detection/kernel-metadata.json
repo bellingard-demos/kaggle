@@ -1,0 +1,19 @@
+{
+  "id": "aaronredada/email-spam-detection",
+  "id_no": 46440420,
+  "title": "Email Spam Detection",
+  "code_file": "email-spam-detection.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [
+    "singhayush16/practice"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

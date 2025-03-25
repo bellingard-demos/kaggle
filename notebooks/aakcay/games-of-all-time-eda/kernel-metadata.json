@@ -1,0 +1,22 @@
+{
+  "id": "aakcay/games-of-all-time-eda",
+  "id_no": 25723191,
+  "title": "Games of All Time EDA",
+  "code_file": "games-of-all-time-eda.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "games",
+    "video games"
+  ],
+  "dataset_sources": [
+    "xcherry/games-of-all-time-from-metacritic"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

@@ -1,0 +1,19 @@
+{
+  "id": "abdallahwagih/russian-letters-acc-99-84",
+  "id_no": 35310161,
+  "title": "Russian Letters | acc: 99.84%",
+  "code_file": "russian-letters-acc-99-84.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [
+    "gpiosenka/russian-letters-cropped"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

@@ -1,0 +1,19 @@
+{
+  "id": "aaronzhang12/fast-food-analysis-plotly-dash",
+  "id_no": 41987980,
+  "title": "Fast Food Analysis (Plotly & Dash)",
+  "code_file": "fast-food-analysis-plotly-dash.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [
+    "joebeachcapital/fast-food"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

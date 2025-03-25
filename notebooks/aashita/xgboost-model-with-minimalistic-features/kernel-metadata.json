@@ -1,0 +1,23 @@
+{
+  "id": "aashita/xgboost-model-with-minimalistic-features",
+  "id_no": 773364,
+  "title": "XGBoost model with minimalistic features",
+  "code_file": "xgboost-model-with-minimalistic-features.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "beginner",
+    "feature engineering",
+    "xgboost"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "titanic"
+  ],
+  "model_sources": []
+}

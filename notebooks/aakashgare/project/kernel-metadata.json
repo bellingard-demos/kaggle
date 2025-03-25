@@ -1,0 +1,19 @@
+{
+  "id": "aakashgare/project",
+  "id_no": 45821626,
+  "title": "Project",
+  "code_file": "project.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "imdevskp/corona-virus-report"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

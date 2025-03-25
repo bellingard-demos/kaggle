@@ -1,0 +1,26 @@
+{
+  "id": "abhashrai/cnn-digit-recognizer-for-beginners",
+  "id_no": 36511765,
+  "title": "(CNN) Digit Recognizer for beginners",
+  "code_file": "cnn-digit-recognizer-for-beginners.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "keras",
+    "beginner",
+    "python",
+    "cnn",
+    "computer vision",
+    "gpu"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "digit-recognizer"
+  ],
+  "model_sources": []
+}

@@ -1,0 +1,24 @@
+{
+  "id": "abdelrahmanralarqan/hr-visualization",
+  "id_no": 19343550,
+  "title": "HR Visualization",
+  "code_file": "hr-visualization.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "matplotlib",
+    "pandas",
+    "plotly",
+    "seaborn"
+  ],
+  "dataset_sources": [
+    "rhuebner/human-resources-data-set"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

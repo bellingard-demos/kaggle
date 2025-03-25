@@ -1,0 +1,24 @@
+{
+  "id": "aakcay/student-data-analysis-visualization",
+  "id_no": 28900762,
+  "title": "Student Data Analysis&Visualization",
+  "code_file": "student-data-analysis-visualization.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "data visualization",
+    "beginner",
+    "statistical analysis",
+    "people and society"
+  ],
+  "dataset_sources": [
+    "devansodariya/student-performance-data"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

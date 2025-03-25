@@ -1,0 +1,24 @@
+{
+  "id": "abdelrahmanalimo/machines-failure",
+  "id_no": 40181984,
+  "title": "Machines failure \ud83e\udd20",
+  "code_file": "machines-failure.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "pandas",
+    "sklearn",
+    "xgboost",
+    "python"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "playground-series-s3e17"
+  ],
+  "model_sources": []
+}

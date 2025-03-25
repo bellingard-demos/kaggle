@@ -1,0 +1,19 @@
+{
+  "id": "aagyapalkaur/beginners-rainpred-eda-votingclassifier82-4",
+  "id_no": 42401063,
+  "title": "\ud83e\uddd1\u200d\ud83c\udf93Beginners|RainPred\ud83d\udccaEDA+VotingClassifier82.4%",
+  "code_file": "beginners-rainpred-eda-votingclassifier82-4.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "jsphyg/weather-dataset-rattle-package"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

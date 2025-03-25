@@ -1,0 +1,19 @@
+{
+  "id": "abdallahwagih/car-sales-price-prediction-using-ann",
+  "id_no": 41134800,
+  "title": "Car Sales Price Prediction Using ANN",
+  "code_file": "car-sales-price-prediction-using-ann.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [
+    "yashpaloswal/ann-car-sales-price-prediction"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

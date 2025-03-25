@@ -1,0 +1,19 @@
+{
+  "id": "abdulrahmanelbanna/breast-cancer-classifier",
+  "id_no": 43313292,
+  "title": "Breast Cancer Classifier",
+  "code_file": "breast-cancer-classifier.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "abdulrahmanelbanna/breast-cancer"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

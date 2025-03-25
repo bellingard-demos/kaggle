@@ -1,0 +1,19 @@
+{
+  "id": "a3amat02/type-of-complaint-text-classification",
+  "id_no": 38601153,
+  "title": "Type of Complaint Text Classification",
+  "code_file": "type-of-complaint-text-classification.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "omarsobhy14/university-students-complaints-and-reports"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

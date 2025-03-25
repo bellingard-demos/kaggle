@@ -1,0 +1,25 @@
+{
+  "id": "aarushi211/exploratory-data-analysis-eda",
+  "id_no": 22323978,
+  "title": "Exploratory Data Analysis (EDA)",
+  "code_file": "exploratory-data-analysis-eda.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "diabetes",
+    "exploratory data analysis",
+    "data analytics",
+    "feature engineering",
+    "random forest"
+  ],
+  "dataset_sources": [
+    "uciml/pima-indians-diabetes-database"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

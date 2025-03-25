@@ -1,0 +1,19 @@
+{
+  "id": "aashidutt3/eda-phones-dataset-from-amazon",
+  "id_no": 29816233,
+  "title": "\ud83d\udcf1EDA: Phones-dataset-from-amazon",
+  "code_file": "eda-phones-dataset-from-amazon.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "narayan63/phonesonamazon"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

@@ -1,0 +1,19 @@
+{
+  "id": "aashidutt3/lung-cancer-detection-using-classification",
+  "id_no": 29043824,
+  "title": "\ud83e\ude7aLung Cancer detection using Classification",
+  "code_file": "lung-cancer-detection-using-classification.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "jillanisofttech/lung-cancer-detection"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

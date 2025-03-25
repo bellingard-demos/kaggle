@@ -1,0 +1,19 @@
+{
+  "id": "abduallah123456/car-price",
+  "id_no": 30086444,
+  "title": "Car_Price",
+  "code_file": "car-price.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "nehalbirla/vehicle-dataset-from-cardekho"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

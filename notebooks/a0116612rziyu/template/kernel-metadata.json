@@ -1,0 +1,19 @@
+{
+  "id": "a0116612rziyu/template",
+  "id_no": 23843805,
+  "title": "template",
+  "code_file": "template.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "hdbresale"
+  ],
+  "model_sources": []
+}

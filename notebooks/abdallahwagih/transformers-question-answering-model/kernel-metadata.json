@@ -1,0 +1,17 @@
+{
+  "id": "abdallahwagih/transformers-question-answering-model",
+  "id_no": 45274005,
+  "title": "Transformers - Question Answering model",
+  "code_file": "transformers-question-answering-model.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

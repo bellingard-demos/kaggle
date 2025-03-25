@@ -1,0 +1,19 @@
+{
+  "id": "abdallhwerby/tight-preprocessing-for-a-99-acc-classification",
+  "id_no": 30441371,
+  "title": "Tight preprocessing for a 99%  Acc. classification",
+  "code_file": "tight-preprocessing-for-a-99-acc-classification.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "hassan06/nslkdd"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

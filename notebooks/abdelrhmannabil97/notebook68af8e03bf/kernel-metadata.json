@@ -1,0 +1,24 @@
+{
+  "id": "abdelrhmannabil97/notebook68af8e03bf",
+  "id_no": 20391852,
+  "title": "notebook68af8e03bf",
+  "code_file": "notebook68af8e03bf.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "matplotlib",
+    "numpy",
+    "pandas",
+    "seaborn"
+  ],
+  "dataset_sources": [
+    "uciml/pima-indians-diabetes-database"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

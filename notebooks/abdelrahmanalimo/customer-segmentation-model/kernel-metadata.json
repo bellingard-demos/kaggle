@@ -1,0 +1,24 @@
+{
+  "id": "abdelrahmanalimo/customer-segmentation-model",
+  "id_no": 42340684,
+  "title": "customer segmentation model",
+  "code_file": "customer-segmentation-model.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "pandas",
+    "k-means",
+    "pca",
+    "clustering"
+  ],
+  "dataset_sources": [
+    "abdelrahmanalimo/sales-ecommerce"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

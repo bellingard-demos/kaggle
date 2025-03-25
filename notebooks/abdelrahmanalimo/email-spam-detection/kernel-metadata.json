@@ -1,0 +1,23 @@
+{
+  "id": "abdelrahmanalimo/email-spam-detection",
+  "id_no": 44874222,
+  "title": "Email Spam detection",
+  "code_file": "email-spam-detection.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "email and messaging",
+    "naive bayes",
+    "python"
+  ],
+  "dataset_sources": [
+    ""
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

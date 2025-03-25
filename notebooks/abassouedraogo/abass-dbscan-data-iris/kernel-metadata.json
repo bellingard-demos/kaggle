@@ -1,0 +1,19 @@
+{
+  "id": "abassouedraogo/abass-dbscan-data-iris",
+  "id_no": 36294085,
+  "title": "Abass_DBSCAN_data_Iris",
+  "code_file": "abass-dbscan-data-iris.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [
+    "uciml/iris"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

@@ -1,0 +1,19 @@
+{
+  "id": "abdoulsn/classify-forest-types-learn",
+  "id_no": 6993870,
+  "title": "Classify forest types (learn)",
+  "code_file": "classify-forest-types-learn.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

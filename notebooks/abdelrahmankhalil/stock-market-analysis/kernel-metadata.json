@@ -1,0 +1,19 @@
+{
+  "id": "abdelrahmankhalil/stock-market-analysis",
+  "id_no": 40875991,
+  "title": "Stock Market Analysis",
+  "code_file": "stock-market-analysis.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "amirmotefaker/stock-market-analysis-data"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

@@ -1,0 +1,19 @@
+{
+  "id": "abdallahwagih/bottle-synthetic-classification-acc-99",
+  "id_no": 35346892,
+  "title": "Bottle Synthetic Classification | Acc: 99 %",
+  "code_file": "bottle-synthetic-classification-acc-99.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [
+    "vencerlanz09/bottle-synthetic-images-dataset"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

@@ -1,0 +1,24 @@
+{
+  "id": "abdelrahmanalimo/emotion-nlp",
+  "id_no": 42029076,
+  "title": "Emotion NLP",
+  "code_file": "emotion-nlp.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "nlp",
+    "social networks",
+    "nltk",
+    "logistic regression"
+  ],
+  "dataset_sources": [
+    ""
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

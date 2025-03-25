@@ -1,0 +1,29 @@
+{
+  "id": "aayushmishra1512/twitch-top-streamers-data-eda-linearreg",
+  "id_no": 11284735,
+  "title": "Twitch Top Streamers Data - EDA+LinearReg\ud83d\udcbb\ud83c\udfae\ud83d\udcc8",
+  "code_file": "twitch-top-streamers-data-eda-linearreg.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "data visualization",
+    "exploratory data analysis",
+    "online communities",
+    "business",
+    "internet",
+    "matplotlib",
+    "numpy",
+    "pandas",
+    "seaborn"
+  ],
+  "dataset_sources": [
+    "aayushmishra1512/twitchdata"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

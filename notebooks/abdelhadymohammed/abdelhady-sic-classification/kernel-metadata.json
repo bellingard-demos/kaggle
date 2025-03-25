@@ -1,0 +1,19 @@
+{
+  "id": "abdelhadymohammed/abdelhady-sic-classification",
+  "id_no": 42403017,
+  "title": "Abdelhady-SIC_Classification",
+  "code_file": "abdelhady-sic-classification.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "akshithsagar/miniproject-5"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

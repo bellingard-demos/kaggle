@@ -1,0 +1,19 @@
+{
+  "id": "abdallahwagih/sber-aml-workshop-2022",
+  "id_no": 43730312,
+  "title": "sber_aml_workshop_2022",
+  "code_file": "sber-aml-workshop-2022.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [
+    "vagifa/ethereum-frauddetection-dataset"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

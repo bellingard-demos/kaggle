@@ -1,0 +1,19 @@
+{
+  "id": "aashidutt3/eda-iit-nit-category-wise-cutoff-data",
+  "id_no": 28857179,
+  "title": "EDA: IIT-NIT category-wise cutoff data",
+  "code_file": "eda-iit-nit-category-wise-cutoff-data.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "rumbleftw/iit-nit-data"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

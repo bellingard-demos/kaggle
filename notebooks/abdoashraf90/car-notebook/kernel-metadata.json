@@ -1,0 +1,19 @@
+{
+  "id": "abdoashraf90/car-notebook",
+  "id_no": 44138968,
+  "title": "Car_NoteBook",
+  "code_file": "car-notebook.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [
+    "tawfikelmetwally/automobile-dataset"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

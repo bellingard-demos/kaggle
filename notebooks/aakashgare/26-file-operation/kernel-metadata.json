@@ -1,0 +1,20 @@
+{
+  "id": "aakashgare/26-file-operation",
+  "id_no": 41782571,
+  "title": "26.File operation",
+  "code_file": "26-file-operation.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "swaroopkml/cifar10-pngs-in-folders",
+    "paultimothymooney/poetry"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

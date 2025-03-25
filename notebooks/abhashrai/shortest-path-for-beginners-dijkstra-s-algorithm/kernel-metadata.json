@@ -1,0 +1,24 @@
+{
+  "id": "abhashrai/shortest-path-for-beginners-dijkstra-s-algorithm",
+  "id_no": 37471506,
+  "title": "Shortest Path for Beginners | Dijkstra's Algorithm",
+  "code_file": "shortest-path-for-beginners-dijkstra-s-algorithm.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "python",
+    "beginner",
+    "global",
+    "computer science"
+  ],
+  "dataset_sources": [
+    ""
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

@@ -1,0 +1,19 @@
+{
+  "id": "aaronzhang12/stock-visualization-plotly-dash",
+  "id_no": 42146899,
+  "title": "Stock Visualization (Plotly & Dash)",
+  "code_file": "stock-visualization-plotly-dash.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [
+    "adityamhaske/maang-stock-prices-july-2018-to-july-2023"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

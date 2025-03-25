@@ -1,0 +1,19 @@
+{
+  "id": "aashidutt3/heart-attack-analysis-and-prediction",
+  "id_no": 43582234,
+  "title": "\u2764\ufe0fHeart Attack Analysis and Prediction\u2764\ufe0f",
+  "code_file": "heart-attack-analysis-and-prediction.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [
+    "rashikrahmanpritom/heart-attack-analysis-prediction-dataset"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

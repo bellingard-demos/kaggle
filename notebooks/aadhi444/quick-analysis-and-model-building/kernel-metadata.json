@@ -1,0 +1,25 @@
+{
+  "id": "aadhi444/quick-analysis-and-model-building",
+  "id_no": 994472,
+  "title": "Quick Analysis and Model Building",
+  "code_file": "quick-analysis-and-model-building.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "data visualization",
+    "beginner",
+    "classification",
+    "feature engineering",
+    "data cleaning"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "titanic"
+  ],
+  "model_sources": []
+}

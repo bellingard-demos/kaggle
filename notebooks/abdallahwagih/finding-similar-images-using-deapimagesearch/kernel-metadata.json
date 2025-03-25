@@ -1,0 +1,20 @@
+{
+  "id": "abdallahwagih/finding-similar-images-using-deapimagesearch",
+  "id_no": 38284198,
+  "title": "Finding Similar Images using DeapImageSearch",
+  "code_file": "finding-similar-images-using-deapimagesearch.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [
+    "",
+    "arnaud58/landscape-pictures"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

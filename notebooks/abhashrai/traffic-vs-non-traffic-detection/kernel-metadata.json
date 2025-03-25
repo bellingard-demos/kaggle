@@ -1,0 +1,21 @@
+{
+  "id": "abhashrai/traffic-vs-non-traffic-detection",
+  "id_no": 40017363,
+  "title": "Traffic vs non traffic detection",
+  "code_file": "traffic-vs-non-traffic-detection.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [
+    ""
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

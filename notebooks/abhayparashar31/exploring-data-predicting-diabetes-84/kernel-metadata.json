@@ -1,0 +1,24 @@
+{
+  "id": "abhayparashar31/exploring-data-predicting-diabetes-84",
+  "id_no": 26059436,
+  "title": "Exploring Data & Predicting Diabetes (84%)",
+  "code_file": "exploring-data-predicting-diabetes-84.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "diabetes",
+    "exploratory data analysis",
+    "data visualization",
+    "logistic regression"
+  ],
+  "dataset_sources": [
+    "uciml/pima-indians-diabetes-database"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}
